@@ -5,8 +5,10 @@
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
 | **animation** | hoạt ảnh, hoạt họa | animate = tạo chuyển động | Reading 1 |
+| **animators** | các nhà làm hoạt hình | animate = tạo hoạt ảnh | Reading 2 |
 | **attribute** | thuộc tính | | Reading 2 |
 | **bitmap / raster** | đồ họa bitmap (raster) | bit = hạt màu, map = bản đồ | Reading 1 |
+| **bitmaps** | ảnh bitmap | bit = đơn vị nhị phân, map = bản đồ | Reading 2 |
 | **CAD** | thiết kế hỗ trợ bằng máy tính | Computer Aided Design | Reading 1 |
 | **composite** | ghép ảnh | composite = hỗn hợp | Reading 1 |
 | **crop** | cắt cúp ảnh | crop = thu hoạch/cắt ngắn | Ex F |
@@ -18,12 +20,16 @@
 | **GIS** | hệ thống thông tin địa lý | Geographic Information Systems | Reading 1 |
 | **illustration** | hình minh họa | illustrate = minh họa | Reading 1 |
 | **jagged edge** | nét răng cưa vỡ hình | jagged = lởm chởm, edge = cạnh | Reading 1, Ex B |
+| **painting** | tô màu, vẽ tranh | paint = sơn, màu | Reading 2 |
 | **pixel** | điểm ảnh | picture element | Reading 1 |
 | **primitive** | hình học cơ bản | primitive = sơ khởi | Reading 2 |
+| **raster graphics** | đồ họa raster | raster = lưới điểm ảnh | Reading 2 |
 | **rendering** | kết xuất đồ họa | render = trả về/kết xuất | Reading 1, Ex B |
 | **resolution** | độ phân giải | resolve = phân tích rõ | Reading 1, Ex B |
+| **rotating** | xoay | rotate = quay vòng | Reading 2 |
 | **rotation** | phép xoay | rotate = xoay | Reading 2, Ex G |
 | **scaling** | co giãn tỉ lệ | scale = thang đo/tỷ lệ | Reading 1, Reading 2 |
+| **select** | chọn | select = tuyển chọn | Reading 2 |
 | **solid modeling** | dựng hình khối đặc | solid = thể rắn | Reading 1 |
 | **texturing** | tạo kết cấu bề mặt | texture = vân/vải dệt | Reading 1 |
 | **translation** | phép tịnh tiến, di chuyển | translate = chuyển dịch | Reading 2 |

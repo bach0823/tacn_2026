@@ -16,6 +16,7 @@
 | **dictation** | sự đọc cho chép | dictate = đọc cho chép | Reading 3 |
 | **double-click** | nhấp đúp | double = gấp đôi, click = nhấp chuột | Reading 2 |
 | **drag and drop** | kéo và thả | drag = kéo, drop = thả | Reading 2 |
+| **enter information** | nhập thông tin | enter = đi vào, nạp vào | Reading 1 |
 | **function keys** | phím chức năng | function = chức năng | Keyboard layout |
 | **game controller** | tay cầm chơi game | game = trò chơi, control = điều khiển | Reading 1 |
 | **grab** | nắm, túm lấy góc | | Reading 2 |
@@ -25,16 +26,19 @@
 | **light pen** | bút quang | light = ánh sáng, pen = bút | Reading 1 |
 | **microphone** | micrô | micro = nhỏ, phone = tiếng | Reading 1 |
 | **mouse** | chuột máy tính | mouse = con chuột | Reading 1, 2 |
+| **move** | di chuyển | move = di động | Reading 2 |
 | **numeric keypad** | bàn phím số phụ | numeric = số | Keyboard layout |
 | **optical sensor** | cảm biến quang học | optic = mắt/ánh sáng | Reading 2 |
 | **return/enter** | phím xuống dòng, xác nhận | return = quay lại, enter = vào | Ex C |
 | **scanner** | máy quét tài liệu | scan = quét | Reading 1 |
+| **select** | chọn | select = lựa chọn | Reading 2 |
 | **shift** | phím shift | shift = chuyển đổi | Ex C |
 | **sound card** | card âm thanh | card = thẻ | Reading 3 |
 | **space bar** | thanh phím cách | space = khoảng trống, bar = thanh | Ex C |
 | **speech recognition** | nhận dạng giọng nói | speech = lời nói, recognition = nhận dạng | Reading 3 |
 | **tab** | phím tabulator | tabulator = kẻ bảng | Ex C |
 | **trackball** | chuột bi ngược | track = theo dấu, ball = bóng | Reading 1 |
+| **train** | huấn luyện | training = sự huấn luyện | Reading 3 |
 
 ---
 

@@ -4,6 +4,7 @@
 
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
+| **@ sign** | ký tự @ | at sign | Reading 2 |
 | **ADSL** | đường thuê bao số bất đối xứng | ADSL | Reading 1, Ex D |
 | **attachment** | tệp đính kèm email | attach = đính kèm | Reading 3, Ex G |
 | **Bcc** | bản sao ẩn danh | blind carbon copy | Reading 3 |
@@ -11,8 +12,10 @@
 | **cable** | cáp đường truyền | | Reading 1 |
 | **Cc** | bản sao thông báo | carbon copy | Reading 3 |
 | **chat** | trò chuyện trực tuyến | chat = tán gẫu | Reading 2, Ex E |
+| **domain name** | tên miền | domain = lãnh thổ, miền | Reading 2 |
 | **email client** | phần mềm email khách | client = máy khách | Reading 3, Ex G |
 | **emoticon** | biểu tượng cảm xúc | emotion + icon | Reading 3, Ex G |
+| **from** | người gửi | from = từ ai | Reading 2 |
 | **FTP** | giao thức truyền tải tệp tin | File Transfer Protocol | Reading 2, Ex E |
 | **hotspot** | điểm phát sóng Wi-Fi công cộng | hot = nóng, spot = điểm | Reading 1, Ex D |
 | **IP address** | địa chỉ IP máy tính | Internet Protocol | Reading 1, Ex G |
@@ -23,17 +26,22 @@
 | **mailing list** | danh sách gửi thư tự động | mail = thư, list = danh sách | Reading 2, Ex F |
 | **message thread** | luồng tin nhắn thảo luận | thread = sợi chỉ | Reading 2, Ex F |
 | **modem** | bộ điều giải tín hiệu | modulator + demodulator | Reading 1, Ex C |
-| **newsreader** | trình đọc tin Usenet | news = tin, reader = người đọc | Reading 2, Ex F |
 | **newsgroup** | nhóm tin thảo luận công cộng | news = tin, group = nhóm | Reading 2, Ex E |
+| **newsreader** | trình đọc tin Usenet | news = tin, reader = người đọc | Reading 2, Ex F |
+| **signature file** | tệp chữ ký | signature = chữ ký | Reading 2 |
+| **smileys** | biểu tượng cảm xúc | smiley = mặt cười | Reading 2 |
 | **spam** | thư rác quảng cáo | | Reading 3, Ex G |
 | **subject** | chủ đề bức thư | subject = môn học/chủ đề | Reading 3, Ex G |
 | **TCP/IP** | bộ giao thức truyền thông Internet | Transmission Control Protocol | Reading 1, Ex D |
 | **Telnet** | điều khiển máy tính từ xa | tele = từ xa, net = mạng | Reading 2, Ex E |
+| **threads** | luồng tin nhắn | thread = sợi chỉ, luồng thảo luận | Reading 2 |
 | **Usenet** | hệ thống nhóm tin Usenet | User Network | Reading 2 |
+| **username** | tên người dùng | user = người dùng, name = tên | Reading 2 |
 | **web browser** | trình duyệt web | browse = xem qua | Reading 2, Ex F |
 | **web forum** | diễn đàn mạng | forum = diễn đàn | Reading 2 |
 | **web server** | máy chủ lưu trữ trang web | server = máy chủ | Reading 2 |
 | **web-based email** | dịch vụ thư trên nền web | web = mạng | Reading 3 |
+| **wi-fi** | mạng không dây Wi-Fi | Wireless Fidelity | Reading 1 |
 | **wireless router** | bộ định tuyến không dây | wire = dây, less = không | Ex C |
 
 ---

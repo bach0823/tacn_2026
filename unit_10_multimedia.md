@@ -5,13 +5,19 @@
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
 | **CD ripper** | phần mềm trích xuất CD | rip = trích xuất, tách nhạc từ CD | Reading 2, Ex B |
+| **compresses audio files** | nén các tệp âm thanh | compress = nén | Reading 2 |
 | **DAW** | trạm làm việc âm thanh kỹ thuật số | Digital Audio Workstation | Reading 2, Glossary |
+| **dictionaries and encyclopedias** | từ điển và bách khoa toàn thư | encyclopedia = bách khoa toàn thư | Reading 4 |
+| **digital video camera** | máy quay video kỹ thuật số | camera = máy ảnh, máy quay | Reading 3 |
+| **educational courses** | các khóa học giáo dục | education = giáo dục | Reading 4 |
 | **hypermedia** | siêu phương tiện (hypermedia) | hyper = siêu, media = đa phương tiện | Reading 1, Ex C |
 | **hypertext** | siêu văn bản | hyper = siêu, text = văn bản | Reading 1, Ex C |
+| **information kiosks** | trạm thông tin công cộng | kiosk = quầy thông tin | Reading 1 |
 | **interactivity** | tính tương tác | interactive = tương tác | Reading 1 |
 | **MIDI** | giao diện số nhạc cụ | Musical Instrument Digital Interface | Reading 2, Ex B |
 | **MP3** | định dạng âm thanh nén | MPEG audio player 3 | Reading 2, Ex B |
 | **multimedia** | đa phương tiện | multi = nhiều, media = phương tiện | Reading 1, Ex B |
+| **musical instrument digital interface** | giao diện kỹ thuật số dành cho nhạc cụ | MIDI | Reading 2 |
 | **optical disc** | đĩa quang | optic = quang học, đĩa CD/DVD | Reading 1, Ex B |
 | **plug-in** | phần mềm cắm thêm | plug = cắm, in = vào | Reading 2 |
 | **sound card** | card âm thanh | card xử lý tín hiệu âm thanh | Reading 2, Ex B |

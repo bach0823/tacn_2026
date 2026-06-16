@@ -4,27 +4,38 @@
 
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
+| **access the Internet** | truy cập Internet | Internet = mạng toàn cầu | Reading 1, Ex C |
 | **air traffic** | giao thông hàng không | air = không trung, traffic = giao thông | Reading 2 |
 | **ATM** | máy rút tiền tự động | Automatic Teller Machine | Reading 2, Ex A |
 | **built-in** | tích hợp sẵn | build = xây dựng, in = trong | Vocab, Reading 1 |
+| **calls** | các cuộc gọi | call = cuộc gọi | Reading 1 |
 | **cashpoint** | điểm rút tiền (ATM) | cash = tiền mặt, point = điểm | Reading 2, Ex A |
 | **collocation** | cụm từ cố định | co- = cùng, location = vị trí | Ex C, D |
+| **complete** | hoàn thành | complete = hoàn thành | Reading 1 |
 | **database** | cơ sở dữ liệu | data = dữ liệu, base = nền tảng | Vocab, Reading 1 |
 | **digital age** | kỷ nguyên số | digital = số, age = thời đại | Vocab, Reading 1 |
 | **digital generation** | thế hệ số | generation = thế hệ | Reading 1 |
 | **dispense** | nhả tiền, phân phát | | Reading 2 |
 | **display** | hiển thị | play = chơi/trình diễn | Reading 2 |
+| **do basic research** | tra cứu thông tin cơ bản | research = nghiên cứu | Reading 1 |
+| **exercises** | bài tập | exercise = bài tập | Reading 1 |
 | **fuel consumption** | lượng tiêu thụ nhiên liệu | consume = tiêu thụ | Reading 2 |
 | **gadget** | thiết bị nhỏ, tiện ích | | Vocab, Magic of computers |
+| **give presentations** | thuyết trình | presentation = bài trình bày | Reading 1 |
 | **GPS** | hệ thống định vị toàn cầu | Global Positioning System | Reading 1 |
+| **keep records** | lưu giữ hồ sơ | records = hồ sơ, sổ sách | Reading 1 |
+| **make** | thực hiện | make = làm, thực hiện | Reading 1 |
 | **monitor** | màn hình | | Reading 2 |
 | **online banking** | dịch vụ ngân hàng trực tuyến | bank = ngân hàng | Reading 2 |
+| **operations** | các phép tính | operation = phép tính | Reading 1 |
 | **perform** | thực hiện, thi hành | performance = sự thể hiện | Vocab, Reading 1 |
 | **PIN** | mã số định danh cá nhân | Personal Identification Number | Reading 2 |
 | **regulate** | điều phối, điều tiết | regular = đều đặn | Reading 2 |
+| **send texts** | gửi tin nhắn văn bản | text = tin nhắn | Reading 1 |
 | **spring to life** | hoạt động sôi nổi | spring = nảy lên | Vocab, Magic of computers |
 | **travel agency** | đại lý du lịch | travel = du lịch | Reading 2 |
 | **word processor** | phần mềm soạn thảo văn bản | word = từ, processor = bộ xử lý | Vocab, Reading 1 |
+| **write letters** | viết thư | letter = thư | Reading 1 |
 
 ---
 

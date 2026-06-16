@@ -4,17 +4,22 @@
 
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
+| **analyze budgets** | phân tích ngân sách | budget = ngân sách | Reading 1 |
 | **anti-spyware** | chống gián điệp | anti = chống, spy = gián điệp | Letter |
 | **cell** | ô tính | | Reading 1, Ex A |
 | **column** | cột | | Reading 1, Ex A |
 | **database** | cơ sở dữ liệu | | Reading 3, Ex E |
 | **DBMS** | hệ quản trị cơ sở dữ liệu | Database Management System | Reading 3, Ex D |
+| **dear ms atkinson** | kính gửi cô Atkinson | dear = thân gửi | Reading 2 |
 | **description** | mô tả | describe = mô tả | Ex B |
+| **fields** | các trường dữ liệu | field = trường thông tin | Reading 2 |
+| **files** | các tệp tin | file = hồ sơ, tệp tin | Reading 2 |
 | **formula (formulae)** | công thức | | Reading 1, Ex B |
 | **grand total** | tổng thanh toán | grand = lớn, total = tổng | Ex B |
 | **index** | chỉ mục, danh mục | | Reading 3, Ex E |
 | **invoice** | hóa đơn | | Reading 2, Ex B |
 | **key field** | trường khóa liên kết | key = khóa, field = trường | Reading 3, Ex C |
+| **make specific calculations** | thực hiện các phép tính cụ thể | calculation = phép tính | Reading 1 |
 | **password** | mật khẩu | pass = đi qua, word = từ | Reading 3, Ex D |
 | **quantity** | số lượng | quantity | Ex B |
 | **query** | truy vấn | | Reading 3, Ex E |
@@ -22,10 +27,12 @@
 | **record** | bản ghi dữ liệu | | Reading 3, Ex E |
 | **relational database** | cơ sở dữ liệu quan hệ | relation = mối quan hệ | Reading 3, Ex E |
 | **row** | hàng | | Reading 1, Ex A |
+| **search** | tìm kiếm | search = tìm kiếm | Reading 2 |
 | **sort** | sắp xếp, phân loại | | Reading 3, Ex E |
 | **spreadsheet** | bảng tính | spread = trải rộng, sheet = tờ giấy | Reading 1 |
 | **VAT** | thuế giá trị gia tăng | Value Added Tax | Ex B |
 | **worksheet** | trang tính | work = làm việc, sheet = trang | Reading 1 |
+| **yours sincerely** | trân trọng | sincerely = chân thành | Reading 2 |
 
 ---
 

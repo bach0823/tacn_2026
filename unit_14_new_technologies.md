@@ -12,20 +12,28 @@
 | **embedded** | được nhúng, tích hợp | embed = gắn vào | Ubiquitous Computing |
 | **expert system** | hệ chuyên gia | expert = chuyên nghiệp | AI section |
 | **facial recognition** | nhận diện khuôn mặt | facial = khuôn mặt | Biometrics |
+| **home area network** | mạng nội bộ gia đình | home = nhà, network = mạng | Reading 4 |
 | **humanoid** | dạng người, giống người | human + oid | AI section |
 | **iris pattern** | mẫu mống mắt | iris = mống mắt | Biometrics |
 | **nanobot** | robot siêu nhỏ (nano) | nano + bot | Nanotechnology |
+| **nanocomputers** | máy tính siêu nhỏ (máy tính nano) | nano = siêu nhỏ | Reading 1 |
+| **nanomaterials** | vật liệu nano | material = vật chất, vật liệu | Reading 1 |
+| **nanomedicine** | y học nano | medicine = y học, thuốc | Reading 1 |
 | **nanometre** | na-nô-mét | nano + metre | Nanotechnology |
 | **nanotechnology** | công nghệ nano | nano + technology | Nanotechnology |
 | **nanotransistor** | bóng bán dẫn nano | nano + transistor | Nanotechnology |
 | **nanotube** | ống nano carbon | nano + tube | Nanotechnology |
 | **passive tag** | thẻ RFID thụ động | passive = thụ động | RFID section |
 | **pervasive computing** | điện toán phổ biến, lan tỏa | pervasive = lan tỏa | Ubiquitous Computing |
+| **radio frequency identification** | nhận dạng tần số vô tuyến | RFID | Reading 5 |
 | **radio tag** | thẻ vô tuyến | | RFID section |
 | **retina pattern** | mẫu võng mạc | retina = võng mạc | Biometrics |
 | **RFID** | nhận dạng qua tần số vô tuyến | Radio Frequency Identification | RFID section |
+| **robotics** | robot học | robot = người máy | Reading 2 |
 | **smart device** | thiết bị thông minh | smart = thông minh | Ubiquitous Computing |
+| **steal a person's identity** | đánh cắp danh tính | steal = ăn cắp, identity = danh tính | Reading 5 |
 | **ubiquitous computing** | điện toán hiện diện khắp nơi | ubiquitous = mọi nơi | Ubiquitous Computing |
+| **ubiquitous devices** | thiết bị hiện diện khắp nơi | ubiquitous = khắp nơi | Reading 3 |
 
 ---
 

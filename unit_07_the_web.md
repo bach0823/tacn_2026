@@ -4,10 +4,15 @@
 
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
+| **.com** | tên miền thương mại (.com) | commercial = thương mại | Reading 2 |
+| **.edu** | tên miền giáo dục (.edu) | education = giáo dục | Reading 2 |
+| **.net** | tên miền mạng (.net) | network = mạng lưới | Reading 2 |
 | **ADSL** | đường thuê bao số bất đối xứng | ADSL | Reading 1 |
 | **attachment** | tệp đính kèm | attach = đính kèm | Reading 3 |
 | **authorization** | sự xác thực | authorize = ủy quyền | Reading 3, Ex F |
+| **bbc.co.uk** | trang web bbc.co.uk | BBC website | Reading 2 |
 | **BitTorrent** | giao thức BitTorrent | torrent = dòng lũ | Reading 2 |
+| **blog software** | phần mềm blog | blog = nhật ký mạng | Reading 2 |
 | **bookmark** | dấu trang | book = sách, mark = dấu | Reading 1 |
 | **broadband** | băng thông rộng | broad = rộng, band = băng tần | Reading 1 |
 | **browse** | lướt web, duyệt qua | browser = trình duyệt | Reading 3, Ex F |
@@ -28,6 +33,7 @@
 | **field** | trường dữ liệu | field = cánh đồng/ô dữ liệu | Reading 3 |
 | **FTP** | giao thức truyền tệp | File Transfer Protocol | Reading 2 |
 | **hotspot** | điểm phát Wi-Fi công cộng | hot = nóng, spot = điểm | Reading 1 |
+| **http://** | giao thức truyền siêu văn bản (http://) | Hypertext Transfer Protocol | Reading 2 |
 | **hyperlink** | siêu liên kết | link = liên kết | Reading 1 |
 | **index** | chỉ mục | | Reading 2 |
 | **internet auction** | đấu giá trực tuyến | auction = đấu giá | Reading 3, Ex F |
@@ -39,8 +45,11 @@
 | **modem** | bộ điều giải | modulator + demodulator | Reading 1 |
 | **newsgroup** | nhóm tin thảo luận | news = tin tức | Reading 2 |
 | **newsreader** | trình đọc tin Usenet | news = tin, reader = người đọc | Reading 2 |
+| **open-source software** | phần mềm nguồn mở | source code = mã nguồn | Reading 2 |
+| **peer-to-peer networks** | mạng ngang hàng | peer = người ngang hàng | Reading 2 |
 | **phishing** | hình thức lừa đảo qua email | password fishing | Reading 3, Ex F |
 | **podcast** | tệp phát thanh số | iPod + broadcasting | Reading 2 |
+| **radio** | đài phát thanh | broadcasting | Reading 2 |
 | **refresh** | tải lại trang | fresh = tươi mới | Reading 1 |
 | **RSS feed** | nguồn cấp dữ liệu RSS | Really Simple Syndication | Reading 1, 2 |
 | **shopping cart** | giỏ hàng ảo | cart = xe đẩy | Reading 3, Ex F |
@@ -58,6 +67,7 @@
 | **user-generated** | do người dùng tạo | generate = tạo ra | Reading 2 |
 | **videoblog** | nhật ký mạng bằng video | video + blog | Reading 2, Ex C |
 | **wiki** | trang web mở cộng tác | | Reading 2, Ex C |
+| **www** | mạng lưới thông tin toàn cầu (www) | World Wide Web | Reading 2 |
 
 ---
 

@@ -5,6 +5,7 @@
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
 | **adware** | phần mềm quảng cáo | ad = quảng cáo, ware = đồ | Reading 4 |
+| **attempted** | đã cố gắng, đã thử | attempt = nỗ lực | Reading 2 |
 | **black hat / cracker** | tin tặc mũ đen | black = đen, hat = mũ | Reading 2 |
 | **confidential** | bảo mật, bí mật | confident = tin cậy | Reading 2, Ex B |
 | **cookie** | tệp cookie lưu thông tin | cookie = bánh quy | Reading 2 |
@@ -12,19 +13,27 @@
 | **cyberstalking** | quấy rối mạng | stalk = rình rập | Reading 1 |
 | **decryption** | sự giải mã | de- = giải, crypt = mật mã | Reading 2 |
 | **digital certificate** | chứng thư số | certificate = chứng nhận | Reading 2 |
+| **distribution of indecent or offensive material** | phát tán tài liệu đồi trụy hoặc xúc phạm | indecent = đồi trụy, offensive = xúc phạm | Reading 2 |
 | **encryption** | sự mã hóa | en- = làm cho, crypt = mã | Reading 2 |
 | **extort** | tống tiền | | Reading 3, Ex D |
 | **firewall** | tường lửa | fire = lửa, wall = tường | Reading 2 |
 | **hacker** | tin tặc | hack = đột nhập | Reading 2 |
+| **infected** | bị lây nhiễm | infect = truyền nhiễm | Reading 2 |
 | **IP spoofing** | giả mạo IP | spoof = đánh lừa | Reading 1 |
+| **launched** | đã kích hoạt, đã phát động | launch = phóng, khởi chạy | Reading 2 |
 | **malware** | phần mềm độc hại | malicious + software | Reading 2 |
+| **overwrote** | đã ghi đè | write = viết, over = lên trên | Reading 2 |
 | **phishing** | giả mạo lừa đảo | password fishing | Reading 1 |
 | **piracy** | vi phạm bản quyền | pirate = cướp biển | Reading 1 |
 | **plagiarism** | đạo văn | | Reading 1 |
 | **prosecute** | truy tố | | Reading 3, Ex D |
+| **showed** | đã hiển thị, đã cho thấy | show = trình chiếu | Reading 2 |
+| **spread** | lan truyền, phát tán | spread = trải rộng | Reading 2 |
+| **spreading of malicious software** | phát tán phần mềm độc hại | malicious = ác ý, độc hại | Reading 2 |
 | **spyware** | phần mềm gián điệp | spy = gián điệp | Reading 4 |
 | **SSL** | lớp cổng bảo mật | Secure Sockets Layer | Reading 2 |
 | **Trojan horse** | mã độc Trojan | Trojan horse = ngựa gỗ Troia | Reading 4 |
+| **was** | là/đã là | past tense of be | Reading 2 |
 | **white hat** | tin tặc mũ trắng | white = trắng | Reading 2 |
 | **worm** | sâu máy tính | worm = con sâu | Reading 4 |
 

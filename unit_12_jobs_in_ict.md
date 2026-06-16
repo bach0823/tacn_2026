@@ -4,32 +4,42 @@
 
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
+| `COBOL` | ngôn ngữ lập trình thương mại | Common Business-Oriented Language | Letter of Application |
+| `QA` | kiểm định chất lượng | Quality Assurance | Webmaster tasks |
 | **access control** | kiểm soát truy cập | access = truy cập | Security Specialist tasks |
 | **accuracy** | sự chính xác | accurate = chính xác | Personal qualities |
+| **analyze** | phân tích | analysis = sự phân tích | Reading 1 |
+| **being good with figures** | làm việc tốt với số liệu | figure = con số | Reading 1 |
 | **blog administrator** | quản trị viên blog | | Từ vựng Unit |
-| `COBOL` | ngôn ngữ lập trình thương mại | Common Business-Oriented Language | Letter of Application |
 | **corrective action** | hành động khắc phục | corrective = sửa chữa | Hardware Engineer tasks |
 | **creativity** | sự sáng tạo | creative = sáng tạo | Personal qualities |
 | **cross-browser** | tương thích đa trình duyệt | cross = xuyên qua | Webmaster tasks |
 | **cross-platform** | tương thích đa nền tảng | platform = nền tảng | Webmaster tasks |
 | **curriculum vitae** | hồ sơ xin việc (CV) | tiếng Latin | Letter of Application |
 | **debug** | gỡ lỗi phần mềm | de- = loại bỏ, bug = lỗi | Software Engineer tasks |
+| **drawing skills** | kỹ năng vẽ | draw = vẽ phác thảo | Reading 1 |
 | **DTP operator** | người vận hành xuất bản điện tử | Desktop Publishing | Từ vựng Unit |
 | **efficiency** | sự hiệu quả | efficient = hiệu quả | Personal qualities |
 | **enthusiasm** | sự nhiệt tình | | Personal skills |
 | **hardware engineer** | kỹ sư phần cứng | hardware = phần cứng | Jobs list |
 | **help desk technician** | kỹ thuật viên hỗ trợ | help desk = bàn hỗ trợ | Jobs list |
 | **imagination** | sự tưởng tượng | imagine = tưởng tượng | Personal qualities |
+| **leadership skills** | kỹ năng lãnh đạo | leader = người đứng đầu | Reading 1 |
 | **logical reasoning** | lập luận logic | logical = hợp lý | Personal qualities |
 | **network administrator** | quản trị viên mạng | network = mạng | Jobs list |
 | **punctuality** | sự đúng giờ | punctual = đúng giờ | Personal skills |
-| `QA` | kiểm định chất lượng | Quality Assurance | Webmaster tasks |
 | **reliability** | sự đáng tin cậy | reliable = đáng tin | Personal skills |
+| **security policies** | chính sách bảo mật | policy = chính sách | Reading 2 |
 | **security policy** | chính sách bảo mật | | Security Specialist tasks |
+| **self-discipline** | tính kỷ luật tự giác | discipline = kỷ luật | Reading 1 |
+| **senior programmer** | lập trình viên cao cấp | senior = cao cấp, lâu năm | Reading 1 |
 | **site architecture** | kiến trúc trang web | architecture = cấu trúc | Webmaster tasks |
 | **software engineer** | kỹ sư phần mềm | software = phần mềm | Jobs list |
 | **tenacity** | sự kiên trì, bền bỉ | | Personal qualities |
+| **three years' experience** | ba năm kinh nghiệm | experience = kinh nghiệm | Reading 1 |
 | **troubleshoot** | xử lý sự cố | trouble = sự cố | Network Admin, Help Desk tasks |
+| **two years' experience** | hai năm kinh nghiệm | experience = kinh nghiệm | Reading 1 |
+| **web site** | trang web | site = địa điểm, trang | Reading 1 |
 | **webmaster** | quản trị viên website | web + master = chủ website | Jobs list |
 | **work placement** | thực tập có hưởng lương | placement = sắp xếp chỗ làm | Letter of Application |
 

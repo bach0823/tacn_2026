@@ -11,10 +11,12 @@
 | **desktop PC** | máy tính để bàn | desktop = mặt bàn | Reading 2, Ex A |
 | **disk drive** | ổ đĩa | drive = ổ | Reading 1 |
 | **display** | hiển thị | | Reading 1 |
+| **electronic machine** | thiết bị điện tử | machine = máy móc, thiết bị | Reading 1 |
 | **execute** | thực thi, chạy | execution = sự thực thi | Reading 1 |
 | **front panel** | mặt trước thùng máy | front = trước | Reading 1 |
 | **hard drive** | ổ đĩa cứng | hard = cứng, drive = ổ | Reading 1 |
 | **hardware** | phần cứng | hard = cứng, ware = đồ dùng | Reading 1 |
+| **information** | thông tin | inform = thông báo | Reading 1 |
 | **input** | đầu vào, dữ liệu nạp vào | in = vào, put = đặt | Reading 1 |
 | **keypad** | bàn phím số | key = phím | Reading 1 |
 | **laptop** | máy tính xách tay | lap = đùi, top = trên | Reading 2, Ex A |

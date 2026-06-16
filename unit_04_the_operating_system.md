@@ -8,6 +8,9 @@
 | **anti-spyware** | phần mềm chống gián điệp | spy = gián điệp | Reading 3, Ex C |
 | **appliance** | thiết bị gia dụng | | Reading 3 |
 | **applications software** | phần mềm ứng dụng | apply = áp dụng | Reading 1 |
+| **business** | doanh nghiệp, kinh doanh | business = công việc kinh doanh | Reading 4 |
+| **business edition** | phiên bản dành cho doanh nghiệp | edition = ấn bản, phiên bản | Reading 4 |
+| **business organizations** | các tổ chức doanh nghiệp | organization = tổ chức | Reading 4 |
 | **command-line** | giao diện dòng lệnh | command = lệnh, line = dòng | Ex F |
 | **compatibility** | tính tương thích | compatible = tương thích | Reading 3 |
 | **consistency** | tính nhất quán | consistent = đồng nhất | Reading 2 |
@@ -16,29 +19,40 @@
 | **dock** | thanh công cụ phím tắt (Mac) | | Ex B |
 | **double-click** | nhấp đúp | | Reading 2 |
 | **drop-down menu** | trình đơn thả xuống | drop = rơi, down = xuống | Ex B |
+| **entertainment** | giải trí | entertain = giải trí | Reading 4 |
 | **firewall** | tường lửa | fire = lửa, wall = tường | Reading 3 |
 | **folder icon** | biểu tượng thư mục | folder = kẹp tài liệu | Ex B |
 | **graphical user interface (GUI)** | giao diện đồ họa người dùng | graph = hình vẽ | Reading 2 |
+| **home basic** | phiên bản gia đình cơ bản | basic = cơ bản | Reading 4 |
+| **home premium** | phiên bản gia đình cao cấp | premium = cao cấp | Reading 4 |
 | **icon** | biểu tượng, hình vẽ | | Reading 2 |
+| **internet attacks** | các cuộc tấn công từ Internet | attack = tấn công | Reading 2 |
 | **intuitive** | trực quan, dễ hiểu ngay | | Reading 2 |
 | **launch** | khởi chạy (chương trình) | launch = phóng tên lửa | Reading 2 |
 | **Linux** | hệ điều hành nguồn mở Linux | Linus Torvalds | Reading 3, Ex D |
 | **Mac OS** | hệ điều hành Mac OS | Macintosh | Reading 3 |
+| **microsoft office** | bộ phần mềm văn phòng Microsoft Office | office = văn phòng | Reading 4 |
 | **multitasking** | đa nhiệm | multi = nhiều, task = việc | Reading 2 |
 | **nested folder** | thư mục lồng nhau | nest = tổ chim/lồng | Reading 2 |
 | **open-source** | nguồn mở | open = mở, source = nguồn | Reading 3 |
 | **operating system (OS)** | hệ điều hành | operate = vận hành | Reading 1 |
 | **platform** | nền tảng máy tính | | Reading 3 |
+| **presentation graphics** | đồ họa thuyết trình | graphics = đồ họa | Reading 4 |
 | **prompt** | dấu nhắc lệnh | command prompt | Reading 2 |
 | **proprietary software** | phần mềm độc quyền | property = sở hữu | Ex D |
 | **scroll bar** | thanh cuộn màn hình | scroll = cuộn | Ex B |
 | **source code** | mã nguồn | source = nguồn, code = mã | Reading 3 |
+| **speech recognition** | nhận dạng giọng nói | speech = lời nói, giọng nói | Reading 4 |
 | **system software** | phần mềm hệ thống | system = hệ thống | Reading 1 |
+| **ultimate** | phiên bản tối thượng | ultimate = cuối cùng, tối thượng | Reading 4 |
+| **ultimate edition** | phiên bản tối thượng | ultimate = tối thượng | Reading 4 |
 | **Unix** | hệ điều hành Unix | Unix | Reading 3 |
 | **user interface** | giao diện người dùng | user = người dùng | Reading 2 |
 | **user-friendly** | thân thiện người dùng | friendly = thân thiện | Reading 2 |
+| **visual style** | phong cách trực quan | visual = thị giác, trực quan | Reading 4 |
 | **WIMP** | môi trường WIMP | Windows, Icons, Menus, Pointer | Reading 2 |
 | **window** | cửa sổ hiển thị | window = cửa sổ | Reading 2 |
+| **word processor** | phần mềm soạn thảo văn bản | processor = bộ xử lý | Reading 4 |
 
 ---
 

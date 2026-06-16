@@ -9,14 +9,19 @@
 | **built-in camera** | camera tích hợp sẵn | built-in = tích hợp | Mobile phones |
 | **call centre** | trung tâm cuộc gọi | call + centre | Reading 1 |
 | **changeable faceplate** | vỏ máy thay đổi được | faceplate = mặt vỏ | Mobile phones |
+| **cybernetic organisms** | các sinh vật cơ khí sinh học (cyborgs) | cyber = kỹ thuật số, organism = sinh vật | Reading 3 |
 | **cyborg** | sinh vật cơ khí hóa | part robot, part human | Reading 3 |
 | **DAB** | phát thanh âm thanh số | Digital Audio Broadcasting | Reading 2 |
+| **digital audio broadcasting** | phát thanh kỹ thuật số (DAB) | broadcasting = phát sóng | Reading 2 |
+| **digital multimedia broadcasting** | phát sóng đa phương tiện kỹ thuật số (DMB) | multimedia = đa phương tiện | Reading 2 |
 | **digital radio** | phát thanh kỹ thuật số | digital + radio | Vocab, Reading 2 |
 | **digital TV** | truyền hình kỹ thuật số | digital + TV | Vocab, Reading 2 |
+| **digital video broadcast-handheld** | phát video kỹ thuật số cầm tay (DVB-H) | handheld = cầm tay | Reading 2 |
 | **DMB** | phát sóng đa phương tiện kỹ thuật số | Digital Multimedia Broadcasting | Reading 2 |
 | **DVB-H** | truyền hình số thiết bị cầm tay | Digital Video Broadcast-Handheld | Reading 2 |
 | **fax** | máy fax / gửi fax | fax | Reading 1 |
 | **GPS** | định vị toàn cầu | Global Positioning System | Reading 3 |
+| **internet** | mạng Internet | interconnected networks | Reading 1 |
 | **keypad** | bàn phím số điện thoại | keypad = bàn phím | Mobile phones |
 | **LCD screen** | màn hình tinh thể lỏng | Liquid Crystal Display | Mobile phones |
 | **MMS** | tin nhắn đa phương tiện | Multimedia Messaging Service | Mobile phones |
