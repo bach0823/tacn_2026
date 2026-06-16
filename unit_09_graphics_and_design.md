@@ -2,28 +2,33 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **raster graphics / bitmap** | | đồ họa raster (ảnh điểm) | lưu trữ dưới dạng tập hợp các pixel |
-| **vector graphics** | | đồ họa vector | vẽ bằng công thức toán học hình học |
-| **pixel** | /ˈpɪk.səl/ | điểm ảnh | picture + element |
-| **resolution** | /ˌrez.əˈluː.ʃən/ | độ phân giải | số lượng điểm ảnh hiển thị |
-| **jagged edge** | | nét răng cưa | xảy ra khi phóng lớn ảnh raster |
-| **composite** | /kəmˈpɒz.ɪt/ | ghép ảnh | kết hợp các phần ảnh lại |
-| **CAD (Computer Aided Design)** | | thiết kế hỗ trợ bằng máy tính | dùng thiết kế kỹ thuật, cơ khí |
-| **wireframe** | /ˈwaɪə.freɪm/ | khung dây | bản vẽ trong suốt thể hiện các cạnh |
-| **solid modeling** | | dựng hình khối 3D | solid = thể rắn, model = dựng hình |
-| **texturing** | /ˈteks.tʃər.ɪŋ/ | tạo vân, kết cấu bề mặt | thêm màu, chất liệu lên vật thể |
-| **rendering** | /ˈren.dər.ɪŋ/ | kết xuất đồ họa | tạo bóng, phản chiếu để vật thể như thật |
-| **fractal** | /ˈfræk.təl/ | hình phân hình (fractal) | hình học lặp lại vô tận |
-| **GIS (Geographic Info System)** | | hệ thống thông tin địa lý | phân tích dữ liệu bản đồ địa lý |
-| **animation** | /ˌæn.ɪˈmeɪ.ʃən/ | hoạt họa, ảnh động | tạo chuỗi hình chuyển động |
-| **primitive** | /ˈprɪm.ɪ.tɪv/ | hình cơ bản (đường tròn, đa giác) | nguyên bản, cơ bản |
-| **attribute** | /ˈæt.rɪ.bjuːt/ | thuộc tính (màu sắc, độ rộng viền) | đặc tính của đối tượng |
-| **translation** | /trænsˈleɪ.ʃən/ | phép tịnh tiến (di chuyển) | di chuyển vật thể sang vị trí khác |
-| **rotation** | /rəʊˈteɪ.ʃən/ | phép quay | quay vật thể quanh một trục |
-| **scaling** | /ˈskeɪ.lɪŋ/ | phép co giãn tỷ lệ | làm vật thể to hoặc nhỏ hơn |
-| **toolbox** | /ˈtuːl.bɒks/ | hộp công cụ | tool = công cụ, box = hộp |
+| **animation** | hoạt ảnh, hoạt họa | animate = tạo chuyển động | Reading 1 |
+| **attribute** | thuộc tính | | Reading 2 |
+| **bitmap / raster** | đồ họa bitmap (raster) | bit = hạt màu, map = bản đồ | Reading 1 |
+| **CAD** | thiết kế hỗ trợ bằng máy tính | Computer Aided Design | Reading 1 |
+| **composite** | ghép ảnh | composite = hỗn hợp | Reading 1 |
+| **crop** | cắt cúp ảnh | crop = thu hoạch/cắt ngắn | Ex F |
+| **density** | mật độ | dense = dày đặc | Reading 1 |
+| **eyedropper** | công cụ hút màu | eye = mắt, dropper = ống nhỏ giọt | Ex F |
+| **filter** | bộ lọc hiệu ứng | | Reading 1, Ex B |
+| **fractal** | hình học phân hình | fraction = phần nhỏ | Reading 1, Ex B |
+| **geometric** | thuộc hình học | geometry = hình học | Reading 1 |
+| **GIS** | hệ thống thông tin địa lý | Geographic Information Systems | Reading 1 |
+| **illustration** | hình minh họa | illustrate = minh họa | Reading 1 |
+| **jagged edge** | nét răng cưa vỡ hình | jagged = lởm chởm, edge = cạnh | Reading 1, Ex B |
+| **pixel** | điểm ảnh | picture element | Reading 1 |
+| **primitive** | hình học cơ bản | primitive = sơ khởi | Reading 2 |
+| **rendering** | kết xuất đồ họa | render = trả về/kết xuất | Reading 1, Ex B |
+| **resolution** | độ phân giải | resolve = phân tích rõ | Reading 1, Ex B |
+| **rotation** | phép xoay | rotate = xoay | Reading 2, Ex G |
+| **scaling** | co giãn tỉ lệ | scale = thang đo/tỷ lệ | Reading 1, Reading 2 |
+| **solid modeling** | dựng hình khối đặc | solid = thể rắn | Reading 1 |
+| **texturing** | tạo kết cấu bề mặt | texture = vân/vải dệt | Reading 1 |
+| **translation** | phép tịnh tiến, di chuyển | translate = chuyển dịch | Reading 2 |
+| **vector graphics** | đồ họa vector | vector = hướng/đoạn thẳng | Reading 1 |
+| **wireframe** | bản vẽ khung dây | wire = dây, frame = khung | Reading 1, Ex B |
 
 ---
 
@@ -153,7 +158,6 @@ CAD dùng cho kỹ thuật, yêu cầu độ chính xác cơ học cao. DTP dùn
 | **Adobe InDesign** | DTP Software | Create layout designs for books and magazines | Thiết kế bố cục trang cho sách báo và tạp chí |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -439,36 +443,3 @@ Match the tools from the Photoshop toolbox (1-10) with their functions (a-j):
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **animation** | hoạt ảnh, hoạt họa | animate = tạo chuyển động | Reading 1 |
-| **attribute** | thuộc tính | | Reading 2 |
-| **bitmap / raster** | đồ họa bitmap (raster) | bit = hạt màu, map = bản đồ | Reading 1 |
-| **CAD** | thiết kế hỗ trợ bằng máy tính | Computer Aided Design | Reading 1 |
-| **composite** | ghép ảnh | composite = hỗn hợp | Reading 1 |
-| **crop** | cắt cúp ảnh | crop = thu hoạch/cắt ngắn | Ex F |
-| **density** | mật độ | dense = dày đặc | Reading 1 |
-| **eyedropper** | công cụ hút màu | eye = mắt, dropper = ống nhỏ giọt | Ex F |
-| **filter** | bộ lọc hiệu ứng | | Reading 1, Ex B |
-| **fractal** | hình học phân hình | fraction = phần nhỏ | Reading 1, Ex B |
-| **geometric** | thuộc hình học | geometry = hình học | Reading 1 |
-| **GIS** | hệ thống thông tin địa lý | Geographic Information Systems | Reading 1 |
-| **illustration** | hình minh họa | illustrate = minh họa | Reading 1 |
-| **jagged edge** | nét răng cưa vỡ hình | jagged = lởm chởm, edge = cạnh | Reading 1, Ex B |
-| **pixel** | điểm ảnh | picture element | Reading 1 |
-| **primitive** | hình học cơ bản | primitive = sơ khởi | Reading 2 |
-| **rendering** | kết xuất đồ họa | render = trả về/kết xuất | Reading 1, Ex B |
-| **resolution** | độ phân giải | resolve = phân tích rõ | Reading 1, Ex B |
-| **rotation** | phép xoay | rotate = xoay | Reading 2, Ex G |
-| **scaling** | co giãn tỉ lệ | scale = thang đo/tỷ lệ | Reading 1, Reading 2 |
-| **solid modeling** | dựng hình khối đặc | solid = thể rắn | Reading 1 |
-| **texturing** | tạo kết cấu bề mặt | texture = vân/vải dệt | Reading 1 |
-| **translation** | phép tịnh tiến, di chuyển | translate = chuyển dịch | Reading 2 |
-| **vector graphics** | đồ họa vector | vector = hướng/đoạn thẳng | Reading 1 |
-| **wireframe** | bản vẽ khung dây | wire = dây, frame = khung | Reading 1, Ex B |
-
----
-> *Tạo mới file Unit 09 từ bản dịch song ngữ và các bài tập đi kèm.*

@@ -2,29 +2,43 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **operating system (OS)** | | hệ điều hành (OS) | operate = vận hành, system = hệ thống |
-| **system software** | | phần mềm hệ thống | quản lý phần cứng cơ bản |
-| **applications software** | | phần mềm ứng dụng | phục vụ tác vụ cụ thể |
-| **user interface** | /ˈjuː.zər ˈɪn.tə.feɪs/ | giao diện người dùng | interface = giao diện |
-| **graphical user interface (GUI)** | | giao diện đồ họa người dùng | graphical = đồ họa |
-| **command-line interface** | | giao diện dòng lệnh | tương tác qua gõ lệnh |
-| **WIMP environment** | | môi trường WIMP | Windows, Icons, Menus, Pointer |
-| **desktop** | /ˈdesk.tɒp/ | màn hình nền | mặt bàn làm việc kỹ thuật số |
-| **nested folder** | | thư mục lồng nhau | folder = thư mục, nested = lồng ghép |
-| **launch a program** | | khởi chạy một chương trình | launch = phóng/khởi chạy |
-| **multitasking** | /ˌmʌl.tiˈtɑːs.kɪŋ/ | sự đa nhiệm (làm nhiều việc) | multi = nhiều, task = nhiệm vụ |
-| **open-source software** | | phần mềm nguồn mở | code công khai, sửa đổi tự do |
-| **proprietary software** | /prəˈpraɪə.tər.i/ | phần mềm độc quyền | bản quyền sở hữu kín |
-| **device driver** | | trình điều khiển thiết bị | driver = người lái/trình điều khiển |
-| **compatibility** | /kəmˌpæt.əˈbɪl.ə.ti/ | tính tương thích | compatible = tương thích |
-| **anti-spyware** | | phần mềm chống gián điệp | anti = chống lại, spy = gián điệp |
-| **firewall** | /ˈfaɪə.wɔːl/ | tường lửa | bảo vệ máy tính khỏi mạng ngoài |
-| **user-friendly** | /ˌjuː.zəˈfrend.li/ | thân thiện với người dùng | friendly = thân thiện |
-| **accessible** | /əkˈses.ə.bəl/ | dễ tiếp cận | access = truy cập |
-| **intuitive** | /ɪnˈtʃuː.ɪ.tɪv/ | trực quan, dễ hiểu ngay | |
-| **prompt** | /prɒmpt/ | dấu nhắc lệnh | màn hình đen CLI |
+| **accessibility** | khả năng tiếp cận | access = truy cập | Reading 2 |
+| **anti-spyware** | phần mềm chống gián điệp | spy = gián điệp | Reading 3, Ex C |
+| **appliance** | thiết bị gia dụng | | Reading 3 |
+| **applications software** | phần mềm ứng dụng | apply = áp dụng | Reading 1 |
+| **command-line** | giao diện dòng lệnh | command = lệnh, line = dòng | Ex F |
+| **compatibility** | tính tương thích | compatible = tương thích | Reading 3 |
+| **consistency** | tính nhất quán | consistent = đồng nhất | Reading 2 |
+| **desktop** | màn hình nền | desk = bàn, top = trên | Reading 2, Ex B |
+| **device driver** | trình điều khiển thiết bị | driver = người lái | Reading 1 |
+| **dock** | thanh công cụ phím tắt (Mac) | | Ex B |
+| **double-click** | nhấp đúp | | Reading 2 |
+| **drop-down menu** | trình đơn thả xuống | drop = rơi, down = xuống | Ex B |
+| **firewall** | tường lửa | fire = lửa, wall = tường | Reading 3 |
+| **folder icon** | biểu tượng thư mục | folder = kẹp tài liệu | Ex B |
+| **graphical user interface (GUI)** | giao diện đồ họa người dùng | graph = hình vẽ | Reading 2 |
+| **icon** | biểu tượng, hình vẽ | | Reading 2 |
+| **intuitive** | trực quan, dễ hiểu ngay | | Reading 2 |
+| **launch** | khởi chạy (chương trình) | launch = phóng tên lửa | Reading 2 |
+| **Linux** | hệ điều hành nguồn mở Linux | Linus Torvalds | Reading 3, Ex D |
+| **Mac OS** | hệ điều hành Mac OS | Macintosh | Reading 3 |
+| **multitasking** | đa nhiệm | multi = nhiều, task = việc | Reading 2 |
+| **nested folder** | thư mục lồng nhau | nest = tổ chim/lồng | Reading 2 |
+| **open-source** | nguồn mở | open = mở, source = nguồn | Reading 3 |
+| **operating system (OS)** | hệ điều hành | operate = vận hành | Reading 1 |
+| **platform** | nền tảng máy tính | | Reading 3 |
+| **prompt** | dấu nhắc lệnh | command prompt | Reading 2 |
+| **proprietary software** | phần mềm độc quyền | property = sở hữu | Ex D |
+| **scroll bar** | thanh cuộn màn hình | scroll = cuộn | Ex B |
+| **source code** | mã nguồn | source = nguồn, code = mã | Reading 3 |
+| **system software** | phần mềm hệ thống | system = hệ thống | Reading 1 |
+| **Unix** | hệ điều hành Unix | Unix | Reading 3 |
+| **user interface** | giao diện người dùng | user = người dùng | Reading 2 |
+| **user-friendly** | thân thiện người dùng | friendly = thân thiện | Reading 2 |
+| **WIMP** | môi trường WIMP | Windows, Icons, Menus, Pointer | Reading 2 |
+| **window** | cửa sổ hiển thị | window = cửa sổ | Reading 2 |
 
 ---
 
@@ -168,7 +182,6 @@ Windows là hệ điều hành độc quyền thương mại (phải mua bản q
 | **Linux** | Operating System | Open-source OS widely used on servers and PCs | Hệ điều hành mã nguồn mở dùng cho máy chủ và máy tính cá nhân |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -438,46 +451,3 @@ Answer the following questions based on the Unit 4 text:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **accessibility** | khả năng tiếp cận | access = truy cập | Reading 2 |
-| **anti-spyware** | phần mềm chống gián điệp | spy = gián điệp | Reading 3, Ex C |
-| **appliance** | thiết bị gia dụng | | Reading 3 |
-| **applications software** | phần mềm ứng dụng | apply = áp dụng | Reading 1 |
-| **command-line** | giao diện dòng lệnh | command = lệnh, line = dòng | Ex F |
-| **compatibility** | tính tương thích | compatible = tương thích | Reading 3 |
-| **consistency** | tính nhất quán | consistent = đồng nhất | Reading 2 |
-| **desktop** | màn hình nền | desk = bàn, top = trên | Reading 2, Ex B |
-| **device driver** | trình điều khiển thiết bị | driver = người lái | Reading 1 |
-| **dock** | thanh công cụ phím tắt (Mac) | | Ex B |
-| **double-click** | nhấp đúp | | Reading 2 |
-| **drop-down menu** | trình đơn thả xuống | drop = rơi, down = xuống | Ex B |
-| **firewall** | tường lửa | fire = lửa, wall = tường | Reading 3 |
-| **folder icon** | biểu tượng thư mục | folder = kẹp tài liệu | Ex B |
-| **graphical user interface (GUI)** | giao diện đồ họa người dùng | graph = hình vẽ | Reading 2 |
-| **icon** | biểu tượng, hình vẽ | | Reading 2 |
-| **intuitive** | trực quan, dễ hiểu ngay | | Reading 2 |
-| **launch** | khởi chạy (chương trình) | launch = phóng tên lửa | Reading 2 |
-| **Linux** | hệ điều hành nguồn mở Linux | Linus Torvalds | Reading 3, Ex D |
-| **Mac OS** | hệ điều hành Mac OS | Macintosh | Reading 3 |
-| **multitasking** | đa nhiệm | multi = nhiều, task = việc | Reading 2 |
-| **nested folder** | thư mục lồng nhau | nest = tổ chim/lồng | Reading 2 |
-| **open-source** | nguồn mở | open = mở, source = nguồn | Reading 3 |
-| **operating system (OS)** | hệ điều hành | operate = vận hành | Reading 1 |
-| **platform** | nền tảng máy tính | | Reading 3 |
-| **prompt** | dấu nhắc lệnh | command prompt | Reading 2 |
-| **proprietary software** | phần mềm độc quyền | property = sở hữu | Ex D |
-| **scroll bar** | thanh cuộn màn hình | scroll = cuộn | Ex B |
-| **source code** | mã nguồn | source = nguồn, code = mã | Reading 3 |
-| **system software** | phần mềm hệ thống | system = hệ thống | Reading 1 |
-| **Unix** | hệ điều hành Unix | Unix | Reading 3 |
-| **user interface** | giao diện người dùng | user = người dùng | Reading 2 |
-| **user-friendly** | thân thiện người dùng | friendly = thân thiện | Reading 2 |
-| **WIMP** | môi trường WIMP | Windows, Icons, Menus, Pointer | Reading 2 |
-| **window** | cửa sổ hiển thị | window = cửa sổ | Reading 2 |
-
----
-> *Tạo mới file Unit 04 từ bản dịch song ngữ và các bài tập đi kèm.*

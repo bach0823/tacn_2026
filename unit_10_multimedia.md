@@ -2,27 +2,24 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **multimedia** | /ˈmʌltiˌmiːdiə/ | đa phương tiện | multi (nhiều) + media (phương tiện) |
-| **hypertext** | /ˈhaɪpətekst/ | siêu văn bản | hyper (vượt bậc) + text (văn bản) = văn bản chứa liên kết |
-| **hypermedia** | /ˌhaɪpəˈmiːdiə/ | siêu đa phương tiện | hyper + media = liên kết kết hợp cả ảnh, âm thanh, video |
-| **interactivity** | /ˌɪntərækˈtɪvəti/ | tính tương tác | inter (giữa) + activity (hoạt động) = sự tương tác qua lại |
-| **sound card** | /ˈsaʊnd kɑːd/ | card âm thanh | sound (âm thanh) + card (bo mạch) |
-| **stereo synthesizer** | /ˈsteriəʊ ˈsɪnθəsaɪzə/ | bộ tổng hợp âm thanh nổi | stereo (âm thanh nổi) + synthesizer (bộ tổng hợp) |
-| **MIDI** | | giao diện kỹ thuật số dành cho nhạc cụ | Musical Instrument Digital Interface |
-| **DAW** | | trạm làm việc âm thanh kỹ thuật số | Digital Audio Workstation |
-| **MP3** | | định dạng nén âm thanh MP3 | MPEG audio player 3 |
-| **CD ripper** | | phần mềm trích xuất nhạc từ đĩa CD | rip = trích xuất/xé từ đĩa |
-| **streaming audio** | /ˈstriːmɪŋ ˈɔːdiəʊ/ | truyền phát âm thanh trực tiếp | stream = dòng chảy (dữ liệu truyền liên tục) |
-| **webcast** | /ˈwebkɑːst/ | phát sóng trực tiếp trên web | web + cast (phát sóng) = phát trực tiếp qua mạng |
-| **plug-in** | /ˈplʌɡ ɪn/ | phần mềm cắm thêm, bổ trợ | plug = cắm, in = vào |
-| **video computing** | /ˈvɪdiəʊ kəmˈpjuːtɪŋ/ | tin học video | xử lý video bằng máy tính |
-| **video editing** | /ˈvɪdiəʊ ˈedɪtɪŋ/ | chỉnh sửa video | edit = chỉnh sửa |
-| **information kiosk** | /ˌɪnfəˈmeɪʃn ˈkiːɒsk/ | trạm thông tin công cộng | kiosk = quầy thông tin |
-| **optical disc** | /ˈɒptɪkl dɪsk/ | đĩa quang | đĩa CD, DVD đọc bằng tia laser |
-| **surround sound** | /səˈraùi nd saʊnd/ | âm thanh vòm | surround = bao quanh |
-| **soundtrack** | /ˈsaʊndtræk/ | nhạc nền | track = bản nhạc |
+| **CD ripper** | phần mềm trích xuất CD | rip = trích xuất, tách nhạc từ CD | Reading 2, Ex B |
+| **DAW** | trạm làm việc âm thanh kỹ thuật số | Digital Audio Workstation | Reading 2, Glossary |
+| **hypermedia** | siêu phương tiện (hypermedia) | hyper = siêu, media = đa phương tiện | Reading 1, Ex C |
+| **hypertext** | siêu văn bản | hyper = siêu, text = văn bản | Reading 1, Ex C |
+| **interactivity** | tính tương tác | interactive = tương tác | Reading 1 |
+| **MIDI** | giao diện số nhạc cụ | Musical Instrument Digital Interface | Reading 2, Ex B |
+| **MP3** | định dạng âm thanh nén | MPEG audio player 3 | Reading 2, Ex B |
+| **multimedia** | đa phương tiện | multi = nhiều, media = phương tiện | Reading 1, Ex B |
+| **optical disc** | đĩa quang | optic = quang học, đĩa CD/DVD | Reading 1, Ex B |
+| **plug-in** | phần mềm cắm thêm | plug = cắm, in = vào | Reading 2 |
+| **sound card** | card âm thanh | card xử lý tín hiệu âm thanh | Reading 2, Ex B |
+| **streaming** | truyền phát trực tuyến | stream = dòng chảy | Reading 2, Ex C |
+| **surround sound** | âm thanh vòm | surround = bao quanh | Reading 4 |
+| **video computing** | công nghệ xử lý video | computing = tin học | Reading 3 |
+| **video editing** | chỉnh sửa video | edit = chỉnh sửa | Reading 3, Ex C |
+| **webcast** | phát sóng trên web | web + cast = phát qua web | Reading 2, Ex C |
 
 ---
 
@@ -53,9 +50,9 @@ Multimedia applications are used in all sorts of fields. For example, museums, b
 
 The power of multimedia software resides in **hypertext**, hypermedia and **interactivity** (meaning the user is involved in the programme). ⚠️ If you click on a **hypertext link**, you can jump to another screen with more information about a particular subject. Hypermedia is similar, but also uses graphics, audio and video as hypertext elements.
 
-> **[VI]** Sức mạnh của phần mềm đa phương tiện nằm ở siêu văn bản, siêu đa phương tiện và tính tương tác (có nghĩa là người dùng tham gia vào chương trình). ⚠️ Nếu bạn nhấp vào một liên kết siêu văn bản, bạn có thể nhảy sang một màn hình khác chứa nhiều thông tin hơn về một chủ đề cụ thể. Siêu đa phương tiện cũng tương tự, nhưng nó còn sử dụng cả đồ họa, âm thanh và video dưới dạng các yếu tố siêu văn bản.
+> **[VI]** Sức mạnh của phần mềm đa phương tiện nằm ở siêu văn bản, siêu phương tiện (hypermedia) và tính tương tác (có nghĩa là người dùng tham gia vào chương trình). ⚠️ Nếu bạn nhấp vào một liên kết siêu văn bản, bạn có thể chuyển hướng sang một màn hình khác chứa nhiều thông tin hơn về một chủ đề cụ thể. Siêu đa phương tiện cũng tương tự, nhưng nó còn sử dụng cả đồ họa, âm thanh và video dưới dạng các yếu tố siêu văn bản.
 >
-> 📌 *Tóm tắt:* Sức mạnh của phần mềm đa phương tiện nằm ở siêu văn bản (hypertext), siêu đa phương tiện (hypermedia) và tính tương tác (interactivity).
+> 📌 *Tóm tắt:* Sức mạnh của phần mềm đa phương tiện nằm ở siêu văn bản (hypertext), siêu phương tiện (hypermedia) (hypermedia) và tính tương tác (interactivity).
 
 ### Sound, Music, MIDI
 
@@ -74,18 +71,18 @@ You can also listen to music on your `PC`, or transfer it to a portable `MP3` pl
 
 Audio is becoming a key element of the Web. Many radio stations broadcast live over the Internet using **streaming audio** technology, which lets you listen to audio in a continuous stream while it is being transmitted. The broadcast of an event over the Web, for example a concert, is called a **webcast**. Be aware that you won't be able to play audio and video on the Web unless you have a *plug-in* like *RealPlayer* or *QuickTime*.
 
-> **[VI]** Âm thanh đang trở thành một yếu tố cốt lõi của mạng Web. Nhiều đài phát thanh phát sóng trực tiếp qua Internet bằng công nghệ truyền phát âm thanh trực tuyến (streaming audio), cho phép bạn nghe âm thanh theo một dòng liên tục trong khi nó đang được truyền đi. Việc phát sóng một sự kiện trên Web, chẳng hạn như một buổi hòa nhạc, được gọi là truyền phát trực tiếp trên web (webcast). Hãy lưu ý rằng bạn sẽ không thể phát âm thanh và video trên Web trừ khi bạn có một phần mềm hỗ trợ cắm thêm (plug-in) như *RealPlayer* hoặc *QuickTime*.
+> **[VI]** Âm thanh đang trở thành một yếu tố cốt lõi của mạng Web. Nhiều đài phát thanh phát sóng trực tiếp qua Internet bằng công nghệ truyền phát âm thanh trực tuyến (streaming audio), cho phép bạn nghe âm thanh theo một dòng liên tục trong khi nó đang được truyền đi. Việc phát sóng một sự kiện trên Web, chẳng hạn như một buổi hòa nhạc, được gọi là truyền phát trực tiếp trên web (webcast). Hãy lưu ý rằng bạn sẽ không thể phát âm thanh và video trên Web trừ khi bạn có một tiện ích bổ sung (plug-in) như *RealPlayer* hoặc *QuickTime*.
 >
-> 📌 *Tóm tắt:* Công nghệ truyền phát âm thanh trực tuyến (streaming audio) và truyền phát sự kiện (webcast) yêu cầu các phần mềm hỗ trợ cắm thêm (plug-in) như *RealPlayer* hoặc *QuickTime*.
+> 📌 *Tóm tắt:* Công nghệ truyền phát âm thanh trực tuyến (streaming audio) và truyền phát sự kiện (webcast) yêu cầu các tiện ích bổ sung (plug-in) như *RealPlayer* hoặc *QuickTime*.
 
 ### Creating and Editing Movies
 
 **English (Original)**
 Video is another important part of multimedia. **Video computing** refers to recording, manipulating and storing video in digital format. ⚠️ If you wanted to make a movie on your computer, first you would need to capture images with a **digital video camera** and then transfer them to your computer. Next, you would need a **video editing** program like *iMovie* to cut your favourite segments, re-sequence the clips and add transitions and other effects. Finally, you could save your movie on a `DVD` or post it on websites like *YouTube* and *Google Video*.
 
-> **[VI]** Video là một phần quan trọng khác của đa phương tiện. Tin học video đề cập đến việc ghi hình, xử lý và lưu trữ video ở định dạng kỹ thuật số. ⚠️ Nếu bạn muốn làm một bộ phim trên máy tính của mình, trước tiên bạn cần thu giữ các hình ảnh bằng một máy quay video kỹ thuật số rồi truyền chúng vào máy tính. Tiếp theo, bạn sẽ cần một chương trình chỉnh sửa video như *iMovie* để cắt các phân cảnh yêu thích của mình, sắp xếp lại chuỗi clip và thêm các hiệu ứng chuyển cảnh cũng như các hiệu ứng khác. Cuối cùng, bạn có thể lưu bộ phim của mình trên đĩa `DVD` hoặc đăng nó lên các trang web như *YouTube* và *Google Video*.
+> **[VI]** Video là một phần quan trọng khác của đa phương tiện. Công nghệ xử lý video đề cập đến việc ghi hình, xử lý và lưu trữ video ở định dạng kỹ thuật số. ⚠️ Nếu bạn muốn làm một bộ phim trên máy tính của mình, trước tiên bạn cần ghi lại hình ảnh bằng một máy quay video kỹ thuật số rồi truyền chúng vào máy tính. Tiếp theo, bạn sẽ cần một chương trình chỉnh sửa video như *iMovie* để cắt các phân đoạn video yêu thích của mình, sắp xếp lại các clip và thêm các hiệu ứng chuyển cảnh cũng như các hiệu ứng khác. Cuối cùng, bạn có thể lưu bộ phim của mình trên đĩa `DVD` hoặc đăng nó lên các trang web như *YouTube* và *Google Video*.
 >
-> 📌 *Tóm tắt:* Tin học video (video computing) bao gồm ghi hình, xử lý và lưu trữ video kỹ thuật số. Quá trình làm phim gồm quay phim bằng camera kỹ thuật số, chỉnh sửa cắt ghép và thêm hiệu ứng bằng phần mềm như *iMovie*, rồi lưu trữ hoặc đăng tải lên Web (*YouTube*).
+> 📌 *Tóm tắt:* Công nghệ xử lý video (video computing) bao gồm ghi hình, xử lý và lưu trữ video kỹ thuật số. Quá trình làm phim gồm quay phim bằng camera kỹ thuật số, chỉnh sửa cắt ghép và thêm hiệu ứng bằng phần mềm như *iMovie*, rồi lưu trữ hoặc đăng tải lên Web (*YouTube*).
 
 ### Multimedia Products
 
@@ -154,7 +151,6 @@ Codec là thuật toán nén/giải nén ẩn bên trong. Media Player là giao 
 | **MIDI Sequencer** | Music Software | Record and edit MIDI musical performances | Ghi âm và chỉnh sửa các bản nhạc MIDI |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -254,7 +250,7 @@ graph LR
 <summary><b>Xem đáp án chi tiết</b></summary>
 
 - **hypertext** --- **text with links which take you to other pages** (suy luận) — văn bản có chứa liên kết giúp người dùng chuyển đổi giữa các trang thông tin.
-- **hypermedia** --- **a form of enriched multimedia which allows an interactive and dynamic linking of visual and audio elements** (suy luận) — siêu đa phương tiện kết hợp cả yếu tố đồ họa, âm thanh, video làm liên kết.
+- **hypermedia** --- **a form of enriched multimedia which allows an interactive and dynamic linking of visual and audio elements** (suy luận) — siêu phương tiện (hypermedia) kết hợp cả yếu tố đồ họa, âm thanh, video làm liên kết.
 - **streaming** --- **a technique for playing sound and video files while they're downloading** (suy luận) — kỹ thuật cho phép phát âm thanh/hình ảnh khi tệp tin đang được tải về từ máy chủ.
 - **webcast** --- **a live event broadcast over the Internet** (suy luận) — sự kiện trực tiếp được truyền phát qua mạng Web.
 - **video editing** --- **the process of manipulating video images** (suy luận) — quy trình xử lý, cắt ghép và biên tập hình ảnh video.
@@ -371,24 +367,3 @@ Answer these discussion questions using the second conditional:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **CD ripper** | phần mềm trích xuất CD | rip = trích xuất, tách nhạc từ CD | Reading 2, Ex B |
-| **DAW** | trạm làm việc âm thanh kỹ thuật số | Digital Audio Workstation | Reading 2, Glossary |
-| **hypermedia** | siêu đa phương tiện | hyper = siêu, media = đa phương tiện | Reading 1, Ex C |
-| **hypertext** | siêu văn bản | hyper = siêu, text = văn bản | Reading 1, Ex C |
-| **interactivity** | tính tương tác | interactive = tương tác | Reading 1 |
-| **MIDI** | giao diện số nhạc cụ | Musical Instrument Digital Interface | Reading 2, Ex B |
-| **MP3** | định dạng âm thanh nén | MPEG audio player 3 | Reading 2, Ex B |
-| **multimedia** | đa phương tiện | multi = nhiều, media = phương tiện | Reading 1, Ex B |
-| **optical disc** | đĩa quang | optic = quang học, đĩa CD/DVD | Reading 1, Ex B |
-| **plug-in** | phần mềm cắm thêm | plug = cắm, in = vào | Reading 2 |
-| **sound card** | card âm thanh | card xử lý tín hiệu âm thanh | Reading 2, Ex B |
-| **streaming** | truyền phát trực tuyến | stream = dòng chảy | Reading 2, Ex C |
-| **surround sound** | âm thanh vòm | surround = bao quanh | Reading 4 |
-| **video computing** | tin học video | computing = tin học | Reading 3 |
-| **video editing** | chỉnh sửa video | edit = chỉnh sửa | Reading 3, Ex C |
-| **webcast** | phát sóng trên web | web + cast = phát qua web | Reading 2, Ex C |

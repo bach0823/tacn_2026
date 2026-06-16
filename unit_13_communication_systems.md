@@ -2,37 +2,37 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **call centre** | /ˈkɔːl ˌsen.tər/ | trung tâm cuộc gọi | call = gọi, centre = trung tâm |
-| **digital radio** | /ˈdɪdʒ.ɪ.təl ˈreɪ.di.əʊ/ | phát thanh kỹ thuật số | digital = số, radio = đài |
-| **digital TV** | /ˈdɪdʒ.ɪ.təl ˌtiːˈviː/ | truyền hình kỹ thuật số | |
-| **fax** | /fæks/ | máy fax, gửi fax | Gửi bản sao qua đường thoại |
-| **GPS** | | hệ thống định vị toàn cầu | Global Positioning System |
-| **teletext** | /ˈtel.ɪ.tekst/ | dịch vụ thông tin văn bản trên TV | tele = từ xa, text = chữ |
-| **wearable computer** | /ˌweə.rə.bəl kəmˈpjuː.tər/ | máy tính đeo trên người | wearable = đeo được |
-| **telecommunications** | /ˌtel.ɪ.kəˌmjuː.nɪˈkeɪ.ʃənz/ | viễn thông | tele = từ xa, communication = liên lạc |
-| **teleworking** | /ˌtel.ɪˈwɜː.kɪŋ/ | làm việc từ xa (tại nhà) | tele = từ xa, working = làm việc |
-| **telemarketing** | /ˌtel.ɪˈmɑː.kɪ.tɪŋ/ | tiếp thị qua điện thoại | marketing = tiếp thị |
-| **pay multimedia** | /peɪ ˌmʌl.tiˈmiː.di.ə/ | dịch vụ đa phương tiện trả phí | pay = thanh toán, trả phí |
-| **widescreen** | /ˈwaɪd.skriːn/ | màn hình rộng (16:9) | wide = rộng, screen = màn hình |
-| **set-top box** | /ˈset.tɒp ˌbɒks/ | đầu giải mã tín hiệu truyền hình | bộ thiết bị giải mã đặt trên TV |
-| **DMB** | | phát sóng đa phương tiện kỹ thuật số | Digital Multimedia Broadcasting |
-| **DVB-H** | | phát sóng video số cho thiết bị cầm tay | Digital Video Broadcast-Handheld |
-| **DAB** | | phát thanh âm thanh kỹ thuật số | Digital Audio Broadcasting |
-| **cyborg** | /ˈsaɪ.bɔːɡ/ | sinh vật cơ khí hóa (nửa người nửa máy) | cybernetic + organism |
-| **wireless connectivity** | /ˈwaɪə.ləs ˌkɒn.ekˈtɪv.ə.ti/ | kết nối không dây | wire = dây cáp, less = không có |
-| **VoIP** | | đàm thoại qua Internet | Voice over Internet Protocol |
-| **ATA** | | bộ chuyển đổi điện thoại tương tự | Analog Telephone Adapter |
-| **spit** | /spɪt/ | cuộc gọi rác trên VoIP | Spam over Internet Telephony |
-| **LCD screen** | | màn hình tinh thể lỏng | Liquid Crystal Display |
-| **brand** | /brænd/ | thương hiệu, nhãn hiệu | |
-| **built-in camera** | | camera tích hợp sẵn | built-in = tích hợp |
-| **changeable faceplate** | | vỏ máy có thể thay thế | faceplate = mặt trước vỏ máy |
-| **SIM card** | | thẻ SIM | Subscriber Identity Module |
-| **keypad** | /ˈkiː.pæd/ | bàn phím số (trên điện thoại) | key = phím, pad = bảng phím |
-| **ringtone** | /ˈrɪŋ.təʊn/ | nhạc chuông | ring = reo, tone = âm thanh |
-| **MMS** | | tin nhắn đa phương tiện | Multimedia Messaging Service |
+| **ATA** | Bộ chuyển đổi điện thoại tương tự | Analog Telephone Adapter | VoIP section |
+| **brand** | thương hiệu | | Mobile phones |
+| **built-in camera** | camera tích hợp sẵn | built-in = tích hợp | Mobile phones |
+| **call centre** | trung tâm cuộc gọi | call + centre | Reading 1 |
+| **changeable faceplate** | vỏ máy thay đổi được | faceplate = mặt vỏ | Mobile phones |
+| **cyborg** | sinh vật cơ khí hóa | part robot, part human | Reading 3 |
+| **DAB** | phát thanh âm thanh số | Digital Audio Broadcasting | Reading 2 |
+| **digital radio** | phát thanh kỹ thuật số | digital + radio | Vocab, Reading 2 |
+| **digital TV** | truyền hình kỹ thuật số | digital + TV | Vocab, Reading 2 |
+| **DMB** | phát sóng đa phương tiện kỹ thuật số | Digital Multimedia Broadcasting | Reading 2 |
+| **DVB-H** | truyền hình số thiết bị cầm tay | Digital Video Broadcast-Handheld | Reading 2 |
+| **fax** | máy fax / gửi fax | fax | Reading 1 |
+| **GPS** | định vị toàn cầu | Global Positioning System | Reading 3 |
+| **keypad** | bàn phím số điện thoại | keypad = bàn phím | Mobile phones |
+| **LCD screen** | màn hình tinh thể lỏng | Liquid Crystal Display | Mobile phones |
+| **MMS** | tin nhắn đa phương tiện | Multimedia Messaging Service | Mobile phones |
+| **pay multimedia** | đa phương tiện trả phí | pay + multimedia | Reading 2 |
+| **ringtone** | nhạc chuông | ring + tone | Mobile phones |
+| **set-top box** | đầu giải mã truyền hình số | set-top + box | Reading 2 |
+| **SIM card** | thẻ SIM | Subscriber Identity Module | Mobile phones |
+| **spit** | cuộc gọi rác trên VoIP | Spam over Internet Telephony | VoIP section |
+| **telecommunications** | viễn thông | tele + communication | Reading 1 |
+| **telemarketing** | tiếp thị qua điện thoại | tele + marketing | Reading 1 |
+| **teletext** | thông tin văn bản trên TV | tele + text | Reading 1 |
+| **teleworking** | làm việc từ xa | tele + working | Reading 1 |
+| **VoIP** | điện thoại qua Internet | Voice over IP | VoIP section |
+| **wearable computer** | máy tính đeo trên người | wearable + computer | Reading 3 |
+| **widescreen** | màn hình rộng (16:9) | wide + screen | Reading 2 |
+| **wireless connectivity** | kết nối không dây | wire + less | Reading 3 |
 
 ---
 
@@ -174,7 +174,6 @@ Teleworking là phong cách làm việc từ xa. Call centre là tòa nhà trung
 | **VoIP** | Communication Tech | Transmission of voice calls over Internet Protocol | Truyền thông thoại qua giao thức Internet |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -546,40 +545,3 @@ For each of the following technologies, brainstorm and prepare notes on:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **ATA** | Bộ chuyển đổi điện thoại tương tự | Analog Telephone Adapter | VoIP section |
-| **brand** | thương hiệu | | Mobile phones |
-| **built-in camera** | camera tích hợp sẵn | built-in = tích hợp | Mobile phones |
-| **call centre** | trung tâm cuộc gọi | call + centre | Reading 1 |
-| **changeable faceplate** | vỏ máy thay đổi được | faceplate = mặt vỏ | Mobile phones |
-| **cyborg** | sinh vật cơ khí hóa | part robot, part human | Reading 3 |
-| **DAB** | phát thanh âm thanh số | Digital Audio Broadcasting | Reading 2 |
-| **digital radio** | phát thanh kỹ thuật số | digital + radio | Vocab, Reading 2 |
-| **digital TV** | truyền hình kỹ thuật số | digital + TV | Vocab, Reading 2 |
-| **DMB** | phát sóng đa phương tiện kỹ thuật số | Digital Multimedia Broadcasting | Reading 2 |
-| **DVB-H** | truyền hình số thiết bị cầm tay | Digital Video Broadcast-Handheld | Reading 2 |
-| **fax** | máy fax / gửi fax | fax | Reading 1 |
-| **GPS** | định vị toàn cầu | Global Positioning System | Reading 3 |
-| **keypad** | bàn phím số điện thoại | keypad = bàn phím | Mobile phones |
-| **LCD screen** | màn hình tinh thể lỏng | Liquid Crystal Display | Mobile phones |
-| **MMS** | tin nhắn đa phương tiện | Multimedia Messaging Service | Mobile phones |
-| **pay multimedia** | đa phương tiện trả phí | pay + multimedia | Reading 2 |
-| **ringtone** | nhạc chuông | ring + tone | Mobile phones |
-| **set-top box** | đầu giải mã truyền hình số | set-top + box | Reading 2 |
-| **SIM card** | thẻ SIM | Subscriber Identity Module | Mobile phones |
-| **spit** | cuộc gọi rác trên VoIP | Spam over Internet Telephony | VoIP section |
-| **telecommunications** | viễn thông | tele + communication | Reading 1 |
-| **telemarketing** | tiếp thị qua điện thoại | tele + marketing | Reading 1 |
-| **teletext** | thông tin văn bản trên TV | tele + text | Reading 1 |
-| **teleworking** | làm việc từ xa | tele + working | Reading 1 |
-| **VoIP** | điện thoại qua Internet | Voice over IP | VoIP section |
-| **wearable computer** | máy tính đeo trên người | wearable + computer | Reading 3 |
-| **widescreen** | màn hình rộng (16:9) | wide + screen | Reading 2 |
-| **wireless connectivity** | kết nối không dây | wire + less | Reading 3 |
-
----
-> *Cập nhật 2026-06-16: Bổ sung từ vựng, phần dán nhãn tính năng điện thoại di động (a-h), bộ câu hỏi thảo luận cuộc sống/sức khỏe và phần gợi ý thảo luận công nghệ tương lai.*

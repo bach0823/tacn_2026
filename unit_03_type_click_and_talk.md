@@ -2,28 +2,39 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **input device** | /ˈɪn.pʊt dɪˈvaɪs/ | thiết bị đầu vào | input = đưa vào |
-| **light pen** | /laɪt pen/ | bút quang | light = ánh sáng, pen = bút |
-| **graphics tablet** | /ˈɡræf.ɪks ˈtæb.lət/ | bàn vẽ đồ họa | dùng bút vẽ kỹ thuật số |
-| **trackball** | /ˈtræk.bɔːl/ | chuột bi ngược | track = theo dấu, ball = bóng |
-| **game controller** | /ɡeɪm kənˈtrəʊ.lər/ | tay cầm chơi game | controller = bộ điều khiển |
-| **cursor** | /ˈkɜː.sər/ | con trỏ chuột | |
-| **optical sensor** | /ˈɒp.tɪ.kəl ˈsen.sər/ | cảm biến quang học | optical = thuộc về ánh sáng |
-| **alphanumeric keys** | /ˌæl.fə.njuːˈmer.ɪk kiːz/ | phím chữ và số | alpha = chữ cái, numeric = số |
-| **function keys** | /ˈfʌŋk.ʃən kiːz/ | phím chức năng (F1-F12) | function = chức năng |
-| **numeric keypad** | /njuːˈmer.ɪk ˈkiː.pæd/ | nhóm phím số phụ | nhóm phím số bên phải |
-| **cursor control keys** | /ˈkɜː.sər kənˈtrəʊl kiːz/ | nhóm phím điều khiển con trỏ | phím mũi tên, Home, End... |
-| **dedicated keys** | /ˈded.ɪ.keɪ.tɪd kiːz/ | phím chuyên dụng | dedicate = cống hiến/dành riêng |
-| **space bar** | /speɪs bɑːr/ | phím cách | space = khoảng trống, bar = thanh |
-| **double-click** | /ˈdʌb.əl.klɪk/ | nhấp đúp chuột | nhấp nhanh 2 lần |
-| **drag and drop** | /dræɡ ænd drɒp/ | kéo và thả | drag = kéo, drop = thả |
-| **grab** | /ɡræb/ | nắm, túm lấy | giữ phím chuột để chọn góc |
-| **speech recognition** | /spiːtʃ ˌrek.əɡˈnɪʃ.ən/ | nhận dạng giọng nói | speech = lời nói, recognition = nhận dạng |
-| **accuracy rate** | /ˈæk.jə.rə.si reɪt/ | tỷ lệ chính xác | accurate = chính xác |
-| **dictation** | /dɪkˈteɪ.ʃən/ | sự đọc cho chép | dictate = đọc cho chép |
-| **sound card** | /saʊnd kɑːd/ | card âm thanh | phụ trách xử lý âm thanh |
+| **accuracy rate** | tỷ lệ chính xác | accurate = chính xác | Reading 3 |
+| **alphanumeric keys** | phím chữ và số | alpha = chữ, numeric = số | Keyboard layout |
+| **arrow keys** | phím mũi tên | arrow = mũi tên | Ex C |
+| **backspace** | phím xóa lùi | back = phía sau, space = khoảng cách | Ex C |
+| **built-in camera** | camera tích hợp sẵn | built-in = tích hợp | Reading 1 |
+| **Caps Lock** | phím khóa viết hoa | capital = viết hoa, lock = khóa | Ex C |
+| **Ctrl** | phím Control | control = điều khiển | Ex C |
+| **cursor** | con trỏ chuột | pointer | Reading 1, 2 |
+| **dedicated keys** | phím chuyên dụng | dedicate = dành riêng | Keyboard layout |
+| **dictation** | sự đọc cho chép | dictate = đọc cho chép | Reading 3 |
+| **double-click** | nhấp đúp | double = gấp đôi, click = nhấp chuột | Reading 2 |
+| **drag and drop** | kéo và thả | drag = kéo, drop = thả | Reading 2 |
+| **function keys** | phím chức năng | function = chức năng | Keyboard layout |
+| **game controller** | tay cầm chơi game | game = trò chơi, control = điều khiển | Reading 1 |
+| **grab** | nắm, túm lấy góc | | Reading 2 |
+| **graphics tablet** | bàn vẽ đồ họa | tablet = bảng | Reading 1 |
+| **input device** | thiết bị đầu vào | input = nhập | Reading 1 |
+| **keyboard** | bàn phím | board = bảng, key = phím | Reading 1 |
+| **light pen** | bút quang | light = ánh sáng, pen = bút | Reading 1 |
+| **microphone** | micrô | micro = nhỏ, phone = tiếng | Reading 1 |
+| **mouse** | chuột máy tính | mouse = con chuột | Reading 1, 2 |
+| **numeric keypad** | bàn phím số phụ | numeric = số | Keyboard layout |
+| **optical sensor** | cảm biến quang học | optic = mắt/ánh sáng | Reading 2 |
+| **return/enter** | phím xuống dòng, xác nhận | return = quay lại, enter = vào | Ex C |
+| **scanner** | máy quét tài liệu | scan = quét | Reading 1 |
+| **shift** | phím shift | shift = chuyển đổi | Ex C |
+| **sound card** | card âm thanh | card = thẻ | Reading 3 |
+| **space bar** | thanh phím cách | space = khoảng trống, bar = thanh | Ex C |
+| **speech recognition** | nhận dạng giọng nói | speech = lời nói, recognition = nhận dạng | Reading 3 |
+| **tab** | phím tabulator | tabulator = kẻ bảng | Ex C |
+| **trackball** | chuột bi ngược | track = theo dấu, ball = bóng | Reading 1 |
 
 ---
 
@@ -62,7 +73,7 @@ Input devices are the pieces of hardware which allow us to **enter information**
 
 - A **mouse** is a pointing device used to control the cursor and select items.
 
-> **[VI]** - **Chuột** là một thiết bị chỉ vị trí được sử dụng để điều khiển con trỏ và chọn các mục.
+> **[VI]** - **Chuột** là một thiết bị điều khiển con trỏ (pointing device) được sử dụng để điều khiển con trỏ và chọn các mục.
 >
 > 📌 *Tóm tắt:* Ngoài ra còn có bút quang, máy quét, chuột bi ngược, bàn vẽ đồ họa, tay cầm chơi game và micrô.
 
@@ -185,7 +196,6 @@ Click dùng để đặt con trỏ hoặc chọn menu. Double-click dùng để 
 | **Keyboard Driver** | System Software | Translate keystrokes for the operating system | Dịch thao tác gõ phím cho hệ điều hành hiểu |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -328,7 +338,7 @@ Answer the following questions based on the speech recognition systems reading:
 
 1. **A good sound card and a microphone** — Cần card âm thanh chất lượng tốt và một micrô thu âm đầu vào.
 2. **95% to 98%** — Tỷ lệ chính xác có thể đạt được của các phần mềm nhận diện giọng nói hiện đại.
-3. **By training the software (reading aloud sample texts)** — Đào tạo phần mềm bằng cách đọc to các văn bản mẫu để phần mềm nhận dạng giọng đọc.
+3. **By training the software (reading aloud sample texts)** — Huấn luyện phần mềm bằng cách đọc to các văn bản mẫu để phần mềm nhận dạng giọng đọc.
 4. **Specialized terms, slang, names of people or places** — Từ lóng, thuật ngữ kỹ thuật chuyên sâu và tên riêng thường thiếu trong từ điển mặc định.
 
 </details>
@@ -429,42 +439,3 @@ Answer the following questions based on the speech recognition systems reading:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **accuracy rate** | tỷ lệ chính xác | accurate = chính xác | Reading 3 |
-| **alphanumeric keys** | phím chữ và số | alpha = chữ, numeric = số | Keyboard layout |
-| **arrow keys** | phím mũi tên | arrow = mũi tên | Ex C |
-| **backspace** | phím xóa lùi | back = phía sau, space = khoảng cách | Ex C |
-| **built-in camera** | camera tích hợp sẵn | built-in = tích hợp | Reading 1 |
-| **Caps Lock** | phím khóa viết hoa | capital = viết hoa, lock = khóa | Ex C |
-| **Ctrl** | phím Control | control = điều khiển | Ex C |
-| **cursor** | con trỏ chuột | pointer | Reading 1, 2 |
-| **dedicated keys** | phím chuyên dụng | dedicate = dành riêng | Keyboard layout |
-| **dictation** | sự đọc cho chép | dictate = đọc cho chép | Reading 3 |
-| **double-click** | nhấp đúp | double = gấp đôi, click = nhấp chuột | Reading 2 |
-| **drag and drop** | kéo và thả | drag = kéo, drop = thả | Reading 2 |
-| **function keys** | phím chức năng | function = chức năng | Keyboard layout |
-| **game controller** | tay cầm chơi game | game = trò chơi, control = điều khiển | Reading 1 |
-| **grab** | nắm, túm lấy góc | | Reading 2 |
-| **graphics tablet** | bàn vẽ đồ họa | tablet = bảng | Reading 1 |
-| **input device** | thiết bị đầu vào | input = nhập | Reading 1 |
-| **keyboard** | bàn phím | board = bảng, key = phím | Reading 1 |
-| **light pen** | bút quang | light = ánh sáng, pen = bút | Reading 1 |
-| **microphone** | micrô | micro = nhỏ, phone = tiếng | Reading 1 |
-| **mouse** | chuột máy tính | mouse = con chuột | Reading 1, 2 |
-| **numeric keypad** | bàn phím số phụ | numeric = số | Keyboard layout |
-| **optical sensor** | cảm biến quang học | optic = mắt/ánh sáng | Reading 2 |
-| **return/enter** | phím xuống dòng, xác nhận | return = quay lại, enter = vào | Ex C |
-| **scanner** | máy quét tài liệu | scan = quét | Reading 1 |
-| **shift** | phím shift | shift = chuyển đổi | Ex C |
-| **sound card** | card âm thanh | card = thẻ | Reading 3 |
-| **space bar** | thanh phím cách | space = khoảng trống, bar = thanh | Ex C |
-| **speech recognition** | nhận dạng giọng nói | speech = lời nói, recognition = nhận dạng | Reading 3 |
-| **tab** | phím tabulator | tabulator = kẻ bảng | Ex C |
-| **trackball** | chuột bi ngược | track = theo dấu, ball = bóng | Reading 1 |
-
----
-> *Tạo mới file Unit 03 từ bản dịch song ngữ và các bài tập đi kèm.*

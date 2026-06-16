@@ -2,30 +2,39 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **broadband** | /ˈbrɔːd.bænd/ | băng thông rộng | broad = rộng, band = băng tần |
-| **ADSL** | | đường thuê bao số bất đối xứng | Asymmetric Digital Subscriber Line |
-| **modem** | /ˈməʊ.dem/ | bộ điều giải (modem) | modulator/demodulator |
-| **Internet Service Provider (ISP)** | | nhà cung cấp dịch vụ Internet | ISP |
-| **wireless router** | | bộ định tuyến không dây | router = bộ định tuyến |
-| **hotspot** | /ˈhɒt.spɒt/ | điểm phát Wi-Fi công cộng | hot = nóng, spot = điểm |
-| **TCP/IP** | | giao thức điều khiển truyền thông | Transmission Control Protocol / Internet Protocol |
-| **IP address** | | địa chỉ IP | định danh duy nhất của máy tính |
-| **web browser** | | trình duyệt web | browse = duyệt, xem |
-| **email client / mail program** | | phần mềm quản lý email khách | cài đặt trực tiếp trên máy |
-| **web-based email** | | email trên nền web | truy cập qua trình duyệt (Gmail...) |
-| **Usenet / newsgroup** | /ˈnjuːz.ɡruːp/ | nhóm tin thảo luận công cộng | news = tin tức, group = nhóm |
-| **newsreader** | /ˈnjuːzˌriː.dər/ | trình đọc tin Usenet | reader = người đọc |
-| **web forum** | /web ˈfɔː.rəm/ | diễn đàn mạng | forum = diễn đàn |
-| **message thread** | /thred/ | luồng tin nhắn (chủ đề thảo luận) | thread = sợi chỉ/luồng thảo luận |
-| **FTP (File Transfer Protocol)** | | giao thức truyền tệp tin | transfer = truyền tải |
-| **Telnet** | /ˈtel.net/ | giao thức đăng nhập máy tính từ xa | tele = từ xa, net = mạng |
-| **spam / junk mail** | /spæm/ /dʒʌŋk meɪl/ | thư rác, thư quảng cáo không yêu cầu | |
-| **emoticon / smiley** | /ɪˈməʊ.tɪ.kɒn/ | biểu tượng cảm xúc | emotion = cảm xúc, icon = biểu tượng |
-| **attachment** | /əˈtætʃ.mənt/ | tệp đính kèm | attach = đính kèm |
-| **mailbox** | /ˈmeɪl.bɒks/ | hộp thư | |
-| **log onto** | | đăng nhập vào hệ thống | log = ghi nhật ký, onto = lên trên |
+| **ADSL** | đường thuê bao số bất đối xứng | ADSL | Reading 1, Ex D |
+| **attachment** | tệp đính kèm email | attach = đính kèm | Reading 3, Ex G |
+| **Bcc** | bản sao ẩn danh | blind carbon copy | Reading 3 |
+| **broadband** | băng thông rộng | broad = rộng, band = băng tần | Reading 1, Ex D |
+| **cable** | cáp đường truyền | | Reading 1 |
+| **Cc** | bản sao thông báo | carbon copy | Reading 3 |
+| **chat** | trò chuyện trực tuyến | chat = tán gẫu | Reading 2, Ex E |
+| **email client** | phần mềm email khách | client = máy khách | Reading 3, Ex G |
+| **emoticon** | biểu tượng cảm xúc | emotion + icon | Reading 3, Ex G |
+| **FTP** | giao thức truyền tải tệp tin | File Transfer Protocol | Reading 2, Ex E |
+| **hotspot** | điểm phát sóng Wi-Fi công cộng | hot = nóng, spot = điểm | Reading 1, Ex D |
+| **IP address** | địa chỉ IP máy tính | Internet Protocol | Reading 1, Ex G |
+| **ISP** | nhà cung cấp dịch vụ Internet | Internet Service Provider | Reading 1, Ex C |
+| **log onto** | đăng nhập hệ thống từ xa | log = ghi sổ, onto = lên | Reading 2, Ex F |
+| **mail server** | máy chủ lưu trữ thư | mail = thư, server = máy chủ | Reading 3, Ex G |
+| **mailbox** | hộp thư | mail = thư, box = hộp | Reading 3 |
+| **mailing list** | danh sách gửi thư tự động | mail = thư, list = danh sách | Reading 2, Ex F |
+| **message thread** | luồng tin nhắn thảo luận | thread = sợi chỉ | Reading 2, Ex F |
+| **modem** | bộ điều giải tín hiệu | modulator + demodulator | Reading 1, Ex C |
+| **newsreader** | trình đọc tin Usenet | news = tin, reader = người đọc | Reading 2, Ex F |
+| **newsgroup** | nhóm tin thảo luận công cộng | news = tin, group = nhóm | Reading 2, Ex E |
+| **spam** | thư rác quảng cáo | | Reading 3, Ex G |
+| **subject** | chủ đề bức thư | subject = môn học/chủ đề | Reading 3, Ex G |
+| **TCP/IP** | bộ giao thức truyền thông Internet | Transmission Control Protocol | Reading 1, Ex D |
+| **Telnet** | điều khiển máy tính từ xa | tele = từ xa, net = mạng | Reading 2, Ex E |
+| **Usenet** | hệ thống nhóm tin Usenet | User Network | Reading 2 |
+| **web browser** | trình duyệt web | browse = xem qua | Reading 2, Ex F |
+| **web forum** | diễn đàn mạng | forum = diễn đàn | Reading 2 |
+| **web server** | máy chủ lưu trữ trang web | server = máy chủ | Reading 2 |
+| **web-based email** | dịch vụ thư trên nền web | web = mạng | Reading 3 |
+| **wireless router** | bộ định tuyến không dây | wire = dây, less = không | Ex C |
 
 ---
 
@@ -225,7 +234,6 @@ POP3 tải thư về máy rồi xóa trên máy chủ (chỉ đọc offline tố
 | **Outlook** | Email Client | Application for sending, receiving, and managing email | Ứng dụng gửi, nhận và quản lý thư điện tử |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -563,42 +571,3 @@ Read the email text and find the terms for these descriptions:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **ADSL** | đường thuê bao số bất đối xứng | ADSL | Reading 1, Ex D |
-| **attachment** | tệp đính kèm email | attach = đính kèm | Reading 3, Ex G |
-| **Bcc** | bản sao ẩn danh | blind carbon copy | Reading 3 |
-| **broadband** | băng thông rộng | broad = rộng, band = băng tần | Reading 1, Ex D |
-| **cable** | cáp đường truyền | | Reading 1 |
-| **Cc** | bản sao thông báo | carbon copy | Reading 3 |
-| **chat** | trò chuyện trực tuyến | chat = tán gẫu | Reading 2, Ex E |
-| **email client** | phần mềm email khách | client = máy khách | Reading 3, Ex G |
-| **emoticon** | biểu tượng cảm xúc | emotion + icon | Reading 3, Ex G |
-| **FTP** | giao thức truyền tải tệp tin | File Transfer Protocol | Reading 2, Ex E |
-| **hotspot** | điểm phát sóng Wi-Fi công cộng | hot = nóng, spot = điểm | Reading 1, Ex D |
-| **IP address** | địa chỉ IP máy tính | Internet Protocol | Reading 1, Ex G |
-| **ISP** | nhà cung cấp dịch vụ Internet | Internet Service Provider | Reading 1, Ex C |
-| **log onto** | đăng nhập hệ thống từ xa | log = ghi sổ, onto = lên | Reading 2, Ex F |
-| **mail server** | máy chủ lưu trữ thư | mail = thư, server = máy chủ | Reading 3, Ex G |
-| **mailbox** | hộp thư | mail = thư, box = hộp | Reading 3 |
-| **mailing list** | danh sách gửi thư tự động | mail = thư, list = danh sách | Reading 2, Ex F |
-| **message thread** | luồng tin nhắn thảo luận | thread = sợi chỉ | Reading 2, Ex F |
-| **modem** | bộ điều giải tín hiệu | modulator + demodulator | Reading 1, Ex C |
-| **newsreader** | trình đọc tin Usenet | news = tin, reader = người đọc | Reading 2, Ex F |
-| **newsgroup** | nhóm tin thảo luận công cộng | news = tin, group = nhóm | Reading 2, Ex E |
-| **spam** | thư rác quảng cáo | | Reading 3, Ex G |
-| **subject** | chủ đề bức thư | subject = môn học/chủ đề | Reading 3, Ex G |
-| **TCP/IP** | bộ giao thức truyền thông Internet | Transmission Control Protocol | Reading 1, Ex D |
-| **Telnet** | điều khiển máy tính từ xa | tele = từ xa, net = mạng | Reading 2, Ex E |
-| **Usenet** | hệ thống nhóm tin Usenet | User Network | Reading 2 |
-| **web browser** | trình duyệt web | browse = xem qua | Reading 2, Ex F |
-| **web forum** | diễn đàn mạng | forum = diễn đàn | Reading 2 |
-| **web server** | máy chủ lưu trữ trang web | server = máy chủ | Reading 2 |
-| **web-based email** | dịch vụ thư trên nền web | web = mạng | Reading 3 |
-| **wireless router** | bộ định tuyến không dây | wire = dây, less = không | Ex C |
-
----
-> *Tạo mới file Unit 06 từ bản dịch song ngữ và các bài tập đi kèm.*

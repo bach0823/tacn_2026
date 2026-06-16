@@ -2,32 +2,31 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **cybercrime** | /ˈsaɪ.bə.kraɪm/ | tội phạm mạng | cyber = mạng, crime = tội phạm |
-| **piracy** | /ˈpaɪ.rə.si/ | sự vi phạm bản quyền | phần mềm lậu |
-| **plagiarism** | /ˈpleɪ.dʒər.ɪ.zəm/ | sự đạo văn | lấy tác phẩm người khác làm của mình |
-| **malicious software / malware** | | phần mềm độc hại | malicious = hiểm độc, software = phần mềm |
-| **phishing** | /ˈfɪʃ.ɪŋ/ | giả mạo lừa đảo | lừa lấy mật khẩu, thông tin thẻ |
-| **IP spoofing** | | giả mạo địa chỉ IP | spoof = đánh lừa, giả mạo |
-| **cyberstalking** | | quấy rối trên mạng | stalk = rình rập, theo dõi |
-| **hacker** | /ˈhæk.ər/ | tin tặc / lập trình viên giỏi | nghĩa gốc là người đam mê máy tính |
-| **cracker** | /ˈkræk.ər/ | kẻ bẻ khóa (tin tặc mũ đen) | crack = bẻ khóa, phá hoại |
-| **white hat** | | tin tặc mũ trắng (bảo mật) | mũ trắng = người tốt |
-| **black hat** | | tin tặc mũ đen (phá hoại) | mũ đen = kẻ xấu |
-| **confidential information** | | thông tin bảo mật, bí mật | confident = tin tưởng |
-| **cookie** | /ˈkʊk.i/ | tệp cookie lưu trữ dữ liệu | tệp nhỏ lưu thông tin web |
-| **digital certificate** | | chứng thư số | certificate = chứng nhận |
-| **SSL (Secure Sockets Layer)** | | giao thức bảo mật truyền tải | lớp cổng bảo mật |
-| **encryption** | /ɪnˈkrɪp.ʃən/ | sự mã hóa dữ liệu | encrypt = mã hóa |
-| **decryption** | /dɪˈkrɪp.ʃən/ | sự giải mã dữ liệu | decrypt = giải mã |
-| **worm** | /wɜːm/ | sâu máy tính (tự nhân bản) | tự nhân bản lây qua mail |
-| **Trojan horse** | | mã độc Trojan (ẩn danh) | ngụy trang phần mềm hữu ích |
-| **spyware** | /ˈspaɪ.weər/ | phần mềm gián điệp | spy = gián điệp |
-| **adware** | /ˈæd.weər/ | phần mềm quảng cáo | ad (advertisement) = quảng cáo |
-| **prosecute** | /ˈprɒs.ɪ.kjuːt/ | truy tố, khởi tố | |
-| **extort** | /ɪkˈstɔːt/ | tống tiền | |
-| **copyright infringement** | | vi phạm bản quyền | infringe = xâm phạm |
+| **adware** | phần mềm quảng cáo | ad = quảng cáo, ware = đồ | Reading 4 |
+| **black hat / cracker** | tin tặc mũ đen | black = đen, hat = mũ | Reading 2 |
+| **confidential** | bảo mật, bí mật | confident = tin cậy | Reading 2, Ex B |
+| **cookie** | tệp cookie lưu thông tin | cookie = bánh quy | Reading 2 |
+| **cybercrime** | tội phạm mạng | crime = tội phạm | Reading 1, Ex A |
+| **cyberstalking** | quấy rối mạng | stalk = rình rập | Reading 1 |
+| **decryption** | sự giải mã | de- = giải, crypt = mật mã | Reading 2 |
+| **digital certificate** | chứng thư số | certificate = chứng nhận | Reading 2 |
+| **encryption** | sự mã hóa | en- = làm cho, crypt = mã | Reading 2 |
+| **extort** | tống tiền | | Reading 3, Ex D |
+| **firewall** | tường lửa | fire = lửa, wall = tường | Reading 2 |
+| **hacker** | tin tặc | hack = đột nhập | Reading 2 |
+| **IP spoofing** | giả mạo IP | spoof = đánh lừa | Reading 1 |
+| **malware** | phần mềm độc hại | malicious + software | Reading 2 |
+| **phishing** | giả mạo lừa đảo | password fishing | Reading 1 |
+| **piracy** | vi phạm bản quyền | pirate = cướp biển | Reading 1 |
+| **plagiarism** | đạo văn | | Reading 1 |
+| **prosecute** | truy tố | | Reading 3, Ex D |
+| **spyware** | phần mềm gián điệp | spy = gián điệp | Reading 4 |
+| **SSL** | lớp cổng bảo mật | Secure Sockets Layer | Reading 2 |
+| **Trojan horse** | mã độc Trojan | Trojan horse = ngựa gỗ Troia | Reading 4 |
+| **white hat** | tin tặc mũ trắng | white = trắng | Reading 2 |
+| **worm** | sâu máy tính | worm = con sâu | Reading 4 |
 
 ---
 
@@ -254,7 +253,6 @@ Phishing là lừa đảo ăn cắp mật khẩu/thẻ tín dụng. Spam chỉ l
 | **HTTPS** | Secure Protocol | Transfer secure encrypted web pages | Giao thức truyền tải trang web bảo mật mã hóa |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -496,34 +494,3 @@ Fill in the correct years (1969, 1971, 1982, 1991, 2001) for these Internet land
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **adware** | phần mềm quảng cáo | ad = quảng cáo, ware = đồ | Reading 4 |
-| **black hat / cracker** | tin tặc mũ đen | black = đen, hat = mũ | Reading 2 |
-| **confidential** | bảo mật, bí mật | confident = tin cậy | Reading 2, Ex B |
-| **cookie** | tệp cookie lưu thông tin | cookie = bánh quy | Reading 2 |
-| **cybercrime** | tội phạm mạng | crime = tội phạm | Reading 1, Ex A |
-| **cyberstalking** | quấy rối mạng | stalk = rình rập | Reading 1 |
-| **decryption** | sự giải mã | de- = giải, crypt = mật mã | Reading 2 |
-| **digital certificate** | chứng thư số | certificate = chứng nhận | Reading 2 |
-| **encryption** | sự mã hóa | en- = làm cho, crypt = mã | Reading 2 |
-| **extort** | tống tiền | | Reading 3, Ex D |
-| **firewall** | tường lửa | fire = lửa, wall = tường | Reading 2 |
-| **hacker** | tin tặc | hack = đột nhập | Reading 2 |
-| **IP spoofing** | giả mạo IP | spoof = đánh lừa | Reading 1 |
-| **malware** | phần mềm độc hại | malicious + software | Reading 2 |
-| **phishing** | giả mạo lừa đảo | password fishing | Reading 1 |
-| **piracy** | vi phạm bản quyền | pirate = cướp biển | Reading 1 |
-| **plagiarism** | đạo văn | | Reading 1 |
-| **prosecute** | truy tố | | Reading 3, Ex D |
-| **spyware** | phần mềm gián điệp | spy = gián điệp | Reading 4 |
-| **SSL** | lớp cổng bảo mật | Secure Sockets Layer | Reading 2 |
-| **Trojan horse** | mã độc Trojan | Trojan horse = ngựa gỗ Troia | Reading 4 |
-| **white hat** | tin tặc mũ trắng | white = trắng | Reading 2 |
-| **worm** | sâu máy tính | worm = con sâu | Reading 4 |
-
----
-> *Tạo mới file Unit 08 từ bản dịch song ngữ và các bài tập đi kèm.*

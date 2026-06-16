@@ -2,37 +2,36 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **hardware engineer** | /ˈhɑːdweər ˌendʒɪˈnɪər/ | kỹ sư phần cứng | hardware = phần cứng |
-| **software engineer** | /ˈsɒftweər ˌendʒɪˈnɪər/ | kỹ sư phần mềm | software = phần mềm |
-| **webmaster** | /ˈwebmɑːstər/ | quản trị viên website | web + master = chủ website |
-| **network administrator** | | quản trị viên mạng | network = mạng, admin = quản lý |
-| **computer security specialist** | | chuyên gia bảo mật máy tính | security = bảo mật |
-| **help desk technician** | | kỹ thuật viên hỗ trợ | help desk = bàn hỗ trợ |
-| **DTP operator** | | người vận hành xuất bản điện tử | Desktop Publishing |
-| **blog administrator** | | quản trị viên blog | |
-| **corrective action** | | hành động khắc phục | corrective = sửa chữa |
-| **cross-platform** | | tương thích đa nền tảng | cross = xuyên qua nhiều |
-| **cross-browser** | | tương thích đa trình duyệt | |
-| **site architecture** | | kiến trúc trang web | architecture = cấu trúc |
-| **QA signoff** | | ký duyệt kiểm định chất lượng | Quality Assurance |
-| **troubleshoot** | /ˈtrʌbəlʃuːt/ | xử lý sự cố | trouble = sự cố, shoot = giải quyết |
-| **curriculum vitae** | /kəˌrɪkjələm ˈviːtaɪ/ | hồ sơ xin việc (CV) | tiếng Latin: "tiến trình cuộc đời" |
-| **work placement** | | thực tập có hưởng lương | placement = sắp xếp chỗ làm |
-| **enthusiasm** | /ɪnˈθjuːziæzəm/ | sự nhiệt tình | |
-| **reliability** | /rɪˌlaɪəˈbɪləti/ | sự đáng tin cậy | reliable = đáng tin |
-| **punctuality** | /ˌpʌŋktʃuˈæləti/ | sự đúng giờ | punctual = đúng giờ |
-| **logical reasoning** | | lập luận logic | logical = hợp lý, reasoning = suy luận |
-| **tenacity** | /təˈnæs.ə.ti/ | sự kiên trì, bền bỉ | |
-| **accuracy** | /ˈæk.jə.rə.si/ | sự chính xác | accurate = chính xác |
-| **efficiency** | /ɪˈfɪʃ.ən.si/ | sự hiệu quả | efficient = hiệu quả |
-| **creativity** | /ˌkriː.eɪˈtɪv.ə.ti/ | sự sáng tạo | creative = sáng tạo |
-| **imagination** | /ɪˌmædʒ.ɪˈneɪ.ʃən/ | sự tưởng tượng | imagine = tưởng tượng |
-| **access control** | | kiểm soát truy cập | access = truy cập |
-| **COBOL** | | ngôn ngữ lập trình thương mại | Common Business-Oriented Language |
-| **debug** | /diːˈbʌɡ/ | gỡ lỗi phần mềm | de- = loại bỏ, bug = lỗi |
-| **security policy** | | chính sách bảo mật | policy = chính sách |
+| **access control** | kiểm soát truy cập | access = truy cập | Security Specialist tasks |
+| **accuracy** | sự chính xác | accurate = chính xác | Personal qualities |
+| **blog administrator** | quản trị viên blog | | Từ vựng Unit |
+| `COBOL` | ngôn ngữ lập trình thương mại | Common Business-Oriented Language | Letter of Application |
+| **corrective action** | hành động khắc phục | corrective = sửa chữa | Hardware Engineer tasks |
+| **creativity** | sự sáng tạo | creative = sáng tạo | Personal qualities |
+| **cross-browser** | tương thích đa trình duyệt | cross = xuyên qua | Webmaster tasks |
+| **cross-platform** | tương thích đa nền tảng | platform = nền tảng | Webmaster tasks |
+| **curriculum vitae** | hồ sơ xin việc (CV) | tiếng Latin | Letter of Application |
+| **debug** | gỡ lỗi phần mềm | de- = loại bỏ, bug = lỗi | Software Engineer tasks |
+| **DTP operator** | người vận hành xuất bản điện tử | Desktop Publishing | Từ vựng Unit |
+| **efficiency** | sự hiệu quả | efficient = hiệu quả | Personal qualities |
+| **enthusiasm** | sự nhiệt tình | | Personal skills |
+| **hardware engineer** | kỹ sư phần cứng | hardware = phần cứng | Jobs list |
+| **help desk technician** | kỹ thuật viên hỗ trợ | help desk = bàn hỗ trợ | Jobs list |
+| **imagination** | sự tưởng tượng | imagine = tưởng tượng | Personal qualities |
+| **logical reasoning** | lập luận logic | logical = hợp lý | Personal qualities |
+| **network administrator** | quản trị viên mạng | network = mạng | Jobs list |
+| **punctuality** | sự đúng giờ | punctual = đúng giờ | Personal skills |
+| `QA` | kiểm định chất lượng | Quality Assurance | Webmaster tasks |
+| **reliability** | sự đáng tin cậy | reliable = đáng tin | Personal skills |
+| **security policy** | chính sách bảo mật | | Security Specialist tasks |
+| **site architecture** | kiến trúc trang web | architecture = cấu trúc | Webmaster tasks |
+| **software engineer** | kỹ sư phần mềm | software = phần mềm | Jobs list |
+| **tenacity** | sự kiên trì, bền bỉ | | Personal qualities |
+| **troubleshoot** | xử lý sự cố | trouble = sự cố | Network Admin, Help Desk tasks |
+| **webmaster** | quản trị viên website | web + master = chủ website | Jobs list |
+| **work placement** | thực tập có hưởng lương | placement = sắp xếp chỗ làm | Letter of Application |
 
 ---
 
@@ -326,7 +325,6 @@ Hardware Engineer thiết kế vi mạch, viết thông số kỹ thuật thiế
 
 ---
 
-
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Giới từ chỉ thời gian: For, Since, Ago, Until
@@ -351,7 +349,6 @@ Hardware Engineer thiết kế vi mạch, viết thông số kỹ thuật thiế
 |---|---|---|
 | **Present Perfect** | Hành động còn liên quan đến hiện tại, không rõ thời điểm cụ thể. | I have designed four programs. *(thiết kế xong 4 chương trình, nay vẫn dùng/có ích)* |
 | **Past Simple** | Hành động đã kết thúc tại một thời điểm cụ thể trong quá khứ. | I graduated in May 2003. *(tốt nghiệp là việc đã xong trong quá khứ)* <br> I stayed in this job until March 2004. |
-
 
 ## 4. BÀI TẬP & ĐÁP ÁN (Exercises & Answer Key)
 
@@ -504,7 +501,6 @@ Follow the paragraph structure:
 - **Paragraph 5:** Reasons for applying — *I now feel ready to... and would welcome the opportunity to...*
 - **Paragraph 6:** Closing — *I enclose... I look forward to... I will be available for an interview...*
 
-
 ---
 
 <details>
@@ -616,39 +612,3 @@ Follow the paragraph structure:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **access control** | kiểm soát truy cập | access = truy cập | Security Specialist tasks |
-| **accuracy** | sự chính xác | accurate = chính xác | Personal qualities |
-| **blog administrator** | quản trị viên blog | | Từ vựng Unit |
-| `COBOL` | ngôn ngữ lập trình thương mại | Common Business-Oriented Language | Letter of Application |
-| **corrective action** | hành động khắc phục | corrective = sửa chữa | Hardware Engineer tasks |
-| **creativity** | sự sáng tạo | creative = sáng tạo | Personal qualities |
-| **cross-browser** | tương thích đa trình duyệt | cross = xuyên qua | Webmaster tasks |
-| **cross-platform** | tương thích đa nền tảng | platform = nền tảng | Webmaster tasks |
-| **curriculum vitae** | hồ sơ xin việc (CV) | tiếng Latin | Letter of Application |
-| **debug** | gỡ lỗi phần mềm | de- = loại bỏ, bug = lỗi | Software Engineer tasks |
-| **DTP operator** | người vận hành xuất bản điện tử | Desktop Publishing | Từ vựng Unit |
-| **efficiency** | sự hiệu quả | efficient = hiệu quả | Personal qualities |
-| **enthusiasm** | sự nhiệt tình | | Personal skills |
-| **hardware engineer** | kỹ sư phần cứng | hardware = phần cứng | Jobs list |
-| **help desk technician** | kỹ thuật viên hỗ trợ | help desk = bàn hỗ trợ | Jobs list |
-| **imagination** | sự tưởng tượng | imagine = tưởng tượng | Personal qualities |
-| **logical reasoning** | lập luận logic | logical = hợp lý | Personal qualities |
-| **network administrator** | quản trị viên mạng | network = mạng | Jobs list |
-| **punctuality** | sự đúng giờ | punctual = đúng giờ | Personal skills |
-| `QA` | kiểm định chất lượng | Quality Assurance | Webmaster tasks |
-| **reliability** | sự đáng tin cậy | reliable = đáng tin | Personal skills |
-| **security policy** | chính sách bảo mật | | Security Specialist tasks |
-| **site architecture** | kiến trúc trang web | architecture = cấu trúc | Webmaster tasks |
-| **software engineer** | kỹ sư phần mềm | software = phần mềm | Jobs list |
-| **tenacity** | sự kiên trì, bền bỉ | | Personal qualities |
-| **troubleshoot** | xử lý sự cố | trouble = sự cố | Network Admin, Help Desk tasks |
-| **webmaster** | quản trị viên website | web + master = chủ website | Jobs list |
-| **work placement** | thực tập có hưởng lương | placement = sắp xếp chỗ làm | Letter of Application |
-
----
-> *Cập nhật 2026-06-16: Bổ sung các mẩu tin tuyển dụng Senior Programmer, DTP operator, CV của Charles Graham, các bài tập dán nhãn đi kèm và cập nhật toàn bộ đáp án giải thích chi tiết.*

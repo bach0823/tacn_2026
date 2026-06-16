@@ -2,30 +2,30 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **nanotechnology** | /ˌnæn.əʊ.tekˈnɒl.ə.dʒi/ | công nghệ nano | nano = siêu nhỏ, technology = công nghệ |
-| **nanometre** | /ˈnæn.əˌmiː.tər/ | na-nô-mét | đơn vị đo bằng một phần tỷ mét |
-| **nanotransistor** | | bóng bán dẫn nano | transitor siêu nhỏ |
-| **nanobot** | /ˈnæn.əʊ.bɒt/ | robot siêu nhỏ (robot nano) | nano + bot (robot) |
-| **nanotube** | /ˈnæn.əʊ.tʃuːb/ | ống nano carbon | nano + tube (ống) |
-| **humanoid** | /ˈhjuː.mə.nɔɪd/ | robot có hình dáng giống người | human = người, oid = dạng |
-| **android** | /ˈæn.drɔɪd/ | robot hình người | robot mô phỏng người |
-| **expert system** | /ˈek.spɜːt ˌsɪs.təm/ | hệ chuyên gia | expert = chuyên gia, system = hệ thống |
-| **biometrics** | /ˌbaɪ.əʊˈmet.rɪks/ | sinh trắc học | bio = sinh học, metrics = đo lường |
-| **iris pattern** | | mẫu mống mắt | iris = mống mắt |
-| **retina pattern** | | mẫu võng mạc | retina = võng mạc |
-| **ubiquitous computing** | /juːˈbɪk.wɪ.təs kəmˈpjuː.tɪŋ/ | điện toán hiện diện khắp nơi | ubiquitous = khắp nơi |
-| **pervasive computing** | /pəˈveɪ.sɪv kəmˈpjuː.tɪŋ/ | điện toán phổ biến, lan tỏa | pervasive = lan tỏa |
-| **smart device** | /smɑːt dɪˈvaɪs/ | thiết bị thông minh | chứa bộ vi xử lý và bộ nhớ |
-| **embedded** | /ɪmˈbed.ɪd/ | được tích hợp, nhúng vào | nhúng vào môi trường |
-| **appliance** | /əˈplaɪ.əns/ | thiết bị gia dụng | thiết bị điện dùng trong nhà |
-| **RFID** | | nhận dạng qua tần số vô tuyến | Radio Frequency Identification |
-| **active tag** | | thẻ RFID chủ động | thẻ có tích hợp pin riêng |
-| **passive tag** | | thẻ RFID thụ động | thẻ không có pin riêng |
-| **radio tag** | | thẻ vô tuyến | |
-| **facial recognition** | | nhận diện khuôn mặt | facial = khuôn mặt |
-| **data mining** | | khai phá dữ liệu | data = dữ liệu, mining = khai mỏ |
+| **active tag** | thẻ RFID chủ động (có pin) | active = hoạt động | RFID section |
+| **android** | robot hình người | robot mô phỏng người | AI section |
+| **appliance** | thiết bị điện gia dụng | thiết bị trong nhà | Smart Home |
+| **biometrics** | sinh trắc học | bio = sinh học | Biometrics |
+| **data mining** | khai phá dữ liệu | mining = khai mỏ | Vocab list |
+| **embedded** | được nhúng, tích hợp | embed = gắn vào | Ubiquitous Computing |
+| **expert system** | hệ chuyên gia | expert = chuyên nghiệp | AI section |
+| **facial recognition** | nhận diện khuôn mặt | facial = khuôn mặt | Biometrics |
+| **humanoid** | dạng người, giống người | human + oid | AI section |
+| **iris pattern** | mẫu mống mắt | iris = mống mắt | Biometrics |
+| **nanobot** | robot siêu nhỏ (nano) | nano + bot | Nanotechnology |
+| **nanometre** | na-nô-mét | nano + metre | Nanotechnology |
+| **nanotechnology** | công nghệ nano | nano + technology | Nanotechnology |
+| **nanotransistor** | bóng bán dẫn nano | nano + transistor | Nanotechnology |
+| **nanotube** | ống nano carbon | nano + tube | Nanotechnology |
+| **passive tag** | thẻ RFID thụ động | passive = thụ động | RFID section |
+| **pervasive computing** | điện toán phổ biến, lan tỏa | pervasive = lan tỏa | Ubiquitous Computing |
+| **radio tag** | thẻ vô tuyến | | RFID section |
+| **retina pattern** | mẫu võng mạc | retina = võng mạc | Biometrics |
+| **RFID** | nhận dạng qua tần số vô tuyến | Radio Frequency Identification | RFID section |
+| **smart device** | thiết bị thông minh | smart = thông minh | Ubiquitous Computing |
+| **ubiquitous computing** | điện toán hiện diện khắp nơi | ubiquitous = mọi nơi | Ubiquitous Computing |
 
 ---
 
@@ -204,7 +204,6 @@ Hai từ đồng nghĩa chỉ máy tính nhúng mọi nơi, nhưng Ubiquitous nh
 | **Android** | Robotics | Humanoid robot designed to act like human | Robot hình người mô phỏng hành vi của con người |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -494,33 +493,3 @@ Discuss these predictions. Do you agree or disagree? Give reasons for your answe
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **active tag** | thẻ RFID chủ động (có pin) | active = hoạt động | RFID section |
-| **android** | robot hình người | robot mô phỏng người | AI section |
-| **appliance** | thiết bị điện gia dụng | thiết bị trong nhà | Smart Home |
-| **biometrics** | sinh trắc học | bio = sinh học | Biometrics |
-| **data mining** | khai phá dữ liệu | mining = khai mỏ | Vocab list |
-| **embedded** | được nhúng, tích hợp | embed = gắn vào | Ubiquitous Computing |
-| **expert system** | hệ chuyên gia | expert = chuyên nghiệp | AI section |
-| **facial recognition** | nhận diện khuôn mặt | facial = khuôn mặt | Biometrics |
-| **humanoid** | dạng người, giống người | human + oid | AI section |
-| **iris pattern** | mẫu mống mắt | iris = mống mắt | Biometrics |
-| **nanobot** | robot siêu nhỏ (nano) | nano + bot | Nanotechnology |
-| **nanometre** | na-nô-mét | nano + metre | Nanotechnology |
-| **nanotechnology** | công nghệ nano | nano + technology | Nanotechnology |
-| **nanotransistor** | bóng bán dẫn nano | nano + transistor | Nanotechnology |
-| **nanotube** | ống nano carbon | nano + tube | Nanotechnology |
-| **passive tag** | thẻ RFID thụ động | passive = thụ động | RFID section |
-| **pervasive computing** | điện toán phổ biến, lan tỏa | pervasive = lan tỏa | Ubiquitous Computing |
-| **radio tag** | thẻ vô tuyến | | RFID section |
-| **retina pattern** | mẫu võng mạc | retina = võng mạc | Biometrics |
-| **RFID** | nhận dạng qua tần số vô tuyến | Radio Frequency Identification | RFID section |
-| **smart device** | thiết bị thông minh | smart = thông minh | Ubiquitous Computing |
-| **ubiquitous computing** | điện toán hiện diện khắp nơi | ubiquitous = mọi nơi | Ubiquitous Computing |
-
----
-> *Cập nhật 2026-06-16: Bổ sung bài tập định nghĩa RFID, bổ sung bộ câu hỏi thảo luận về các dự đoán tương lai và cập nhật toàn bộ đáp án giải thích chi tiết.*

@@ -2,27 +2,29 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **digital age** | /ˈdɪdʒ.ɪ.təl eɪdʒ/ | kỷ nguyên số | digital = số, age = thời đại |
-| **digital generation** | /ˌdɪdʒ.ɪ.təl ˌdʒen.əˈreɪ.ʃən/ | thế hệ số | generation = thế hệ |
-| **word processor** | /wɜːd ˈprəʊ.ses.ər/ | phần mềm xử lý văn bản | word = từ, processor = bộ xử lý |
-| **database** | /ˈdeɪ.tə.beɪs/ | cơ sở dữ liệu | data = dữ liệu, base = cơ sở |
-| **built-in** | /ˌbɪltˈɪn/ | tích hợp sẵn | build = xây dựng, in = bên trong |
-| **financial transaction** | /faɪˈnæn.ʃəl trænˈzæk.ʃən/ | giao dịch tài chính | financial = tài chính, transaction = giao dịch |
-| **cashpoint / ATM** | /ˈkæʃ.pɔɪnt/ | máy rút tiền tự động | Automatic Teller Machine |
-| **dispense** | /dɪˈspens/ | phân phát, nhả tiền | máy ATM nhả tiền |
-| **PIN** | /pɪn/ | mã PIN (mã định danh cá nhân) | Personal Identification Number |
-| **online banking** | /ˌɒn.laɪn ˈbæŋ.kɪŋ/ | ngân hàng trực tuyến | banking = dịch vụ ngân hàng |
-| **monitor** | /ˈmɒn.ɪ.tər/ | màn hình / giám sát | |
-| **display** | /dɪˈspleɪ/ | hiển thị | |
-| **fuel consumption** | /fjuːəl kənˈsʌmp.ʃən/ | lượng tiêu thụ nhiên liệu | consume = tiêu thụ |
-| **regulate** | /ˈreɡ.jə.leɪt/ | điều tiết, điều phối | regular = đều đặn |
-| **air traffic** | /eər ˈtræf.ɪk/ | giao thông hàng không | traffic = giao thông |
-| **travel agency** | /ˈtræv.əl ˌeɪ.dʒən.si/ | đại lý du lịch | agency = đại lý |
-| **collocation** | /ˌkɒl.əˈkeɪ.ʃən/ | cụm từ thường đi cùng nhau | co- = cùng nhau, location = vị trí |
-| **spring to life** | | thức giấc, hoạt động sôi nổi | spring = lò xo/nảy lên |
-| **gadget** | /ˈɡædʒ.ɪt/ | thiết bị, tiện ích nhỏ | |
+| **air traffic** | giao thông hàng không | air = không trung, traffic = giao thông | Reading 2 |
+| **ATM** | máy rút tiền tự động | Automatic Teller Machine | Reading 2, Ex A |
+| **built-in** | tích hợp sẵn | build = xây dựng, in = trong | Vocab, Reading 1 |
+| **cashpoint** | điểm rút tiền (ATM) | cash = tiền mặt, point = điểm | Reading 2, Ex A |
+| **collocation** | cụm từ cố định | co- = cùng, location = vị trí | Ex C, D |
+| **database** | cơ sở dữ liệu | data = dữ liệu, base = nền tảng | Vocab, Reading 1 |
+| **digital age** | kỷ nguyên số | digital = số, age = thời đại | Vocab, Reading 1 |
+| **digital generation** | thế hệ số | generation = thế hệ | Reading 1 |
+| **dispense** | nhả tiền, phân phát | | Reading 2 |
+| **display** | hiển thị | play = chơi/trình diễn | Reading 2 |
+| **fuel consumption** | lượng tiêu thụ nhiên liệu | consume = tiêu thụ | Reading 2 |
+| **gadget** | thiết bị nhỏ, tiện ích | | Vocab, Magic of computers |
+| **GPS** | hệ thống định vị toàn cầu | Global Positioning System | Reading 1 |
+| **monitor** | màn hình | | Reading 2 |
+| **online banking** | dịch vụ ngân hàng trực tuyến | bank = ngân hàng | Reading 2 |
+| **perform** | thực hiện, thi hành | performance = sự thể hiện | Vocab, Reading 1 |
+| **PIN** | mã số định danh cá nhân | Personal Identification Number | Reading 2 |
+| **regulate** | điều phối, điều tiết | regular = đều đặn | Reading 2 |
+| **spring to life** | hoạt động sôi nổi | spring = nảy lên | Vocab, Magic of computers |
+| **travel agency** | đại lý du lịch | travel = du lịch | Reading 2 |
+| **word processor** | phần mềm soạn thảo văn bản | word = từ, processor = bộ xử lý | Vocab, Reading 1 |
 
 ---
 
@@ -48,13 +50,13 @@
 **English (Original)**
 We are now living in what some people call *the digital age*, meaning that computers have become an essential part of our lives. Young people who have grown up with PCs and mobile phones are often called *the digital generation*. Computers help students to **perform** mathematical **operations** and improve their maths skills. They are used to **access the Internet**, to **do basic research** and to communicate with other students around the world. Teachers use projectors and interactive whiteboards to **give presentations** and teach sciences, history or language courses. PCs are also used for administrative purposes - schools use word processors to **write letters**, and databases to **keep records** of students and teachers. A school website allows teachers to publish **exercises** for students to **complete** online. Students can also enroll for courses via the website and parents can download official reports.
 
-> **[VI]** Chúng ta hiện đang sống trong thời đại mà một số người gọi là *kỷ nguyên số*, có nghĩa là máy tính đã trở thành một phần thiết yếu trong cuộc sống của chúng ta. Những người trẻ tuổi lớn lên cùng với máy tính cá nhân và điện thoại di động thường được gọi là *thế hệ số*. Máy tính giúp học sinh **thực hiện** các **phép tính** toán học và cải thiện kỹ năng toán học của các em. Chúng được sử dụng để **truy cập Internet**, **thực hiện nghiên cứu cơ bản** và liên lạc với các học sinh khác trên khắp thế giới. Giáo viên sử dụng máy chiếu và bảng tương tác để **thuyết trình** và giảng dạy các môn khoa học, lịch sử hoặc các khóa học ngôn ngữ. Máy tính cá nhân cũng được sử dụng cho mục đích hành chính - nhà trường sử dụng phần mềm xử lý văn bản để **viết thư**, và cơ sở dữ liệu để **lưu giữ hồ sơ** của học sinh và giáo viên. Trang web của trường cho phép giáo viên đăng tải các **bài tập** để học sinh **hoàn thành** trực tuyến. Học sinh cũng có thể đăng ký các khóa học qua trang web và phụ huynh có thể tải xuống các học bạ chính thức.
+> **[VI]** Chúng ta hiện đang sống trong thời đại mà một số người gọi là *kỷ nguyên số*, có nghĩa là máy tính đã trở thành một phần thiết yếu trong cuộc sống của chúng ta. Những người trẻ tuổi lớn lên cùng với máy tính cá nhân và điện thoại di động thường được gọi là *thế hệ số*. Máy tính giúp học sinh **thực hiện** các **phép tính** toán học và cải thiện kỹ năng toán học của các em. Chúng được sử dụng để **truy cập Internet**, **tra cứu thông tin cơ bản** và liên lạc với các học sinh khác trên khắp thế giới. Giáo viên sử dụng máy chiếu và bảng tương tác để **thuyết trình** và giảng dạy các môn khoa học, lịch sử hoặc các khóa học ngôn ngữ. Máy tính cá nhân cũng được sử dụng cho mục đích hành chính - nhà trường sử dụng phần mềm soạn thảo văn bản để **viết thư**, và cơ sở dữ liệu để **lưu giữ hồ sơ** của học sinh và giáo viên. Trang web của trường cho phép giáo viên đăng tải các **bài tập** để học sinh **hoàn thành** trực tuyến. Học sinh cũng có thể đăng ký các khóa học qua trang web và phụ huynh có thể tải xuống các học bạ chính thức.
 >
 > 📌 *Tóm tắt:* Chúng ta đang sống trong kỷ nguyên số. Máy tính hỗ trợ học sinh học tập, nghiên cứu và giúp giáo viên thuyết trình, quản lý hồ sơ.
 
 Mobiles let you **make** voice **calls**, **send texts**, email people and download logos, ringtones or games. With a built-in camera you can send pictures and make video calls in *face-to-face* mode. New smartphones combine a telephone with web access, video, a games console, an MP3 player, a personal digital assistant (PDA) and a GPS navigation system, all in one.
 
-> **[VI]** Điện thoại di động cho phép bạn **thực hiện** các cuộc **gọi** thoại, **gửi tin nhắn**, gửi email cho mọi người và tải xuống logo, nhạc chuông hoặc trò chơi. Với camera tích hợp sẵn, bạn có thể gửi ảnh và thực hiện cuộc gọi video ở chế độ *mặt đối mặt*. Điện thoại thông minh mới kết hợp điện thoại với truy cập web, video, bảng điều khiển trò chơi, máy nghe nhạc MP3, thiết bị hỗ trợ kỹ thuật số cá nhân (PDA) và hệ thống dẫn đường GPS, tất cả trong một.
+> **[VI]** Điện thoại di động cho phép bạn **thực hiện** các cuộc **gọi** thoại, **gửi tin nhắn**, gửi email cho mọi người và tải xuống logo, nhạc chuông hoặc trò chơi. Với camera tích hợp sẵn, bạn có thể gửi ảnh và thực hiện cuộc gọi video ở chế độ *mặt đối mặt*. Điện thoại thông minh mới kết hợp điện thoại với truy cập web, video, máy chơi game (games console), máy nghe nhạc MP3, thiết bị hỗ trợ kỹ thuật số cá nhân (PDA) và hệ thống dẫn đường GPS, tất cả trong một.
 >
 > 📌 *Tóm tắt:* Điện thoại thông minh tích hợp nhiều chức năng như chụp ảnh, chơi game, nghe nhạc và định vị.
 
@@ -63,7 +65,7 @@ Mobiles let you **make** voice **calls**, **send texts**, email people and downl
 **English (Original)**
 In banks, computers store information about the money held by each customer and enable staff to access large databases and to carry out financial transactions at high speed. They also control the cashpoints, or ATMs (automatic teller machines), which dispense money to customers by the use of a PIN-protected card. People use a Chip and PIN card to pay for goods and services. Instead of using a signature to verify payments, customers are asked to enter a four-digit personal identification number (PIN), the same number used at cashpoints; this system makes transactions more secure. With online banking, clients can easily pay bills and transfer money from the comfort of their homes.
 
-> **[VI]** Tại các ngân hàng, máy tính lưu trữ thông tin về số tiền của mỗi khách hàng và cho phép nhân viên truy cập cơ sở dữ liệu lớn và thực hiện các giao dịch tài chính với tốc độ cao. Chúng cũng điều khiển các điểm rút tiền, hay máy ATM (máy rút tiền tự động), nơi nhả tiền cho khách hàng bằng cách sử dụng thẻ bảo vệ bằng mã PIN. Mọi người sử dụng thẻ Chip và PIN để thanh toán hàng hóa và dịch vụ. Thay vì sử dụng chữ ký để xác minh thanh toán, khách hàng được yêu cầu nhập mã số nhận dạng cá nhân gồm bốn chữ số (PIN), cùng số được sử dụng tại các điểm rút tiền; hệ thống này giúp các giao dịch an toàn hơn. Với dịch vụ ngân hàng trực tuyến, khách hàng có thể dễ dàng thanh toán hóa đơn và chuyển tiền ngay tại ngôi nhà thoải mái của mình.
+> **[VI]** Tại các ngân hàng, máy tính lưu trữ thông tin về số tiền của mỗi khách hàng và cho phép nhân viên truy cập cơ sở dữ liệu lớn và thực hiện các giao dịch tài chính với tốc độ cao. Chúng cũng điều khiển các cây rút tiền / máy ATM, hay máy ATM (máy rút tiền tự động), nơi nhả tiền cho khách hàng bằng cách sử dụng thẻ bảo vệ bằng mã PIN. Mọi người sử dụng thẻ Chip và PIN để thanh toán hàng hóa và dịch vụ. Thay vì sử dụng chữ ký để xác minh thanh toán, khách hàng được yêu cầu nhập mã số nhận dạng cá nhân gồm bốn chữ số (PIN), cùng số được sử dụng tại các cây rút tiền / máy ATM; hệ thống này giúp các giao dịch an toàn hơn. Với dịch vụ ngân hàng trực tuyến, khách hàng có thể dễ dàng thanh toán hóa đơn và chuyển tiền ngay tại tiện lợi ngay tại nhà.
 >
 > 📌 *Tóm tắt:* Trong ngân hàng, máy tính quản lý tài khoản, hỗ trợ giao dịch tốc độ cao và vận hành máy ATM bảo mật bằng mã PIN.
 
@@ -137,7 +139,6 @@ Word processor dùng soạn thảo văn bản hành chính (viết thư), còn d
 | **Wikipedia** | Collaborative Encyclopedia | Access collaborative reference articles | Tra cứu bách khoa toàn thư trực tuyến |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -401,32 +402,3 @@ Underline the main verb in the following sentences:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **air traffic** | giao thông hàng không | air = không trung, traffic = giao thông | Reading 2 |
-| **ATM** | máy rút tiền tự động | Automatic Teller Machine | Reading 2, Ex A |
-| **built-in** | tích hợp sẵn | build = xây dựng, in = trong | Vocab, Reading 1 |
-| **cashpoint** | điểm rút tiền (ATM) | cash = tiền mặt, point = điểm | Reading 2, Ex A |
-| **collocation** | cụm từ cố định | co- = cùng, location = vị trí | Ex C, D |
-| **database** | cơ sở dữ liệu | data = dữ liệu, base = nền tảng | Vocab, Reading 1 |
-| **digital age** | kỷ nguyên số | digital = số, age = thời đại | Vocab, Reading 1 |
-| **digital generation** | thế hệ số | generation = thế hệ | Reading 1 |
-| **dispense** | nhả tiền, phân phát | | Reading 2 |
-| **display** | hiển thị | play = chơi/trình diễn | Reading 2 |
-| **fuel consumption** | lượng tiêu thụ nhiên liệu | consume = tiêu thụ | Reading 2 |
-| **gadget** | thiết bị nhỏ, tiện ích | | Vocab, Magic of computers |
-| **GPS** | hệ thống định vị toàn cầu | Global Positioning System | Reading 1 |
-| **monitor** | màn hình | | Reading 2 |
-| **online banking** | dịch vụ ngân hàng trực tuyến | bank = ngân hàng | Reading 2 |
-| **perform** | thực hiện, thi hành | performance = sự thể hiện | Vocab, Reading 1 |
-| **PIN** | mã số định danh cá nhân | Personal Identification Number | Reading 2 |
-| **regulate** | điều phối, điều tiết | regular = đều đặn | Reading 2 |
-| **spring to life** | hoạt động sôi nổi | spring = nảy lên | Vocab, Magic of computers |
-| **travel agency** | đại lý du lịch | travel = du lịch | Reading 2 |
-| **word processor** | phần mềm xử lý văn bản | word = từ, processor = bộ xử lý | Vocab, Reading 1 |
-
----
-> *Tạo mới file Unit 01 từ bản dịch song ngữ và các bài tập đi kèm.*

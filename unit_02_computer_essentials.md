@@ -2,27 +2,39 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **central processing unit (CPU)** | | bộ xử lý trung tâm (CPU) | central = trung tâm, processing = xử lý |
-| **peripheral** | /pəˈrɪf.ər.əl/ | thiết bị ngoại vi | các thiết bị gắn ngoài |
-| **storage device** | /ˈstɔː.rɪdʒ dɪˈvaɪs/ | thiết bị lưu trữ | store = lưu trữ, device = thiết bị |
-| **input device** | /ˈɪn.pʊt dɪˈvaɪs/ | thiết bị đầu vào | nhập dữ liệu vào |
-| **output device** | /ˈaʊt.pʊt dɪˈvaɪs/ | thiết bị đầu ra | xuất thông tin ra |
-| **main memory** | /meɪn ˈmem.ər.i/ | bộ nhớ chính (RAM) | memory = bộ nhớ |
-| **modem / router** | | bộ điều giải / bộ định tuyến | dùng kết nối Internet |
-| **rear panel** | /rɪər ˈpæn.əl/ | mặt bảng điều khiển phía sau | rear = phía sau, panel = bảng |
-| **front panel** | /frʌnt ˈpæn.əl/ | mặt bảng điều khiển phía trước | front = phía trước |
-| **socket / port** | /ˈsɒk.ɪt/ /pɔːt/ | ổ cắm / cổng kết nối | |
-| **stylus** | /ˈstaɪ.ləs/ | bút cảm ứng | dùng viết lên màn hình |
-| **mainframe** | /ˈmeɪn.freɪm/ | máy tính lớn | dùng cho các tổ chức lớn |
-| **personal digital assistant (PDA)** | | thiết bị hỗ trợ kỹ thuật số cá nhân | máy tính cầm tay nhỏ gọn |
-| **capability** | /ˌkeɪ.pəˈbɪl.ə.ti/ | khả năng, năng lực | capable = có thể |
-| **accept** | /əkˈsept/ | chấp nhận, tiếp nhận | |
-| **process** | /ˈprəʊ.ses/ | xử lý | processor = bộ xử lý |
-| **permanent** | /ˈpɜː.mə.nənt/ | vĩnh viễn, lâu dài | trái nghĩa: temporary (tạm thời) |
-| **portable** | /ˈpɔː.tə.bəl/ | di động, dễ mang theo | port = cổng/mang đi |
-| **stylus** | /ˈstaɪ.ləs/ | bút cảm ứng | |
+| **accept** | chấp nhận, nhận dữ liệu | | Reading 1 |
+| **capability** | năng lực, khả năng | capable = có thể | Vocab, Ex E |
+| **central processing unit (CPU)** | bộ xử lý trung tâm | central = trung tâm, processing = xử lý | Reading 1, Ex A |
+| **database** | cơ sở dữ liệu | data = dữ liệu | Reading 1 |
+| **desktop PC** | máy tính để bàn | desktop = mặt bàn | Reading 2, Ex A |
+| **disk drive** | ổ đĩa | drive = ổ | Reading 1 |
+| **display** | hiển thị | | Reading 1 |
+| **execute** | thực thi, chạy | execution = sự thực thi | Reading 1 |
+| **front panel** | mặt trước thùng máy | front = trước | Reading 1 |
+| **hard drive** | ổ đĩa cứng | hard = cứng, drive = ổ | Reading 1 |
+| **hardware** | phần cứng | hard = cứng, ware = đồ dùng | Reading 1 |
+| **input** | đầu vào, dữ liệu nạp vào | in = vào, put = đặt | Reading 1 |
+| **keypad** | bàn phím số | key = phím | Reading 1 |
+| **laptop** | máy tính xách tay | lap = đùi, top = trên | Reading 2, Ex A |
+| **main memory** | bộ nhớ chính (RAM) | main = chính, memory = bộ nhớ | Reading 1 |
+| **mainframe** | máy tính lớn | main = chính, frame = khung | Reading 2, Ex D |
+| **modem** | bộ điều giải | modulator + demodulator | Reading 1, Ex A |
+| **monitor** | màn hình máy tính | | Reading 1 |
+| **output** | đầu ra, kết quả xuất ra | out = ra, put = đặt | Reading 1 |
+| **peripheral** | thiết bị ngoại vi | outer devices | Reading 1 |
+| **permanent** | vĩnh viễn, lâu dài | | Reading 1 |
+| **port** | cổng kết nối | connection port | Reading 1, Ex A |
+| **portable** | di động, dễ mang đi | port = mang/cổng | Reading 2, Ex D |
+| **process** | xử lý dữ liệu | processor = bộ xử lý | Reading 1 |
+| **rear panel** | mặt sau thùng máy | rear = sau | Reading 1 |
+| **router** | bộ định tuyến | route = tuyến đường | Ex A |
+| **socket** | khe cắm, ổ cắm | | Vocab, Ex C |
+| **software** | phần mềm | soft = mềm, ware = đồ dùng | Reading 1 |
+| **storage device** | thiết bị lưu trữ | store = lưu trữ | Reading 1 |
+| **stylus** | bút cảm ứng | | Reading 2, Ex D |
+| **tablet PC** | máy tính bảng | tablet = tấm bảng | Reading 2, Ex D |
 
 ---
 
@@ -145,7 +157,6 @@ Input (chuột, bàn phím, scanner) đưa dữ liệu vào. Output (màn hình,
 | **Database** | Application Software | Organize and retrieve structured data | Tổ chức và truy xuất dữ liệu có cấu trúc |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -431,42 +442,3 @@ Match the terms (1-5) with the correct definitions (a-e):
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **accept** | chấp nhận, nhận dữ liệu | | Reading 1 |
-| **capability** | năng lực, khả năng | capable = có thể | Vocab, Ex E |
-| **central processing unit (CPU)** | bộ xử lý trung tâm | central = trung tâm, processing = xử lý | Reading 1, Ex A |
-| **database** | cơ sở dữ liệu | data = dữ liệu | Reading 1 |
-| **desktop PC** | máy tính để bàn | desktop = mặt bàn | Reading 2, Ex A |
-| **disk drive** | ổ đĩa | drive = ổ | Reading 1 |
-| **display** | hiển thị | | Reading 1 |
-| **execute** | thực thi, chạy | execution = sự thực thi | Reading 1 |
-| **front panel** | mặt trước thùng máy | front = trước | Reading 1 |
-| **hard drive** | ổ đĩa cứng | hard = cứng, drive = ổ | Reading 1 |
-| **hardware** | phần cứng | hard = cứng, ware = đồ dùng | Reading 1 |
-| **input** | đầu vào, dữ liệu nạp vào | in = vào, put = đặt | Reading 1 |
-| **keypad** | bàn phím số | key = phím | Reading 1 |
-| **laptop** | máy tính xách tay | lap = đùi, top = trên | Reading 2, Ex A |
-| **main memory** | bộ nhớ chính (RAM) | main = chính, memory = bộ nhớ | Reading 1 |
-| **mainframe** | máy tính lớn | main = chính, frame = khung | Reading 2, Ex D |
-| **modem** | bộ điều giải | modulator + demodulator | Reading 1, Ex A |
-| **monitor** | màn hình máy tính | | Reading 1 |
-| **output** | đầu ra, kết quả xuất ra | out = ra, put = đặt | Reading 1 |
-| **peripheral** | thiết bị ngoại vi | outer devices | Reading 1 |
-| **permanent** | vĩnh viễn, lâu dài | | Reading 1 |
-| **port** | cổng kết nối | connection port | Reading 1, Ex A |
-| **portable** | di động, dễ mang đi | port = mang/cổng | Reading 2, Ex D |
-| **process** | xử lý dữ liệu | processor = bộ xử lý | Reading 1 |
-| **rear panel** | mặt sau thùng máy | rear = sau | Reading 1 |
-| **router** | bộ định tuyến | route = tuyến đường | Ex A |
-| **socket** | khe cắm, ổ cắm | | Vocab, Ex C |
-| **software** | phần mềm | soft = mềm, ware = đồ dùng | Reading 1 |
-| **storage device** | thiết bị lưu trữ | store = lưu trữ | Reading 1 |
-| **stylus** | bút cảm ứng | | Reading 2, Ex D |
-| **tablet PC** | máy tính bảng | tablet = tấm bảng | Reading 2, Ex D |
-
----
-> *Tạo mới file Unit 02 từ bản dịch song ngữ và các bài tập đi kèm.*

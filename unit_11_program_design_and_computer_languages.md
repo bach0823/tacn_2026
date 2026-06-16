@@ -2,23 +2,25 @@
 
 ## 1. TỪ VỰNG CHÍNH (Vocabulary)
 
-| Từ/Cụm từ (EN) | Phiên âm | Nghĩa (VI) | Gợi nhớ |
+| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
-| **flowchart** | /ˈfləʊtʃɑːt/ | sơ đồ khối, lưu đồ | flow (luồng) + chart (sơ đồ) |
-| **source code** | /ˈsɔːs kəʊd/ | mã nguồn | source (nguồn) + code (mã) |
-| **compiler** | /kəmˈpaɪlər/ | trình biên dịch | compile (biên dịch) |
-| **interpreter** | /ɪnˈtɜːprətər/ | trình thông dịch | interpret (thông dịch) |
-| **machine code** | /məˈʃiːn kəʊd/ | mã máy | mã nhị phân 0 và 1 vi xử lý hiểu trực tiếp |
-| **assembler** | /əˈsemblər/ | trình hợp dịch | dịch assembly sang mã máy |
-| **debugging** | /ˌdiːˈbʌɡɪŋ/ | việc gỡ lỗi | de- (loại bỏ) + bug (lỗi máy tính) |
-| **low-level language** | /ˌləʊˈlev.əl ˈlæŋ.ɡwɪdʒ/ | ngôn ngữ bậc thấp | gần phần cứng máy tính hơn |
-| **high-level language** | /ˌhaɪˈlev.əl ˈlæŋ.ɡwɪdʒ/ | ngôn ngữ bậc cao | gần ngôn ngữ tự nhiên của con người hơn |
-| **object-oriented programming** | /ˌɒbdʒɪkt ˌɔːrientɪd ˈprəʊɡræmɪŋ/ | lập trình hướng đối tượng | viết tắt là OOP |
-| **markup language** | /ˈmɑːkʌp ˈlæŋɡwɪdʒ/ | ngôn ngữ đánh dấu | dùng các thẻ để định dạng văn bản |
-| **markup tag** | /ˈmɑːkʌp tæɡ/ | thẻ đánh dấu | tag = thẻ |
-| **voice recognition** | /vɔɪs ˌrekəɡˈnɪʃn/ | nhận dạng giọng nói | voice (giọng nói) + recognition (nhận diện) |
-| **text-to-speech** | /tekst tuː spiːtʃ/ | chuyển văn bản thành giọng nói | text (văn bản) + speech (giọng nói) |
-| **applet** | /ˈæplət/ | ứng dụng con (web) | chương trình nhỏ nhúng trên trang web |
+| **assembler** | trình hợp dịch | dịch assembly sang mã máy | Reading 1, Ex E |
+| **assembly language** | ngôn ngữ hợp dịch | sử dụng từ viết tắt để giao tiếp | Reading 1 |
+| **bug** | lỗi máy tính | lỗi cú pháp hoặc logic trong chương trình | Ex E |
+| **compiler** | trình biên dịch | dịch toàn bộ mã nguồn cùng lúc | Reading 3, Ex A, Ex E |
+| **debugger** | phần mềm gỡ lỗi | công cụ phát hiện và dò lỗi | Ex E |
+| **debugging** | quá trình gỡ lỗi | de- = gỡ, bug = lỗi | Reading 3, Ex A, Ex E |
+| **flowchart** | sơ đồ khối, lưu đồ | flow = luồng, chart = sơ đồ | Ex A, Ex B |
+| **high-level language** | ngôn ngữ bậc cao | gần tiếng Anh của con người | Reading 1 |
+| **interpreter** | trình thông dịch | dịch và chạy từng dòng một | Reading 3 |
+| **low-level language** | ngôn ngữ bậc thấp | gần phần cứng máy tính | Reading 1 |
+| **machine code** | mã máy | nhị phân 0 và 1 vi xử lý hiểu trực tiếp | Reading 1, Ex A |
+| **markup language** | ngôn ngữ đánh dấu | dùng các thẻ để định dạng trang web | Reading 4 |
+| **markup tag** | thẻ đánh dấu | tags = các thẻ | Reading 4 |
+| **object-oriented programming** | lập trình hướng đối tượng | viết tắt là OOP | Reading 3 |
+| **source code** | mã nguồn | mã chương trình thô viết bằng ngôn ngữ | Reading 3, Ex A |
+| **text-to-speech** | văn bản thành giọng nói | đọc to văn bản thành giọng | Reading 5 |
+| **voice recognition** | nhận diện giọng nói | recognition = sự nhận dạng | Reading 5 |
 
 ---
 
@@ -210,7 +212,6 @@ Machine code chạy trực tiếp bằng nhị phân (0, 1). Assembly dùng từ
 | **Assembler** | Development Tool | Translate assembly language to machine code | Dịch hợp ngữ sang mã máy nhị phân |
 
 ---
-
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -586,25 +587,3 @@ Complete the table based on the reading profiles of Visual BASIC and VoiceXML:
 
 </details>
 
-
-## 5. GLOSSARY TỔNG HỢP
-
-| Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
-|---|---|---|---|
-| **assembler** | trình hợp dịch | dịch assembly sang mã máy | Reading 1, Ex E |
-| **assembly language** | ngôn ngữ hợp dịch | sử dụng từ viết tắt để giao tiếp | Reading 1 |
-| **bug** | lỗi máy tính | lỗi cú pháp hoặc logic trong chương trình | Ex E |
-| **compiler** | trình biên dịch | dịch toàn bộ mã nguồn cùng lúc | Reading 3, Ex A, Ex E |
-| **debugger** | phần mềm gỡ lỗi | công cụ phát hiện và dò lỗi | Ex E |
-| **debugging** | quá trình gỡ lỗi | de- = gỡ, bug = lỗi | Reading 3, Ex A, Ex E |
-| **flowchart** | sơ đồ khối, lưu đồ | flow = luồng, chart = sơ đồ | Ex A, Ex B |
-| **high-level language** | ngôn ngữ bậc cao | gần tiếng Anh của con người | Reading 1 |
-| **interpreter** | trình thông dịch | dịch và chạy từng dòng một | Reading 3 |
-| **low-level language** | ngôn ngữ bậc thấp | gần phần cứng máy tính | Reading 1 |
-| **machine code** | mã máy | nhị phân 0 và 1 vi xử lý hiểu trực tiếp | Reading 1, Ex A |
-| **markup language** | ngôn ngữ đánh dấu | dùng các thẻ để định dạng trang web | Reading 4 |
-| **markup tag** | thẻ đánh dấu | tags = các thẻ | Reading 4 |
-| **object-oriented programming** | lập trình hướng đối tượng | viết tắt là OOP | Reading 3 |
-| **source code** | mã nguồn | mã chương trình thô viết bằng ngôn ngữ | Reading 3, Ex A |
-| **text-to-speech** | văn bản thành giọng nói | đọc to văn bản thành giọng | Reading 5 |
-| **voice recognition** | nhận diện giọng nói | recognition = sự nhận dạng | Reading 5 |
