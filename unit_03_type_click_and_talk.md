@@ -50,57 +50,81 @@
 **English (Original)**
 Input devices are the pieces of hardware which allow us to **enter information** into the computer. The most common are the **keyboard** and the **mouse**. We can also interact with a computer by using one of these: a **light pen**, a **scanner**, a **trackball**, a **graphics tablet**, a **game controller** or a **microphone**.
 
+> **[VI]** Thiết bị đầu vào là các phần cứng cho phép chúng ta **nhập thông tin** vào máy tính. Phổ biến nhất là **bàn phím** và **chuột**. Chúng ta cũng có thể tương tác với máy tính bằng cách sử dụng một trong các thiết bị sau: **bút quang**, **máy quét**, **chuột bi ngược (trackball)**, **bàn vẽ đồ họa**, **tay cầm chơi game** hoặc **micrô**.
+>
+> 📌 *Tóm tắt:* Thiết bị đầu vào cho phép nạp thông tin vào máy tính.
+
 - A **keyboard** is used to type text and commands.
+
+> **[VI]** - **Bàn phím** được sử dụng để gõ văn bản và các câu lệnh.
+>
+> 📌 *Tóm tắt:* Phổ biến nhất là bàn phím và chuột.
+
 - A **mouse** is a pointing device used to control the cursor and select items.
+
+> **[VI]** - **Chuột** là một thiết bị chỉ vị trí được sử dụng để điều khiển con trỏ và chọn các mục.
+>
+> 📌 *Tóm tắt:* Ngoài ra còn có bút quang, máy quét, chuột bi ngược, bàn vẽ đồ họa, tay cầm chơi game và micrô.
+
 - A **light pen** works by detecting light from the computer screen and is used by pointing it directly at the screen display.
+
+> **[VI]** - **Bút quang** hoạt động bằng cách phát hiện ánh sáng từ màn hình máy tính và được sử dụng bằng cách trỏ trực tiếp vào màn hình hiển thị.
+>
+> 📌 *Tóm tắt:* 
+
 - A **graphics tablet** allows designers to draw naturally with a digital pen.
 
-> 📌 **Tóm tắt:** Thiết bị đầu vào cho phép nạp thông tin vào máy tính. Phổ biến nhất là bàn phím và chuột. Ngoài ra còn có bút quang, máy quét, chuột bi ngược, bàn vẽ đồ họa, tay cầm chơi game và micrô.
-
-> **[VI]** Thiết bị đầu vào là các phần cứng cho phép chúng ta **nhập thông tin** vào máy tính. Phổ biến nhất là **bàn phím** và **chuột**. Chúng ta cũng có thể tương tác với máy tính bằng cách sử dụng một trong các thiết bị sau: **bút quang**, **máy quét**, **chuột bi ngược (trackball)**, **bàn vẽ đồ họa**, **tay cầm chơi game** hoặc **micrô**.
-> - **Bàn phím** được sử dụng để gõ văn bản và các câu lệnh.
-> - **Chuột** là một thiết bị chỉ vị trí được sử dụng để điều khiển con trỏ và chọn các mục.
-> - **Bút quang** hoạt động bằng cách phát hiện ánh sáng từ màn hình máy tính và được sử dụng bằng cách trỏ trực tiếp vào màn hình hiển thị.
-> - **Bàn vẽ đồ họa** cho phép các nhà thiết kế vẽ tự nhiên bằng bút kỹ thuật số.
-
----
+> **[VI]** - **Bàn vẽ đồ họa** cho phép các nhà thiết kế vẽ tự nhiên bằng bút kỹ thuật số.
+>
+> 📌 *Tóm tắt:*
 
 ### Mouse Actions and Operations
 
 **English (Original)**
 A **mouse** allows you to **control** the cursor and move around the screen very quickly. Making the same movements with the arrow keys on the keyboard would take much longer. As you **move** the mouse on your desk, the pointer on the screen moves in the same direction. The pointer usually looks like an I-bar, an arrow, or a pointing hand, depending on what you are doing.
 
+> **[VI]** **Chuột** cho phép bạn **điều khiển** con trỏ và di chuyển khắp màn hình rất nhanh chóng. Thực hiện các chuyển động tương tự bằng các phím mũi tên trên bàn phím sẽ mất nhiều thời gian hơn. Khi bạn **di chuyển** chuột trên bàn làm việc, con trỏ trên màn hình sẽ di chuyển theo cùng một hướng. Con trỏ thường có dạng hình chữ I (thanh chèn), mũi tên hoặc bàn tay chỉ, tùy thuộc vào việc bạn đang làm.
+>
+> 📌 *Tóm tắt:* Chuột hỗ trợ di chuyển con trỏ nhanh chóng.
+
 A mouse has one or more buttons to communicate with the computer. For example, if you want to place the insertion point or choose a menu option, you just **click** (press and release) on the mouse button, and the option is chosen.
+
+> **[VI]** Chuột có một hoặc nhiều nút để giao tiếp với máy tính. Ví dụ: nếu bạn muốn đặt điểm chèn hoặc chọn một tùy chọn menu, bạn chỉ cần **nhấp chuột** (nhấn và thả) vào nút chuột và tùy chọn đó sẽ được chọn.
+>
+> 📌 *Tóm tắt:* Các thao tác chuột cơ bản gồm: click (chọn mục), select (bôi đen văn bản), drag (kéo thả ảnh), grab (túm góc để co giãn hình) và double-click (mở file/chạy chương trình).
 
 The mouse is also used to **select** text and items on the screen. You can highlight text to be deleted, copied or edited in some way.
 
+> **[VI]** Chuột cũng được sử dụng để **chọn** văn bản và các mục trên màn hình. Bạn có thể bôi đen văn bản để xóa, sao chép hoặc chỉnh sửa theo cách nào đó.
+>
+> 📌 *Tóm tắt:* 
+
 The mouse is widely used in graphics and design. When you want to move an image, you position the pointer on the object you want to move, press the mouse button, and **drag** the image to a new location on the screen. Similarly, the mouse is used to change the shape of a graphic object. For example, if you want to convert a square into a rectangle, you **grab** one corner of the square and stretch it into a rectangle.
+
+> **[VI]** Chuột được sử dụng rộng rãi trong đồ họa và thiết kế. Khi bạn muốn di chuyển một hình ảnh, bạn đặt con trỏ vào đối tượng bạn muốn di chuyển, nhấn nút chuột và **kéo** hình ảnh đó đến vị trí mới trên màn hình. Tương tự, chuột được dùng để thay đổi hình dạng của một đối tượng đồ họa. Ví dụ: nếu bạn muốn chuyển một hình vuông thành một hình chữ nhật, bạn **nắm lấy** một góc của hình vuông và kéo dài nó thành hình chữ nhật.
+>
+> 📌 *Tóm tắt:* 
 
 The mouse is also used to start a program or open a document: you put the pointer on the file name and **double-click** on the name - that is, you rapidly press and release the mouse button twice.
 
-> 📌 **Tóm tắt:** Chuột hỗ trợ di chuyển con trỏ nhanh chóng. Các thao tác chuột cơ bản gồm: click (chọn mục), select (bôi đen văn bản), drag (kéo thả ảnh), grab (túm góc để co giãn hình) và double-click (mở file/chạy chương trình).
-
-> **[VI]** **Chuột** cho phép bạn **điều khiển** con trỏ và di chuyển khắp màn hình rất nhanh chóng. Thực hiện các chuyển động tương tự bằng các phím mũi tên trên bàn phím sẽ mất nhiều thời gian hơn. Khi bạn **di chuyển** chuột trên bàn làm việc, con trỏ trên màn hình sẽ di chuyển theo cùng một hướng. Con trỏ thường có dạng hình chữ I (thanh chèn), mũi tên hoặc bàn tay chỉ, tùy thuộc vào việc bạn đang làm.
-> Chuột có một hoặc nhiều nút để giao tiếp với máy tính. Ví dụ: nếu bạn muốn đặt điểm chèn hoặc chọn một tùy chọn menu, bạn chỉ cần **nhấp chuột** (nhấn và thả) vào nút chuột và tùy chọn đó sẽ được chọn.
-> Chuột cũng được sử dụng để **chọn** văn bản và các mục trên màn hình. Bạn có thể bôi đen văn bản để xóa, sao chép hoặc chỉnh sửa theo cách nào đó.
-> Chuột được sử dụng rộng rãi trong đồ họa và thiết kế. Khi bạn muốn di chuyển một hình ảnh, bạn đặt con trỏ vào đối tượng bạn muốn di chuyển, nhấn nút chuột và **kéo** hình ảnh đó đến vị trí mới trên màn hình. Tương tự, chuột được dùng để thay đổi hình dạng của một đối tượng đồ họa. Ví dụ: nếu bạn muốn chuyển một hình vuông thành một hình chữ nhật, bạn **nắm lấy** một góc của hình vuông và kéo dài nó thành hình chữ nhật.
-> Chuột cũng được sử dụng để bắt đầu một chương trình hoặc mở một tài liệu: bạn đặt con trỏ vào tên tệp và **nhấp đúp** vào tên đó - tức là bạn nhấn và thả nhanh nút chuột hai lần.
-
----
+> **[VI]** Chuột cũng được sử dụng để bắt đầu một chương trình hoặc mở một tài liệu: bạn đặt con trỏ vào tên tệp và **nhấp đúp** vào tên đó - tức là bạn nhấn và thả nhanh nút chuột hai lần.
+>
+> 📌 *Tóm tắt:*
 
 ### Speech Recognition Systems
 
 **English (Original)**
-**Speech recognition systems** convert spoken language into text or computer commands. To operate, they need a good **sound card** and a **microphone**. Anne Simpson, an expert in voice input technologies, notes that modern software can take **dictation** with a high **accuracy rate** (up to 95-98%). 
+**Speech recognition systems** convert spoken language into text or computer commands. To operate, they need a good **sound card** and a **microphone**. Anne Simpson, an expert in voice input technologies, notes that modern software can take **dictation** with a high **accuracy rate** (up to 95-98%).
+
+> **[VI]** **Hệ thống nhận dạng giọng nói** chuyển đổi ngôn ngữ nói thành văn bản hoặc các lệnh máy tính. Để hoạt động, chúng cần một **card âm thanh** tốt và một **micrô**. Anne Simpson, một chuyên gia về công nghệ nhập giọng nói, lưu ý rằng phần mềm hiện đại có thể tiếp nhận **đọc ghi** với **tỷ lệ chính xác** cao (lên tới 95-98%).
+>
+> 📌 *Tóm tắt:* Hệ thống nhận dạng giọng nói chuyển lời nói thành văn bản hoặc câu lệnh. Cần có card âm thanh và micrô chất lượng cao.
 
 These systems allow you to execute programs, navigate menus, and even surf the Web using voice commands. To get the best results, users need to **train** the software by reading sample texts, so it can learn their voice patterns and accent. Specialized terms and slang are often not in the software's default dictionary, so they must be added manually.
 
-> 📌 **Tóm tắt:** Hệ thống nhận dạng giọng nói chuyển lời nói thành văn bản hoặc câu lệnh. Cần có card âm thanh và micrô chất lượng cao. Người dùng cần đào tạo (train) phần mềm bằng cách đọc các văn bản mẫu để tối ưu độ chính xác.
-
-> **[VI]** **Hệ thống nhận dạng giọng nói** chuyển đổi ngôn ngữ nói thành văn bản hoặc các lệnh máy tính. Để hoạt động, chúng cần một **card âm thanh** tốt và một **micrô**. Anne Simpson, một chuyên gia về công nghệ nhập giọng nói, lưu ý rằng phần mềm hiện đại có thể tiếp nhận **đọc ghi** với **tỷ lệ chính xác** cao (lên tới 95-98%).
-> Các hệ thống này cho phép bạn thực thi các chương trình, điều hướng menu và thậm chí lướt Web bằng lệnh giọng nói. Để có kết quả tốt nhất, người dùng cần **đào tạo** phần mềm bằng cách đọc các văn bản mẫu để nó có thể học mẫu giọng nói và giọng điệu của họ. Các thuật ngữ chuyên ngành và từ lóng thường không có trong từ điển mặc định của phần mềm nên phải được thêm vào thủ công.
-
----
+> **[VI]** Các hệ thống này cho phép bạn thực thi các chương trình, điều hướng menu và thậm chí lướt Web bằng lệnh giọng nói. Để có kết quả tốt nhất, người dùng cần **đào tạo** phần mềm bằng cách đọc các văn bản mẫu để nó có thể học mẫu giọng nói và giọng điệu của họ. Các thuật ngữ chuyên ngành và từ lóng thường không có trong từ điển mặc định của phần mềm nên phải được thêm vào thủ công.
+>
+> 📌 *Tóm tắt:* Người dùng cần đào tạo (train) phần mềm bằng cách đọc các văn bản mẫu để tối ưu độ chính xác.
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -123,9 +147,10 @@ Ngoài ra, khi mô tả đặc điểm phần cứng (features), ta dùng:
 
 ---
 
-## 4. BÀI TẬP (Exercises)
+## 4. BÀI TẬP & ĐÁP ÁN (Exercises & Answer Key)
 
 ### Exercise A — Labelling Input Devices
+
 Match the input devices from the box with their descriptions (1-8):
 *light pen, game controller, scanner, mouse, keyboard, graphics tablet, trackball, microphone*
 
@@ -138,7 +163,22 @@ Match the input devices from the box with their descriptions (1-8):
 7. A device used by gamers to navigate and control actions in video games.
 8. An audio input device used to record voice or input speech commands.
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **keyboard** — Bàn phím dùng để nhập ký tự.
+2. **mouse** — Chuột dùng để di chuyển con trỏ trên mặt phẳng.
+3. **light pen** — Bút quang chọn trực tiếp lên màn hình CRT.
+4. **trackball** — Chuột bi ngược xoay bằng ngón tay.
+5. **scanner** — Máy quét số hóa tài liệu giấy.
+6. **graphics tablet** — Bàn vẽ đồ họa dùng bút vẽ kỹ thuật số.
+7. **game controller** | **gamepad** — Tay cầm chơi game.
+8. **microphone** — Micrô ghi âm đầu vào giọng nói.
+
+</details>
+
 ### Exercise B — Grammar: Describing Functions
+
 Complete these sentences using the correct form of the verbs in brackets:
 1. A mouse is a device used ________________ (control) the cursor.
 2. A scanner is designed for ________________ (convert) paper documents into digital images.
@@ -146,7 +186,19 @@ Complete these sentences using the correct form of the verbs in brackets:
 4. This new software allows users ________________ (input) data by speaking.
 5. A graphics tablet is a device which ________________ (help) designers draw digital sketches.
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **to control** — Sau cấu trúc "used + to" là động từ nguyên thể.
+2. **converting** — Sau giới từ "for" là động từ thêm -ing (gerund).
+3. **detecting** — Sau cấu trúc "work by" là động từ thêm -ing (gerund).
+4. **to input** — Cấu trúc "allow + O + to + V" (cho phép ai làm gì).
+5. **helps** — Đại từ quan hệ "which" làm chủ ngữ số ít (a device), động từ "help" phải thêm "s".
+
+</details>
+
 ### Exercise C — Keyboard Keys Identification
+
 Match these descriptions (1-8) with the correct keys (a-h):
 1. A long key at the bottom of the keyboard. Each time it is pressed, it produces a blank space.
 2. It moves the cursor to the beginning of a new line. It is also used to confirm commands.
@@ -166,71 +218,9 @@ Match these descriptions (1-8) with the correct keys (a-h):
 - g. backspace
 - h. Ctrl
 
-### Exercise D — Mouse Actions Fill-in-the-blank
-Complete the text about mouse actions using these words:
-*click, control, double-click, drag, grab, move, select*
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
-A mouse allows you to (1) ________________ the cursor and move around the screen very quickly. As you (2) ________________ the mouse on your desk, the pointer on the screen moves in the same direction. If you want to place the insertion point, you just (3) ________________ on the mouse button. The mouse is also used to (4) ________________ text and items on the screen to highlight them. When you want to move an image, you press the mouse button and (5) ________________ the image to a new location. In graphics programs, you can (6) ________________ one corner of a shape and stretch it. To open a document, you put the pointer on the file name and (7) ________________ on it.
-
-### Exercise E — Speech Recognition Comprehension
-Answer the following questions based on the speech recognition systems reading:
-1. What hardware components are required for voice input?
-2. What is the average accuracy rate of modern speech recognition software?
-3. How can users make the speech recognition software more accurate for their voice?
-4. What kinds of words are typically missing from the software's built-in dictionary?
-
----
-
-### 🧪 Mini Quiz
-
-**Câu 1 (Trắc nghiệm):** Which key combination is commonly used to copy selected text?
-- a. Shift + C
-- b. Ctrl + C
-- c. Alt + C
-
-**Câu 2 (Trắc nghiệm):** What does the gerund after "work by" describe?
-- a. the price of a device
-- b. how the device operates
-- c. the size of a device
-
-**Câu 3 (Điền từ):** The mouse action that involves holding down the button and moving an object is called _____________ and drop.
-
-**Câu 4 (Điền từ):** Which key on the keyboard is used to confirm command lines and move to a new line? _____________
-
-**Câu 5 (Điền từ):** State whether this is True or False: "Specialized technical terms are usually found in the speech software's default dictionary." _____________
-
-**Câu 6 (Trắc nghiệm):** Which grammar pattern describes the function of a device?
-- a. a device used to + V-ing
-- b. a device for + V-ing
-- c. a device which for + V
-
-**Câu 7 (Nối):** Nối loại phím bàn phím với định nghĩa tương ứng:
-1. Function keys — A. Các phím mũi tên điều khiển hướng
-2. Alphanumeric keys — B. Phím chức năng từ F1 đến F12 ở hàng trên cùng
-3. Cursor control keys — C. Các phím chứa ký tự chữ cái và số thường dùng
-
----
-
-## 5. ĐÁP ÁN (Answer Key)
-
-### Exercise A — Labelling Input Devices
-1. **keyboard** — Bàn phím dùng để nhập ký tự.
-2. **mouse** — Chuột dùng để di chuyển con trỏ trên mặt phẳng.
-3. **light pen** — Bút quang chọn trực tiếp lên màn hình CRT.
-4. **trackball** — Chuột bi ngược xoay bằng ngón tay.
-5. **scanner** — Máy quét số hóa tài liệu giấy.
-6. **graphics tablet** — Bàn vẽ đồ họa dùng bút vẽ kỹ thuật số.
-7. **game controller** | **gamepad** — Tay cầm chơi game.
-8. **microphone** — Micrô ghi âm đầu vào giọng nói.
-
-### Exercise B — Grammar: Describing Functions
-1. **to control** — Sau cấu trúc "used + to" là động từ nguyên thể.
-2. **converting** — Sau giới từ "for" là động từ thêm -ing (gerund).
-3. **detecting** — Sau cấu trúc "work by" là động từ thêm -ing (gerund).
-4. **to input** — Cấu trúc "allow + O + to + V" (cho phép ai làm gì).
-5. **helps** — Đại từ quan hệ "which" làm chủ ngữ số ít (a device), động từ "help" phải thêm "s".
-
-### Exercise C — Keyboard Keys Identification
 1. **f** (space bar) — Thanh phím dài tạo khoảng trắng.
 2. **b** (return/enter) — Phím xuống dòng và xác nhận lệnh.
 3. **h** (Ctrl) — Phím Ctrl kết hợp phím khác (Ctrl + C để copy).
@@ -240,7 +230,18 @@ Answer the following questions based on the speech recognition systems reading:
 7. **e** (tab) — Phím dịch con trỏ một khoảng ngang cố định.
 8. **a** (arrow keys) — Các phím mũi tên điều hướng.
 
+</details>
+
 ### Exercise D — Mouse Actions Fill-in-the-blank
+
+Complete the text about mouse actions using these words:
+*click, control, double-click, drag, grab, move, select*
+
+A mouse allows you to (1) ________________ the cursor and move around the screen very quickly. As you (2) ________________ the mouse on your desk, the pointer on the screen moves in the same direction. If you want to place the insertion point, you just (3) ________________ on the mouse button. The mouse is also used to (4) ________________ text and items on the screen to highlight them. When you want to move an image, you press the mouse button and (5) ________________ the image to a new location. In graphics programs, you can (6) ________________ one corner of a shape and stretch it. To open a document, you put the pointer on the file name and (7) ________________ on it.
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 1. **control** — kiểm soát con trỏ chuột.
 2. **move** — di chuyển chuột trên bàn.
 3. **click** — nhấp chuột để chọn mục.
@@ -249,36 +250,114 @@ Answer the following questions based on the speech recognition systems reading:
 6. **grab** — nắm/túm lấy góc hình để co giãn.
 7. **double-click** — nhấp đúp để mở tài liệu/chương trình.
 
+</details>
+
 ### Exercise E — Speech Recognition Comprehension
+
+Answer the following questions based on the speech recognition systems reading:
+1. What hardware components are required for voice input?
+2. What is the average accuracy rate of modern speech recognition software?
+3. How can users make the speech recognition software more accurate for their voice?
+4. What kinds of words are typically missing from the software's built-in dictionary?
+
+---
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 1. **A good sound card and a microphone** — Cần card âm thanh chất lượng tốt và một micrô thu âm đầu vào.
 2. **95% to 98%** — Tỷ lệ chính xác có thể đạt được của các phần mềm nhận diện giọng nói hiện đại.
 3. **By training the software (reading aloud sample texts)** — Đào tạo phần mềm bằng cách đọc to các văn bản mẫu để phần mềm nhận dạng giọng đọc.
 4. **Specialized terms, slang, names of people or places** — Từ lóng, thuật ngữ kỹ thuật chuyên sâu và tên riêng thường thiếu trong từ điển mặc định.
 
-### Mini Quiz
+</details>
+
+### 🧪 Mini Quiz
+
+**Câu 1 (Trắc nghiệm):** Which key combination is commonly used to copy selected text?
+- a. Shift + C
+- b. Ctrl + C
+- c. Alt + C
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 **Câu 1 (Trắc nghiệm):**
 *   **b. Ctrl + C ✓** — Tổ hợp phím tắt tiêu chuẩn để sao chép (copy) văn bản.
 *   - a. Shift + C ✗ — Tổ hợp này chỉ gõ chữ C in hoa.
 *   - c. Alt + C ✗ — Lệnh tắt khác không phải sao chép.
+
+</details>
+
+**Câu 2 (Trắc nghiệm):** What does the gerund after "work by" describe?
+- a. the price of a device
+- b. how the device operates
+- c. the size of a device
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 2 (Trắc nghiệm):**
 *   **b. how the device operates ✓** — Cấu trúc "work by + V-ing" chỉ cách thức thiết bị vận hành/hoạt động.
 *   - a. the price ✗ — Giá cả không liên quan đến cấu trúc này.
 *   - c. the size ✗ — Kích thước không liên quan đến cấu trúc này.
 
+</details>
+
+**Câu 3 (Điền từ):** The mouse action that involves holding down the button and moving an object is called _____________ and drop.
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 **Câu 3 (Điền từ):**
 *   **drag** — Thao tác kéo thả được gọi là "drag and drop" trong tiếng Anh máy tính.
+
+</details>
+
+**Câu 4 (Điền từ):** Which key on the keyboard is used to confirm command lines and move to a new line? _____________
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 4 (Điền từ):**
 *   **enter** (hoặc **return**) — Phím Enter dùng để xác nhận lệnh và xuống dòng mới.
 
+</details>
+
+**Câu 5 (Điền từ):** State whether this is True or False: "Specialized technical terms are usually found in the speech software's default dictionary." _____________
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 **Câu 5 (Điền từ):**
 *   **False** (suy luận) — Từ điển mặc định thường thiếu từ chuyên ngành sâu và tiếng lóng, cần phải tự nhập tay bổ sung.
+
+</details>
+
+**Câu 6 (Trắc nghiệm):** Which grammar pattern describes the function of a device?
+- a. a device used to + V-ing
+- b. a device for + V-ing
+- c. a device which for + V
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 6 (Trắc nghiệm):**
 *   **b. a device for + V-ing ✓** — Đây là cấu trúc đúng để chỉ chức năng (for + danh động từ).
 *   - a. a device used to + V-ing ✗ — Cấu trúc đúng phải là "used to + V" (động từ nguyên thể).
 *   - c. a device which for + V ✗ — Sai cấu trúc ngữ pháp.
+
+</details>
+
+**Câu 7 (Nối):** Nối loại phím bàn phím với định nghĩa tương ứng:
+1. Function keys — A. Các phím mũi tên điều khiển hướng
+2. Alphanumeric keys — B. Phím chức năng từ F1 đến F12 ở hàng trên cùng
+3. Cursor control keys — C. Các phím chứa ký tự chữ cái và số thường dùng
+
+---
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 7 (Nối):**
 *   **1-B** (Function keys — Phím chức năng từ F1 đến F12 ở hàng trên cùng)
@@ -287,7 +366,10 @@ Answer the following questions based on the speech recognition systems reading:
 
 ---
 
-## 6. GLOSSARY TỔNG HỢP
+</details>
+
+
+## 5. GLOSSARY TỔNG HỢP
 
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|

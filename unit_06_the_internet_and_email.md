@@ -51,68 +51,117 @@
 **English (Original)**
 The research that led to what we now know as the **Internet** was begun in the 1960s. The initial research was carried out by the *Advanced Research Projects Agency (ARPA)* in America, funded by the US government. It took many years for the Internet to become popular. It's only really since the mid-90s that the Internet has been a part of our daily lives.
 
+> **[VI]** Nghiên cứu dẫn đến những gì chúng ta biết ngày nay là **Internet** được bắt đầu vào những năm 1960. Nghiên cứu ban đầu được thực hiện bởi *Cơ quan Dự án Nghiên cứu Tiên tiến (ARPA)* ở Mỹ, do chính phủ Hoa Kỳ tài trợ. Phải mất nhiều năm Internet mới trở nên phổ biến. Thực sự chỉ từ giữa những năm 90, Internet mới trở thành một phần trong cuộc sống hàng ngày của chúng ta.
+>
+> 📌 *Tóm tắt:* Internet bắt đầu nghiên cứu từ những năm 1960 bởi ARPA (Mỹ). Để kết nối cần modem, phần mềm và tài khoản ISP.
+
 To get connected, you need a computer, the right connection software and a **modem** connected to the phone line. You also need an account with an **Internet Service Provider (ISP)**, which acts as a gateway between your PC and the rest of the Net. Today, ISPs offer a **broadband**, high-speed connection. The most common types are **cable** — offered by local cable TV companies — and **ADSL** (*Asymmetric Digital Subscriber Line*), which works through phone lines.
+
+> **[VI]** Để kết nối, bạn cần một máy tính, phần mềm kết nối phù hợp và một **modem** được kết nối với đường dây điện thoại. Bạn cũng cần một tài khoản với **Nhà cung cấp dịch vụ Internet (ISP)**, đóng vai trò là cổng kết nối giữa PC của bạn và phần còn lại của Mạng. Ngày nay, các ISP cung cấp kết nối **băng thông rộng** (broadband) tốc độ cao. Các loại phổ biến nhất là cáp — được cung cấp bởi các công ty truyền hình cáp địa phương — và **ADSL** (Đường thuê bao số bất đối xứng), hoạt động qua đường dây điện thoại.
+>
+> 📌 *Tóm tắt:* Hiện nay kết nối băng thông rộng (broadband) qua cáp hoặc ADSL rất phổ biến.
 
 The language used for data transfer on the Internet is known as **TCP/IP** (*transmission control protocol/ Internet protocol*). Every computer connected to the Net is identified by a unique **IP address**. Other methods of internet access include **Wi-Fi**, satellite, mobile phones and TV sets. Wi-Fi-enabled laptops allow you to connect to the Net if you are near a wireless access point, in locations called **hotspots** (for example, a Wi-Fi cafe).
 
-> 📌 **Tóm tắt:** Internet bắt đầu nghiên cứu từ những năm 1960 bởi ARPA (Mỹ). Để kết nối cần modem, phần mềm và tài khoản ISP. Hiện nay kết nối băng thông rộng (broadband) qua cáp hoặc ADSL rất phổ biến. Mạng chạy trên giao thức TCP/IP và nhận diện qua địa chỉ IP.
-
-> **[VI]** Nghiên cứu dẫn đến những gì chúng ta biết ngày nay là **Internet** được bắt đầu vào những năm 1960. Nghiên cứu ban đầu được thực hiện bởi *Cơ quan Dự án Nghiên cứu Tiên tiến (ARPA)* ở Mỹ, do chính phủ Hoa Kỳ tài trợ. Phải mất nhiều năm Internet mới trở nên phổ biến. Thực sự chỉ từ giữa những năm 90, Internet mới trở thành một phần trong cuộc sống hàng ngày của chúng ta.
-> Để kết nối, bạn cần một máy tính, phần mềm kết nối phù hợp và một **modem** được kết nối với đường dây điện thoại. Bạn cũng cần một tài khoản với **Nhà cung cấp dịch vụ Internet (ISP)**, đóng vai trò là cổng kết nối giữa PC của bạn và phần còn lại của Mạng. Ngày nay, các ISP cung cấp kết nối **băng thông rộng** (broadband) tốc độ cao. Các loại phổ biến nhất là cáp — được cung cấp bởi các công ty truyền hình cáp địa phương — và **ADSL** (Đường thuê bao số bất đối xứng), hoạt động qua đường dây điện thoại.
-> Ngôn ngữ được sử dụng để truyền dữ liệu trên Internet được gọi là **TCP/IP** (giao thức kiểm soát truyền dữ liệu/giao thức Internet). Mỗi máy tính kết nối với Mạng được nhận diện bằng một **địa chỉ IP** duy nhất. Các phương thức truy cập internet khác bao gồm **Wi-Fi**, vệ tinh, điện thoại di động và tivi. Máy tính xách tay hỗ trợ Wi-Fi cho phép bạn kết nối Mạng nếu bạn ở gần điểm truy cập không dây, tại các địa điểm gọi là **điểm phát sóng** (hotspots) (ví dụ: quán cà phê Wi-Fi).
-
----
+> **[VI]** Ngôn ngữ được sử dụng để truyền dữ liệu trên Internet được gọi là **TCP/IP** (giao thức kiểm soát truyền dữ liệu/giao thức Internet). Mỗi máy tính kết nối với Mạng được nhận diện bằng một **địa chỉ IP** duy nhất. Các phương thức truy cập internet khác bao gồm **Wi-Fi**, vệ tinh, điện thoại di động và tivi. Máy tính xách tay hỗ trợ Wi-Fi cho phép bạn kết nối Mạng nếu bạn ở gần điểm truy cập không dây, tại các địa điểm gọi là **điểm phát sóng** (hotspots) (ví dụ: quán cà phê Wi-Fi).
+>
+> 📌 *Tóm tắt:* Mạng chạy trên giao thức TCP/IP và nhận diện qua địa chỉ IP.
 
 ### Internet FAQs: Part 2 — Services & Protocols
 
 **English (Original)**
 - **Email** lets you exchange messages with people all over the world. Optional attached files can include text, pictures and even audio and animation. A **mailing list** uses email to communicate messages to all its subscribers.
+
+> **[VI]** - **Thư điện tử (Email)** cho phép bạn trao đổi tin nhắn với mọi người trên khắp thế giới. Các tệp đính kèm tùy chọn có thể bao gồm văn bản, hình ảnh và thậm chí cả âm thanh và hoạt ảnh. Một **danh sách gửi thư** (mailing list) sử dụng email để truyền tin nhắn tới tất cả những người đăng ký của nó.
+>
+> 📌 *Tóm tắt:* Các dịch vụ chính trên Internet gồm: Email (trao đổi thư kèm tệp đính kèm), Web (duyệt tài liệu HTTP bằng trình duyệt), Chat/IM (trò chuyện thời gian thực), FTP (truyền tệp tải xuống), Telnet (điều khiển máy tính từ xa) và Newsgroups (diễn đàn thảo luận).
+
 - **The Web** consists of billions of documents living on web servers that use the `HTTP` protocol. You navigate through the Web using a program called a **web browser**.
+
+> **[VI]** - **Mạng toàn cầu (The Web)** bao gồm hàng tỷ tài liệu nằm trên các máy chủ web sử dụng giao thức `HTTP`. Bạn điều hướng qua Web bằng cách sử dụng một chương trình gọi là **trình duyệt web** (web browser).
+>
+> 📌 *Tóm tắt:* 
+
 - **Chat and Instant Messaging (IM)** technologies allow you to have real-time conversations online, by typing messages at the keyboard.
+
+> **[VI]** - Công nghệ **Trò chuyện và Tin nhắn tức thời (Chat and IM)** cho phép bạn trò chuyện trực tuyến theo thời gian thực bằng cách gõ tin nhắn trên bàn phím.
+>
+> 📌 *Tóm tắt:* 
+
 - **FTP** (file transfer protocol) is used to transfer files over a TCP/IP network. You can download programs, games and music files from a remote computer.
+
+> **[VI]** - **FTP** (giao thức truyền tệp) được sử dụng để truyền tệp qua mạng TCP/IP. Bạn có thể tải xuống các chương trình, trò chơi và tệp nhạc từ máy tính từ xa.
+>
+> 📌 *Tóm tắt:* 
+
 - **Telnet** is a protocol and a program used to **log onto** remote computer systems to run programs on it.
+
+> **[VI]** - **Telnet** là một giao thức và chương trình được sử dụng để **đăng nhập** vào các hệ thống máy tính từ xa để chạy các chương trình trên đó.
+>
+> 📌 *Tóm tắt:* 
+
 - **Newsgroups** are the public discussion areas which make up a system called *Usenet*. The contents are contributed by people who post articles, creating message **threads**. You need a **newsreader** to subscribe and post messages. An alternative to newsreaders is to visit **web forums**.
 
-> 📌 **Tóm tắt:** Các dịch vụ chính trên Internet gồm: Email (trao đổi thư kèm tệp đính kèm), Web (duyệt tài liệu HTTP bằng trình duyệt), Chat/IM (trò chuyện thời gian thực), FTP (truyền tệp tải xuống), Telnet (điều khiển máy tính từ xa) và Newsgroups (diễn đàn thảo luận).
-
-> **[VI]** 
-> - **Thư điện tử (Email)** cho phép bạn trao đổi tin nhắn với mọi người trên khắp thế giới. Các tệp đính kèm tùy chọn có thể bao gồm văn bản, hình ảnh và thậm chí cả âm thanh và hoạt ảnh. Một **danh sách gửi thư** (mailing list) sử dụng email để truyền tin nhắn tới tất cả những người đăng ký của nó.
-> - **Mạng toàn cầu (The Web)** bao gồm hàng tỷ tài liệu nằm trên các máy chủ web sử dụng giao thức `HTTP`. Bạn điều hướng qua Web bằng cách sử dụng một chương trình gọi là **trình duyệt web** (web browser).
-> - Công nghệ **Trò chuyện và Tin nhắn tức thời (Chat and IM)** cho phép bạn trò chuyện trực tuyến theo thời gian thực bằng cách gõ tin nhắn trên bàn phím.
-> - **FTP** (giao thức truyền tệp) được sử dụng để truyền tệp qua mạng TCP/IP. Bạn có thể tải xuống các chương trình, trò chơi và tệp nhạc từ máy tính từ xa.
-> - **Telnet** là một giao thức và chương trình được sử dụng để **đăng nhập** vào các hệ thống máy tính từ xa để chạy các chương trình trên đó.
-> - **Nhóm tin (Newsgroups)** là các khu vực thảo luận công cộng tạo nên một hệ thống gọi là *Usenet*. Nội dung được đóng góp bởi những người đăng bài viết, tạo ra các **luồng tin nhắn** (threads) liên quan. Bạn cần một **trình đọc tin** (newsreader) để đăng ký và gửi tin nhắn. Một sự thay thế cho trình đọc tin là truy cập các **diễn đàn web**.
-
----
+> **[VI]** - **Nhóm tin (Newsgroups)** là các khu vực thảo luận công cộng tạo nên một hệ thống gọi là *Usenet*. Nội dung được đóng góp bởi những người đăng bài viết, tạo ra các **luồng tin nhắn** (threads) liên quan. Bạn cần một **trình đọc tin** (newsreader) để đăng ký và gửi tin nhắn. Một sự thay thế cho trình đọc tin là truy cập các **diễn đàn web**.
+>
+> 📌 *Tóm tắt:*
 
 ### Email Features and Anatomy
 
 **English (Original)**
 There are two ways to get email over the Internet. One is by using a mail program (known as an **email client**) installed on your computer, for example *Outlook Express*. The other way is to use **web-based email**, accessible from any web browser, like *Gmail*.
 
+> **[VI]** Có hai cách để nhận email qua Internet. Một là sử dụng chương trình thư (được gọi là **email client**) được cài đặt trên máy tính của bạn, ví dụ *Outlook Express*. Cách khác là sử dụng **email trên nền web**, có thể truy cập từ bất kỳ trình duyệt web nào, như *Gmail*.
+>
+> 📌 *Tóm tắt:* Email có thể dùng qua phần mềm cài đặt (email client) hoặc trực tuyến (webmail).
+
 The mail you receive is stored on the **mail server** of your ISP — in a simulated **mailbox** — until you download it. You can make the message more expressive by including **emoticons** (also called **smileys**), like `:-)` for happy. You may also add a **signature file** at the end. Unsolicited email messages are called **spam**.
 
+> **[VI]** Thư bạn nhận được lưu trữ trên **máy chủ thư** (mail server) của ISP — trong một **hộp thư** mô phỏng — cho đến khi bạn tải nó xuống. Bạn có thể làm cho tin nhắn biểu cảm hơn bằng cách chèn thêm các **biểu tượng cảm xúc** (emoticons / smileys), như `:-)` cho sự vui vẻ. Bạn cũng có thể thêm một **tệp chữ ký** ở cuối thư. Những tin nhắn email không mong muốn được gọi là **thư rác** (spam).
+>
+> 📌 *Tóm tắt:* Email nhận được lưu tại mail server.
+
 An email address consists of a **username**, the **@ sign** (meaning 'at'), and the **domain name** (mail server location) followed by extensions (e.g. `.com` for company, `.uk` for United Kingdom). The email header contains:
+
+> **[VI]** Một địa chỉ email bao gồm **tên người dùng** (username), **ký tự @** (nghĩa là 'tại'), và **tên miền** (vị trí máy chủ thư) tiếp theo là các phần mở rộng (ví dụ: `.com` cho công ty, `.uk` cho Vương quốc Anh). Header của email chứa:
+>
+> 📌 *Tóm tắt:* Địa chỉ email gồm username, ký tự @ và tên miền (domain).
+
 - **To**: recipient's address.
+
+> **[VI]** - **To**: địa chỉ người nhận.
+>
+> 📌 *Tóm tắt:* Header chứa thông tin gửi nhận, Cc, Bcc, Subject và Attachment.
+
 - **From**: sender's address.
+
+> **[VI]** - **From**: địa chỉ người gửi.
+>
+> 📌 *Tóm tắt:* 
+
 - **Cc** (*carbon copy*): copy sent to another person.
+
+> **[VI]** - **Cc** (bản sao carbon): bản sao gửi cho người khác.
+>
+> 📌 *Tóm tắt:* 
+
 - **Bcc** (*blind carbon copy*): hidden copy.
+
+> **[VI]** - **Bcc** (bản sao ẩn danh): bản sao ẩn thông tin người nhận phụ.
+>
+> 📌 *Tóm tắt:* 
+
 - **Subject**: topic of the message.
+
+> **[VI]** - **Subject**: chủ đề của tin nhắn.
+>
+> 📌 *Tóm tắt:* 
+
 - **Attachment**: files added to the message.
 
-> 📌 **Tóm tắt:** Email có thể dùng qua phần mềm cài đặt (email client) hoặc trực tuyến (webmail). Email nhận được lưu tại mail server. Địa chỉ email gồm username, ký tự @ và tên miền (domain). Header chứa thông tin gửi nhận, Cc, Bcc, Subject và Attachment.
-
-> **[VI]** Có hai cách để nhận email qua Internet. Một là sử dụng chương trình thư (được gọi là **email client**) được cài đặt trên máy tính của bạn, ví dụ *Outlook Express*. Cách khác là sử dụng **email trên nền web**, có thể truy cập từ bất kỳ trình duyệt web nào, như *Gmail*.
-> Thư bạn nhận được lưu trữ trên **máy chủ thư** (mail server) của ISP — trong một **hộp thư** mô phỏng — cho đến khi bạn tải nó xuống. Bạn có thể làm cho tin nhắn biểu cảm hơn bằng cách chèn thêm các **biểu tượng cảm xúc** (emoticons / smileys), như `:-)` cho sự vui vẻ. Bạn cũng có thể thêm một **tệp chữ ký** ở cuối thư. Những tin nhắn email không mong muốn được gọi là **thư rác** (spam).
-> Một địa chỉ email bao gồm **tên người dùng** (username), **ký tự @** (nghĩa là 'tại'), và **tên miền** (vị trí máy chủ thư) tiếp theo là các phần mở rộng (ví dụ: `.com` cho công ty, `.uk` cho Vương quốc Anh). Header của email chứa:
-> - **To**: địa chỉ người nhận.
-> - **From**: địa chỉ người gửi.
-> - **Cc** (bản sao carbon): bản sao gửi cho người khác.
-> - **Bcc** (bản sao ẩn danh): bản sao ẩn thông tin người nhận phụ.
-> - **Subject**: chủ đề của tin nhắn.
-> - **Attachment**: tệp đính kèm được thêm vào tin nhắn.
-
----
+> **[VI]** - **Attachment**: tệp đính kèm được thêm vào tin nhắn.
+>
+> 📌 *Tóm tắt:*
 
 ## 3. NGỮ PHÁP (Grammar)
 
@@ -147,9 +196,10 @@ Các từ để hỏi phổ biến trong ngành IT:
 
 ---
 
-## 4. BÀI TẬP (Exercises)
+## 4. BÀI TẬP & ĐÁP ÁN (Exercises & Answer Key)
 
 ### Exercise A — Sue Clarke's Interview Questions
+
 Write a suitable question for each of Sue Clarke's answers:
 1. Q: __________________________________________________
    A: I'm 23 years old.
@@ -162,7 +212,19 @@ Write a suitable question for each of Sue Clarke's answers:
 5. Q: __________________________________________________
    A: I graduated from university in 2006.
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **How old are you?** — Dựa vào câu trả lời tuổi tác "23 years old".
+2. **What do you do?** (hoặc **What's your job?**) — Dựa vào câu trả lời nghề nghiệp "online researcher".
+3. **What does your job involve?** (hoặc **What do you do at work?**) — Hỏi về nội dung công việc tìm thông tin cho khách hàng.
+4. **How long have you been doing this job?** — Hỏi về khoảng thời gian kinh nghiệm ("for six months" đi với thì hiện tại hoàn thành tiếp diễn).
+5. **When did you graduate from university?** — Hỏi về mốc thời gian tốt nghiệp ("in 2006" đi với thì quá khứ đơn).
+
+</details>
+
 ### Exercise B — Pair Questions Prompts
+
 Write complete questions using the prompts provided:
 1. What type of internet connection / have at home?
    -> __________________________________________________
@@ -185,7 +247,24 @@ Write complete questions using the prompts provided:
 10. How many newsgroups / subscribe to?
    -> __________________________________________________
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **What type of internet connection do you have at home?** — Câu hỏi hiện tại đơn với trợ động từ "do".
+2. **How fast is your internet connection?** — Câu hỏi với động từ "to be" đảo lên trước chủ ngữ.
+3. **How much do you pay for broadband access?** — Câu hỏi về chi phí dịch vụ.
+4. **How often do you access the Internet?** — Hỏi tần suất truy cập.
+5. **Which email program do you use?** — Hỏi về chương trình email lựa chọn.
+6. **Who do you send email to?** (hoặc **To whom do you send email?**) — Hỏi đối tượng nhận email.
+7. **Do you use your mobile phone to access the Internet?** — Câu hỏi Yes/No ở hiện tại đơn.
+8. **Do you use the Internet in public spaces using Wi-Fi?** — Câu hỏi Yes/No với Wi-Fi công cộng.
+9. **Do you play games online?** — Câu hỏi về việc chơi game trực tuyến.
+10. **How many newsgroups do you subscribe to?** — Hỏi số lượng nhóm tin đăng ký.
+
+</details>
+
 ### Exercise C — Connecting to the Internet Notes
+
 Complete the customer's notes using suitable technical words from the box:
 *computer, Internet service provider, modem, pages, radio, router, services, wireless*
 
@@ -197,7 +276,20 @@ To connect to the Internet from home, I need:
 - Internet activities include: email, file transfer, real-time chats, and web searching.
 - The Web is a collection of (6) ________________ stored on computers all over the world, while the Internet is the network connecting these computers.
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **computer** — Máy tính cá nhân.
+2. **modem** — Bộ giải điều chế tín hiệu đường truyền.
+3. **Internet service provider** — Nhà cung cấp dịch vụ Internet ISP.
+4. **wireless** — Bộ định tuyến không dây không sử dụng dây cáp.
+5. **radio** — Sóng vô tuyến dùng truyền dữ liệu trong Wi-Fi.
+6. **pages** — Tập hợp các trang tài liệu (web pages) tạo thành Web.
+
+</details>
+
 ### Exercise D — Internet FAQs: Part 1 Multiple Choice
+
 Choose the correct answers based on Internet FAQs Part 1:
 1. **The Internet was**
    - a. invented in the mid-90s.
@@ -224,7 +316,20 @@ Choose the correct answers based on Internet FAQs Part 1:
    - b. hotspot.
    - c. wireless network device.
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **c. probably created in the USA. ✓** — Nghiên cứu ban đầu bởi cơ quan ARPA của chính phủ Mỹ.
+2. **a. broadband ✓** — Băng thông rộng là thuật ngữ chỉ các kết nối tốc độ cao.
+3. **c. electrical power lines. ✓** — Power-line cung cấp internet qua phích cắm điện.
+4. **c. a modem ✓** — Thiết bị chuyển đổi tín hiệu số máy tính thành tín hiệu tương tự để truyền đi qua đường thoại.
+5. **b. TCP/IP. ✓** — Giao thức chuẩn điều phối truyền tải dữ liệu Internet.
+6. **b. hotspot. ✓** — Điểm phát sóng không dây bao phủ một vùng nhất định.
+
+</details>
+
 ### Exercise E — Internet Services & Tasks Matching
+
 Match the internet services (1-6) with their corresponding tasks (a-f):
 1. Email
 2. The Web
@@ -240,7 +345,20 @@ Match the internet services (1-6) with their corresponding tasks (a-f):
 - e. take part in public discussion areas devoted to specific topics.
 - f. download and view documents published on the Internet.
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **b** (Email — gửi tin nhắn qua Internet).
+2. **f** (The Web — tải và xem tài liệu xuất bản).
+3. **e** (Newsgroups — tham gia thảo luận công cộng theo chủ đề).
+4. **c** (Chat and IM — trò chuyện trực tiếp thời gian thực).
+5. **a** (FTP — truyền/tải tệp về ổ cứng).
+6. **d** (Telnet — kết nối và chạy chương trình trên máy chủ từ xa).
+
+</details>
+
 ### Exercise F — Internet Vocabulary from Context
+
 Find the words in Part 2 of the text that match the following meanings:
 1. A system used to distribute email to many different subscribers at once: m________________
 2. A program used for displaying and navigating web pages: w________________
@@ -248,7 +366,19 @@ Find the words in Part 2 of the text that match the following meanings:
 4. A series of interrelated messages posted on a given topic in a forum: m________________
 5. A program used to subscribe, read and post to Usenet newsgroups: n________________
 
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
+1. **mailing list** — Danh sách gửi thư tự động.
+2. **web browser** — Trình duyệt web.
+3. **log onto** — Đăng nhập vào hệ thống.
+4. **message thread** — Luồng tin nhắn thảo luận.
+5. **newsreader** — Trình đọc tin Usenet.
+
+</details>
+
 ### Exercise G — Email Features Identification
+
 Read the email text and find the terms for these descriptions:
 1. The server where your ISP stores incoming emails until you download them.
 2. The type of program (e.g. Outlook) used to write and send email from a local machine.
@@ -260,89 +390,9 @@ Read the email text and find the terms for these descriptions:
 
 ---
 
-### 🧪 Mini Quiz
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
-**Câu 1 (Trắc nghiệm):** Which question word is used to ask about the duration of an event?
-- a. How often
-- b. How long
-- c. How fast
-
-**Câu 2 (Trắc nghiệm):** Every computer connected to the Net is identified by a unique:
-- a. TCP/IP
-- b. ISP address
-- c. IP address
-
-**Câu 3 (Điền từ):** Unsolicited commercial email is commonly known as _____________.
-
-**Câu 4 (Điền từ):** Write the question for the underlined answer: "The Internet was created **in the USA**." Q: _____________ was the Internet created?
-
-**Câu 5 (Điền từ):** The protocol used to log onto and run programs on a remote server is called _____________.
-
-**Câu 6 (Trắc nghiệm):** What does the abbreviation ISP stand for?
-- a. Internet Security Protocol
-- b. Internet Service Provider
-- c. Interactive System Platform
-
-**Câu 7 (Nối):** Nối loại bản sao email với đặc tính tương ứng:
-1. Cc — A. Bản sao ẩn danh (người nhận khác không thấy địa chỉ người này)
-2. Bcc — B. Người nhận chính của thư điện tử
-3. To — C. Bản sao thông báo gửi đồng thời cho người liên quan biết
-
----
-
-## 5. ĐÁP ÁN (Answer Key)
-
-### Exercise A — Sue Clarke's Interview Questions
-1. **How old are you?** — Dựa vào câu trả lời tuổi tác "23 years old".
-2. **What do you do?** (hoặc **What's your job?**) — Dựa vào câu trả lời nghề nghiệp "online researcher".
-3. **What does your job involve?** (hoặc **What do you do at work?**) — Hỏi về nội dung công việc tìm thông tin cho khách hàng.
-4. **How long have you been doing this job?** — Hỏi về khoảng thời gian kinh nghiệm ("for six months" đi với thì hiện tại hoàn thành tiếp diễn).
-5. **When did you graduate from university?** — Hỏi về mốc thời gian tốt nghiệp ("in 2006" đi với thì quá khứ đơn).
-
-### Exercise B — Pair Questions Prompts
-1. **What type of internet connection do you have at home?** — Câu hỏi hiện tại đơn với trợ động từ "do".
-2. **How fast is your internet connection?** — Câu hỏi với động từ "to be" đảo lên trước chủ ngữ.
-3. **How much do you pay for broadband access?** — Câu hỏi về chi phí dịch vụ.
-4. **How often do you access the Internet?** — Hỏi tần suất truy cập.
-5. **Which email program do you use?** — Hỏi về chương trình email lựa chọn.
-6. **Who do you send email to?** (hoặc **To whom do you send email?**) — Hỏi đối tượng nhận email.
-7. **Do you use your mobile phone to access the Internet?** — Câu hỏi Yes/No ở hiện tại đơn.
-8. **Do you use the Internet in public spaces using Wi-Fi?** — Câu hỏi Yes/No với Wi-Fi công cộng.
-9. **Do you play games online?** — Câu hỏi về việc chơi game trực tuyến.
-10. **How many newsgroups do you subscribe to?** — Hỏi số lượng nhóm tin đăng ký.
-
-### Exercise C — Connecting to the Internet Notes
-1. **computer** — Máy tính cá nhân.
-2. **modem** — Bộ giải điều chế tín hiệu đường truyền.
-3. **Internet service provider** — Nhà cung cấp dịch vụ Internet ISP.
-4. **wireless** — Bộ định tuyến không dây không sử dụng dây cáp.
-5. **radio** — Sóng vô tuyến dùng truyền dữ liệu trong Wi-Fi.
-6. **pages** — Tập hợp các trang tài liệu (web pages) tạo thành Web.
-
-### Exercise D — Internet FAQs: Part 1 Multiple Choice
-1. **c. probably created in the USA. ✓** — Nghiên cứu ban đầu bởi cơ quan ARPA của chính phủ Mỹ.
-2. **a. broadband ✓** — Băng thông rộng là thuật ngữ chỉ các kết nối tốc độ cao.
-3. **c. electrical power lines. ✓** — Power-line cung cấp internet qua phích cắm điện.
-4. **c. a modem ✓** — Thiết bị chuyển đổi tín hiệu số máy tính thành tín hiệu tương tự để truyền đi qua đường thoại.
-5. **b. TCP/IP. ✓** — Giao thức chuẩn điều phối truyền tải dữ liệu Internet.
-6. **b. hotspot. ✓** — Điểm phát sóng không dây bao phủ một vùng nhất định.
-
-### Exercise E — Internet Services & Tasks Matching
-1. **b** (Email — gửi tin nhắn qua Internet).
-2. **f** (The Web — tải và xem tài liệu xuất bản).
-3. **e** (Newsgroups — tham gia thảo luận công cộng theo chủ đề).
-4. **c** (Chat and IM — trò chuyện trực tiếp thời gian thực).
-5. **a** (FTP — truyền/tải tệp về ổ cứng).
-6. **d** (Telnet — kết nối và chạy chương trình trên máy chủ từ xa).
-
-### Exercise F — Internet Vocabulary from Context
-1. **mailing list** — Danh sách gửi thư tự động.
-2. **web browser** — Trình duyệt web.
-3. **log onto** — Đăng nhập vào hệ thống.
-4. **message thread** — Luồng tin nhắn thảo luận.
-5. **newsreader** — Trình đọc tin Usenet.
-
-### Exercise G — Email Features Identification
 1. **mail server** — Máy chủ thư của nhà cung cấp ISP.
 2. **email client** (hoặc **mail program**) — Phần mềm email cục bộ (như Outlook).
 3. **username** — Tên người dùng trước ký tự @.
@@ -351,30 +401,94 @@ Read the email text and find the terms for these descriptions:
 6. **emoticons** (hoặc **smileys**) — Biểu tượng cảm xúc tạo từ các ký tự.
 7. **spam** — Thư rác, thư quảng cáo rác không mong muốn.
 
-### Mini Quiz
+</details>
+
+### 🧪 Mini Quiz
+
+**Câu 1 (Trắc nghiệm):** Which question word is used to ask about the duration of an event?
+- a. How often
+- b. How long
+- c. How fast
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 **Câu 1 (Trắc nghiệm):**
 *   **b. How long ✓** — How long dùng để hỏi khoảng thời gian bao lâu (duration).
 *   - a. How often ✗ — Hỏi tần suất (frequency).
 *   - c. How fast ✗ — Hỏi tốc độ (speed).
+
+</details>
+
+**Câu 2 (Trắc nghiệm):** Every computer connected to the Net is identified by a unique:
+- a. TCP/IP
+- b. ISP address
+- c. IP address
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 2 (Trắc nghiệm):**
 *   **c. IP address ✓** — Địa chỉ IP định danh duy nhất máy tính trên mạng Net.
 *   - a. TCP/IP ✗ — Đây là bộ giao thức chung, không phải định danh riêng.
 *   - b. ISP address ✗ — Không có thuật ngữ này để định danh máy tính.
 
+</details>
+
+**Câu 3 (Điền từ):** Unsolicited commercial email is commonly known as _____________.
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 **Câu 3 (Điền từ):**
 *   **spam** (hoặc **junk mail**) — Email quảng cáo rác không mong muốn.
+
+</details>
+
+**Câu 4 (Điền từ):** Write the question for the underlined answer: "The Internet was created **in the USA**." Q: _____________ was the Internet created?
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 4 (Điền từ):**
 *   **Where** — Hỏi địa điểm (in the USA) dùng từ để hỏi Where.
 
+</details>
+
+**Câu 5 (Điền từ):** The protocol used to log onto and run programs on a remote server is called _____________.
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
+
 **Câu 5 (Điền từ):**
 *   **Telnet** — Giao thức cho phép đăng nhập và thực thi lệnh trên máy chủ từ xa.
+
+</details>
+
+**Câu 6 (Trắc nghiệm):** What does the abbreviation ISP stand for?
+- a. Internet Security Protocol
+- b. Internet Service Provider
+- c. Interactive System Platform
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 6 (Trắc nghiệm):**
 *   **b. Internet Service Provider ✓** — Nhà cung cấp dịch vụ kết nối mạng.
 *   - a. Internet Security Protocol ✗ — Sai định nghĩa viết tắt.
 *   - c. Interactive System Platform ✗ — Sai định nghĩa viết tắt.
+
+</details>
+
+**Câu 7 (Nối):** Nối loại bản sao email với đặc tính tương ứng:
+1. Cc — A. Bản sao ẩn danh (người nhận khác không thấy địa chỉ người này)
+2. Bcc — B. Người nhận chính của thư điện tử
+3. To — C. Bản sao thông báo gửi đồng thời cho người liên quan biết
+
+---
+
+<details>
+<summary><b>Xem đáp án chi tiết</b></summary>
 
 **Câu 7 (Nối):**
 *   **1-C** (Cc — Bản sao thông báo gửi đồng thời cho người liên quan biết)
@@ -383,7 +497,10 @@ Read the email text and find the terms for these descriptions:
 
 ---
 
-## 6. GLOSSARY TỔNG HỢP
+</details>
+
+
+## 5. GLOSSARY TỔNG HỢP
 
 | Thuật ngữ | Nghĩa | Gợi nhớ | Xuất hiện ở |
 |---|---|---|---|
