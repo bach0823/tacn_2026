@@ -73,6 +73,72 @@ Airline pilots use computers to help them control the plane. For example, monito
 >
 > 📌 *Tóm tắt:* Trong ngành hàng không, máy tính hỗ trợ phi công lái máy bay, điều phối bay và kết nối hãng bay với các đại lý bán vé.
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **digital age** | meaning that computers have become an essential part of our lives. | Kỷ nguyên số: thời đại mà máy tính trở thành một phần thiết yếu trong cuộc sống. |
+| **digital generation** | young people who have grown up with PCs and mobile phones. | Thế hệ số: những người trẻ lớn lên cùng với máy tính cá nhân và điện thoại di động. |
+| **ATM / Cashpoint** | automatic teller machine that dispenses money to customers using a PIN-protected card. | Máy rút tiền tự động: thiết bị nhả tiền bằng thẻ bảo mật mã PIN. |
+| **Chip and PIN** | a payment system where customers enter a four-digit PIN instead of signing. | Thẻ Chip và PIN: hệ thống thanh toán xác thực bằng mã PIN 4 chữ số thay cho chữ ký. |
+| **online banking** | a service allowing clients to pay bills and transfer money from home. | Ngân hàng trực tuyến: dịch vụ thanh toán hóa đơn và chuyển tiền trực tiếp tại nhà. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: Who are the "digital generation"?
+A: Young people who have grown up with PCs and mobile phones.
+*(Dịch: "Thế hệ số" là ai? - Những người trẻ tuổi lớn lên cùng với máy tính cá nhân và điện thoại di động.)*
+
+Q: What is the primary function of an ATM?
+A: To dispense money to customers using a PIN-protected card.
+*(Dịch: Chức năng chính của máy ATM là gì? - Nhả tiền cho khách hàng sử dụng thẻ bảo mật mã PIN.)*
+
+Q: How does a Chip and PIN card system improve security?
+A: It asks customers to enter a four-digit PIN instead of a signature to verify payments.
+*(Dịch: Hệ thống Chip và PIN tăng bảo mật thế nào? - Nó yêu cầu nhập mã PIN bốn chữ số thay vì chữ ký để xác thực.)*
+
+Q: How do airline pilots and airport control towers use computers?
+A: Pilots use monitors to display fuel consumption, while control towers manage radar and regulate air traffic.
+*(Dịch: Phi công và đài kiểm soát không lưu dùng máy tính thế nào? - Phi công theo dõi tiêu thụ nhiên liệu/thời tiết, đài kiểm soát quản lý radar/điều phối bay.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- The digital generation includes young people who grew up with computers. (Thế hệ số gồm những người trẻ lớn lên cùng máy tính.)
+- ATMs dispense money using a PIN-protected card. (Máy ATM nhả tiền bằng thẻ bảo mật mã PIN.)
+- Chip and PIN uses a four-digit code to verify payments. (Thẻ Chip và PIN dùng mã 4 chữ số để xác thực thanh toán.)
+- Online banking allows clients to pay bills from home. (Ngân hàng trực tuyến cho phép khách hàng trả hóa đơn tại nhà.)
+- Airport computers manage radar and air traffic. (Máy tính sân bay quản lý radar và điều phối giao thông bay.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ ATM ≠ Cashpoint (Actually they are the same)
+ATM (Automatic Teller Machine) và Cashpoint là hai tên gọi khác nhau của cùng một thiết bị rút tiền tự động.
+
+### ⚠️ Word Processor vs Database
+Word processor dùng soạn thảo văn bản hành chính (viết thư), còn database dùng lưu hồ sơ giáo viên/học sinh.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Word Processor** | Office Software | Write letters and document manipulation | Soạn thảo thư từ và xử lý văn bản |
+| **Database** | Management Software | Keep records of students and teachers | Lưu trữ hồ sơ học sinh và giáo viên |
+| **Online Banking** | Web Service | Pay bills and transfer money from home | Thanh toán hóa đơn và chuyển tiền từ nhà |
+| **GPS** | Navigation System | Position determination and navigation | Định vị vị trí và dẫn đường |
+| **Google** | Search Engine | Search information using keywords | Tìm kiếm thông tin bằng từ khóa |
+| **Wikipedia** | Collaborative Encyclopedia | Access collaborative reference articles | Tra cứu bách khoa toàn thư trực tuyến |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### 3.1 Phân loại từ (Word Classes)

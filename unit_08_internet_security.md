@@ -194,6 +194,68 @@ As email travels across the Net, it is copied temporarily. To protect it, you sh
 >
 > 📌 *Tóm tắt:*
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **malware** | malicious software designed to damage or exploit systems. | Malware (phần mềm độc hại): phần mềm thiết kế để gây hại hệ thống. |
+| **virus** | malicious code that replicates by attaching to other programs. | Virus: mã độc tự nhân bản bằng cách bám vào chương trình khác. |
+| **worm** | standalone malware that spreads automatically over networks. | Sâu máy tính (worm): mã độc độc lập tự lây lan qua mạng. |
+| **phishing** | fraudulent emails/sites pretending to be trustworthy to steal data. | Phishing: lừa đảo trực tuyến bằng giả mạo email/website uy tín. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is the difference between a virus and a worm?
+A: A virus needs to attach to a host program; a worm is standalone and spreads automatically.
+*(Dịch: Khác biệt giữa virus và sâu? - Virus cần bám vào chương trình vật chủ; sâu hoạt động độc lập tự lan qua mạng.)*
+
+Q: Explain phishing.
+A: A scam using fake websites and emails to trick users into giving away sensitive details.
+*(Dịch: Giải thích lừa đảo phishing. - Chiêu trò giả mạo email/web uy tín để lừa người dùng giao nộp tài khoản.)*
+
+Q: How does a firewall protect a computer?
+A: By monitoring and filtering network traffic based on security rules.
+*(Dịch: Tường lửa bảo vệ máy tính thế nào? - Bằng cách giám sát và lọc lưu lượng mạng dựa trên quy tắc bảo mật.)*
+
+Q: What is encryption?
+A: Converting data into ciphertext to prevent unauthorized access.
+*(Dịch: Mã hóa là gì? - Chuyển đổi dữ liệu thành bản mã khó đọc để ngăn truy cập trái phép.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Malware refers to programs designed to harm computer systems. (Malware chỉ các chương trình thiết kế để gây hại hệ thống.)
+- Viruses infect host files to replicate and spread. (Virus lây nhiễm file vật chủ để nhân bản và phát tán.)
+- Worms exploit network vulnerabilities to spread automatically. (Sâu khai thác lỗ hổng mạng để tự phát tán tự động.)
+- Firewalls block unauthorized traffic into private networks. (Tường lửa chặn lưu lượng trái phép vào mạng nội bộ.)
+- Encryption secures online transactions using cryptography. (Mã hóa bảo vệ giao dịch mạng bằng mật mã học.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Virus vs Worm
+Virus cần người dùng chạy file bị nhiễm để kích hoạt. Sâu tự động chui qua mạng lây lan không cần người dùng làm gì.
+
+### ⚠️ Phishing vs Spam
+Phishing là lừa đảo ăn cắp mật khẩu/thẻ tín dụng. Spam chỉ là thư quảng cáo rác gây phiền toái.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Firewall** | Security System | Monitor and filter network traffic | Giám sát và lọc lưu lượng mạng ra vào |
+| **Anti-virus** | Security Software | Detect and destroy computer malware | Phát hiện và tiêu diệt phần mềm độc hại |
+| **HTTPS** | Secure Protocol | Transfer secure encrypted web pages | Giao thức truyền tải trang web bảo mật mã hóa |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Thì quá khứ đơn (The Past Simple)

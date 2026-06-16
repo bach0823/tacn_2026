@@ -118,6 +118,72 @@ Be aware of **phishing** - you may receive **fake** emails claiming to be from y
 >
 > 📌 *Tóm tắt:* Người dùng cần cảnh giác với email giả mạo (phishing) ăn cắp thông tin.
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **browser** | software used to access and display HTML pages on the Web. | Trình duyệt: phần mềm truy cập và hiển thị trang web HTML. |
+| **URL** | Uniform Resource Locator, the global address of a web page. | URL: địa chỉ trang web toàn cầu định vị tài nguyên web. |
+| **HTML** | Hypertext Markup Language, used to structure web pages. | HTML: ngôn ngữ định dạng tạo nên cấu trúc trang web. |
+| **HTTP** | Hypertext Transfer Protocol, protocol used to transfer web files. | HTTP: giao thức truyền tải siêu văn bản giữa máy chủ và trình duyệt. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is the difference between the Internet and the Web?
+A: The Internet is the network hardware; the Web is the collection of linked pages.
+*(Dịch: Sự khác nhau giữa Internet và Web? - Internet là hạ tầng phần cứng mạng; Web là tập hợp các trang web liên kết nhau.)*
+
+Q: What does HTML do?
+A: It formats text and defines structure using tags to create web pages.
+*(Dịch: HTML làm nhiệm vụ gì? - Định dạng văn bản và định cấu trúc trang web bằng thẻ để tạo trang web.)*
+
+Q: Explain the role of a web browser.
+A: It requests HTML pages from servers, translates code, and displays it visually.
+*(Dịch: Giải thích vai trò của trình duyệt web. - Yêu cầu trang HTML từ máy chủ, dịch mã và hiển thị trực quan.)*
+
+Q: How does eBay handle e-commerce transactions?
+A: Through bidding and auction systems, allowing users to buy and sell.
+*(Dịch: eBay xử lý giao dịch thương mại điện tử thế nào? - Thông qua hệ thống đấu giá và đặt thầu, cho phép mua và bán.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- The Web is an information space of linked documents. (Web là không gian thông tin của các tài liệu liên kết.)
+- Browsers render HTML code into user-friendly web pages. (Trình duyệt dịch mã HTML thành trang web thân thiện.)
+- URLs provide paths to locate documents on the Web. (URL cung cấp đường dẫn để định vị tài liệu trên Web.)
+- HTTP is the protocol that transfers files on WWW. (HTTP là giao thức truyền tải các tệp tin trên WWW.)
+- Search engines index websites to help users find information. (Công cụ tìm kiếm lập chỉ mục web giúp người dùng tìm tin tức.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Web Browser vs Search Engine
+Trình duyệt là ứng dụng cài trên máy (Chrome, Firefox). Công cụ tìm kiếm là một trang web chạy trực tuyến (Google, Bing).
+
+### ⚠️ HTML vs HTTP
+HTML là ngôn ngữ viết code trang trí trang web. HTTP là giao thức/luật truyền nhận trang web qua mạng.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Chrome / Firefox** | Web Browser | Retrieve and render HTML pages | Truy cập và kết xuất trang web HTML |
+| **Google** | Search Engine | Index and search web pages | Lập chỉ mục và tìm kiếm trang web |
+| **eBay** | Auction Platform | E-commerce website using bidding/auctions | Trang thương mại điện tử mua bán qua đấu giá |
+| **Amazon** | Retail Platform | E-commerce store for direct purchases | Trang thương mại điện tử mua sắm trực tiếp |
+| **BitTorrent** | P2P Protocol | Protocol for sharing files over peer-to-peer | Giao thức chia sẻ tệp tin qua mạng ngang hàng |
+| **Flickr** | Photo Sharing | Website for uploading and sharing digital photos | Trang web tải lên và chia sẻ hình ảnh số |
+| **YouTube** | Video Sharing | Website for uploading and streaming video clips | Trang web tải lên và xem video trực tuyến |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### 3.1 Cụm từ đi liền nhau (Collocations)

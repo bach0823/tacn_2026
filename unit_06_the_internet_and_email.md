@@ -163,6 +163,70 @@ An email address consists of a **username**, the **@ sign** (meaning 'at'), and 
 >
 > 📌 *Tóm tắt:*
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **Internet** | a global network of interconnected computers. | Internet: mạng toàn cầu kết nối hàng triệu máy tính lại với nhau. |
+| **ISP** | Internet Service Provider, a company providing internet access. | ISP: nhà cung cấp dịch vụ Internet, công ty bán quyền truy cập mạng. |
+| **modem** | a device converting digital signals to analog, and vice versa. | Modem: thiết bị chuyển đổi tín hiệu số sang tương tự và ngược lại. |
+| **SMTP** | Simple Mail Transfer Protocol, used for sending outgoing emails. | SMTP: giao thức dùng để gửi thư điện tử đi qua mạng. |
+| **POP3** | Post Office Protocol, downloads mail and deletes it from server. | POP3: giao thức tải thư điện tử về máy và xóa thư trên máy chủ. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What does an ISP do?
+A: It provides access to the Internet for a subscription fee.
+*(Dịch: ISP làm nhiệm vụ gì? - Cung cấp quyền truy cập Internet cho người dùng thu phí.)*
+
+Q: How does a modem transmit computer data over telephone lines?
+A: By converting digital signals to analog signals, and converting them back at the destination.
+*(Dịch: Modem truyền dữ liệu máy tính qua dây điện thoại thế nào? - Bằng cách chuyển tín hiệu số sang tín hiệu tương tự và ngược lại.)*
+
+Q: What is the difference between SMTP and POP3?
+A: SMTP is used to send emails, while POP3 is used to retrieve/download them.
+*(Dịch: Khác biệt giữa SMTP và POP3 là gì? - SMTP dùng để gửi email đi, còn POP3 dùng để nhận/tải email về.)*
+
+Q: Why is IMAP preferred over POP3 for multiple devices?
+A: Because IMAP keeps emails on the server and synchronizes them across devices.
+*(Dịch: Tại sao IMAP tốt hơn POP3 khi dùng nhiều thiết bị? - Vì IMAP giữ thư trên máy chủ và đồng bộ giữa các thiết bị.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- The Internet is a global network of computer networks. (Internet là mạng lưới toàn cầu kết nối các mạng máy tính.)
+- Modems convert digital data for telephone line transmission. (Modem chuyển đổi dữ liệu số để truyền qua đường dây điện thoại.)
+- SMTP protocol handles outgoing email transmission. (Giao thức SMTP xử lý việc truyền tải thư điện tử đi.)
+- POP3 protocol downloads emails and deletes them from servers. (Giao thức POP3 tải email về máy và xóa khỏi máy chủ.)
+- Spam consists of unwanted mass advertising emails. (Thư rác là những email quảng cáo hàng loạt không mong muốn.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ SMTP vs POP3 / IMAP
+SMTP chỉ dùng để GỬI thư đi (outgoing). POP3 và IMAP dùng để NHẬN thư về (incoming).
+
+### ⚠️ POP3 vs IMAP
+POP3 tải thư về máy rồi xóa trên máy chủ (chỉ đọc offline tốt). IMAP đồng bộ thư và giữ thư trên máy chủ (đọc được từ nhiều máy).
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **SMTP** | Mail Protocol | Protocol for sending outgoing email messages | Giao thức truyền tải thư điện tử đi |
+| **POP3** | Mail Protocol | Protocol for downloading email messages to local PC | Giao thức tải thư điện tử về máy khách |
+| **IMAP** | Mail Protocol | Protocol for accessing and synchronizing emails on server | Giao thức truy cập và đồng bộ thư trên máy chủ |
+| **Outlook** | Email Client | Application for sending, receiving, and managing email | Ứng dụng gửi, nhận và quản lý thư điện tử |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Cách đặt câu hỏi (Asking Questions)

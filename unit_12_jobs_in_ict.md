@@ -267,6 +267,66 @@ Two years ago I spent three months in Spain testing our programs and also made s
 >
 > 📌 *Tóm tắt:*
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **webmaster** | maintains and develops website architecture and cross-browser compatibility. | Webmaster: quản trị, thiết kế và tối ưu tương thích trình duyệt trang web. |
+| **hardware engineer** | designs, researches, and tests physical computer components. | Kỹ sư phần cứng: thiết kế, nghiên cứu và thử nghiệm linh kiện phần cứng. |
+| **software engineer** | writes, modifies, and debugs application software. | Kỹ sư phần mềm: viết, sửa đổi và gỡ lỗi phần mềm ứng dụng. |
+| **network administrator** | installs, manages, and troubleshoots network systems. | Quản trị mạng: cài đặt, quản trị và sửa lỗi hệ thống mạng. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What does a Webmaster do?
+A: Designs, maintains, and optimizes websites for cross-platform compatibility.
+*(Dịch: Webmaster làm gì? - Thiết kế, bảo trì và tối ưu website tương thích đa nền tảng.)*
+
+Q: What language is high-paying for hardware engineers?
+A: Verilog programming language.
+*(Dịch: Ngôn ngữ nào giúp kỹ sư phần cứng lương cao? - Ngôn ngữ mô tả phần cứng Verilog.)*
+
+Q: What is the job of a Network Administrator?
+A: Installing and maintaining network equipment and troubleshooting connections.
+*(Dịch: Công việc của quản trị mạng là gì? - Cài đặt, bảo trì thiết bị mạng và xử lý sự cố kết nối.)*
+
+Q: What does a computer security specialist focus on?
+A: Protecting networks from hackers and creating security policies.
+*(Dịch: Chuyên gia bảo mật tập trung vào việc gì? - Bảo vệ mạng khỏi tin tặc và lập chính sách bảo mật.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Hardware engineers design and test computer components. (Kỹ sư phần cứng thiết kế và thử nghiệm các linh kiện máy tính.)
+- Software engineers write and debug program applications. (Kỹ sư phần mềm viết và gỡ lỗi các ứng dụng chương trình.)
+- Webmasters manage, update, and optimize corporate websites. (Webmaster quản trị, cập nhật và tối ưu website công ty.)
+- Network administrators maintain networks and troubleshoot bugs. (Quản trị mạng duy trì mạng và khắc phục sự cố kết nối.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Network Admin vs Security Specialist
+Network Admin lo mạng chạy thông suốt, cắm dây, chia mạng. Security Specialist lo chống hack, mã hóa dữ liệu, đặt tường lửa.
+
+### ⚠️ Hardware vs Software Engineer
+Hardware Engineer thiết kế vi mạch, viết thông số kỹ thuật thiết bị. Software Engineer viết code chương trình, dùng tool debug code.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Verilog** | Hardware Language | Describe and simulate digital hardware designs | Mô tả và mô phỏng thiết kế phần cứng số |
+| **Debugger** | Development Tool | Test and debug program software code | Thử nghiệm và gỡ lỗi mã nguồn phần mềm |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Giới từ chỉ thời gian: For, Since, Ago, Until
@@ -278,17 +338,20 @@ Two years ago I spent three months in Spain testing our programs and also made s
 | **ago** | Thời điểm trong quá khứ — đặt **sau** khoảng thời gian | Past simple | I got married five years **ago**. |
 | **until** | Đến một thời điểm nhất định (up to a point) | Nhiều thì | I stayed at high school **until** I was 18. |
 
-### Ghi nhớ nhanh
-- **for** + khoảng thời gian: *for five years, for three months, for a long time*
-- **since** + mốc thời gian: *since May, since 2004, since January*
-- **ago** đặt SAU khoảng thời gian: *five years ago, two months ago* (không nói "ago five years")
-- **until** = "cho đến khi / cho đến lúc": *until March, until I was 18*
+### Thì hiện tại hoàn thành đơn và Tiếp diễn (Present Perfect Simple & Continuous)
 
-⚠️ **Hay nhầm:** **since** dùng với **present perfect** (không dùng với past simple). 
-*   *Sai:* "I worked here since 2020" 
-*   *Đúng:* "I have worked here since 2020"
+| Thì (Tense) | Công thức | Cách dùng | Ví dụ từ bài |
+|---|---|---|---|
+| **Present Perfect Simple** | has/have + P2 | - Trạng thái bắt đầu trong quá khứ và kéo dài đến hiện tại. <br> - Hành động quá khứ nhấn mạnh số lượng (how many). <br> - Trải nghiệm cá nhân (ever/never). | - Since 2006, I've been a computer operator. <br> - I have designed four programs in COBOL. <br> - Have you ever worked with databases? |
+| **Present Perfect Continuous** | has/have been + V-ing | - Hành động bắt đầu trong quá khứ và vẫn đang tiếp tục xảy ra. <br> - Hành động quá khứ nhấn mạnh khoảng thời gian kéo dài (how long). | - Since January I've been writing programs in C. <br> - For the last three years I've been working as a software engineer. |
 
----
+### So sánh với thì Quá khứ đơn (Contrast with Past Simple)
+
+| Thì | Cách dùng | Ví dụ thực tế |
+|---|---|---|
+| **Present Perfect** | Hành động còn liên quan đến hiện tại, không rõ thời điểm cụ thể. | I have designed four programs. *(thiết kế xong 4 chương trình, nay vẫn dùng/có ích)* |
+| **Past Simple** | Hành động đã kết thúc tại một thời điểm cụ thể trong quá khứ. | I graduated in May 2003. *(tốt nghiệp là việc đã xong trong quá khứ)* <br> I stayed in this job until March 2004. |
+
 
 ## 4. BÀI TẬP & ĐÁP ÁN (Exercises & Answer Key)
 
@@ -397,13 +460,50 @@ Read the job advertisements for *Senior Programmer* and *DTP Operator*, and *Cha
 
 ### Exercise F — Writing: Letter of Application
 
-Look at the job advertisement for a Webmaster at *eJupiter*. Use *Maria Quintana's* CV (from original document) to write a letter of application following the paragraph structure:
+Look at the job advertisement for a Webmaster at *eJupiter*. Use *Maria Quintana's* CV to write a letter of application following the paragraph structure:
+
+#### 1. Vacancies at eJupiter.co.uk
+**Webmaster**
+We are seeking a Webmaster for eJupiter.co.uk, a company dedicated to e-commerce.
+The successful candidate will manage our website. You will be responsible for making sure the web server runs properly, monitoring the traffic through the site, and designing and updating our web pages.
+Experience of using HTML and Java is essential. Experience of Adobe PDF and Photoshop is an advantage. The successful candidate will also have knowledge of web editors – MS FrontPage or equivalent.
+Send your CV and a covering letter to James Taylor, eJupiter Computers, 37 Oak Street, London SW10 6XY.
+
+#### 2. Curriculum Vitae (Maria Quintana)
+- **Personal information:**
+  - Name: Maria Quintana
+  - Address: Avda Séneca, 5, Madrid 28040
+  - Telephone: 00 34 91 5435201
+  - Email: mquintana0782@telefonica.net
+  - Date of birth: 28/07/82
+- **Education and Training:**
+  - 2006 Online diploma in web-based technology for business, www.elearnbusiness.com
+  - 2005 Course in web design at the Cybernetics College, London: HTML, Java and Macromedia Dreamweaver
+  - 2004 Course in computer hardware and networking at the Cybernetics College, London
+  - 1999–2004 Degree in Computer Science and Engineering, University of Madrid
+- **Work experience:**
+  - January 2006 – present: Part-time Webmaster at www.keo.es; responsible for updating the site and using Adobe Flash to create animations
+  - May 2005 – December 2006: IT consultant at Media Market, specializing in e-commerce and IT strategies
+- **IT skills:**
+  - Knowledge of multiple computer platforms (Windows, Mac and Linux); strong database skills (including the popular open source MySQL database); complete understanding of graphics formats and Cascading Style Sheets
+- **Personal skills:**
+  - Social and organizational skills; Good communication skills
+- **Languages:**
+  - Spanish mother tongue; English (Cambridge CAE); Arabic (fluent)
+- **Hobbies and Interests:**
+  - Web surfing, listening to music and travelling
+- **References:**
+  - Miguel Santana, Manager, keo.es
+  - Sam Jakes, Lecturer, Cybernetics College
+
+Follow the paragraph structure:
 - **Paragraph 1:** Reason for writing — *I am writing to apply for the position of...*
 - **Paragraph 2:** Education and training — *I graduated in (date)... I completed a course in...*
 - **Paragraph 3:** Work experience — *For the past X years I have been... Since X I have been...*
 - **Paragraph 4:** Personal skills — *I spent X months in (country)... I can...*
 - **Paragraph 5:** Reasons for applying — *I now feel ready to... and would welcome the opportunity to...*
 - **Paragraph 6:** Closing — *I enclose... I look forward to... I will be available for an interview...*
+
 
 ---
 

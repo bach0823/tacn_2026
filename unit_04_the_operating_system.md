@@ -108,6 +108,68 @@ The user interface has been redesigned with new icons and a new **visual style**
 >
 > 📌 *Tóm tắt:*
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **operating system (OS)** | a set of programs that controls the hardware and runs application software. | Hệ điều hành: tập hợp chương trình điều khiển phần cứng và chạy phần mềm ứng dụng. |
+| **GUI** | Graphical User Interface, using windows, icons, menus, and pointers. | Giao diện đồ họa (GUI): giao diện sử dụng cửa sổ, biểu tượng, menu và con trỏ. |
+| **CLI** | Command Line Interface, requiring users to type text commands. | Giao diện dòng lệnh (CLI): giao diện yêu cầu người dùng tự gõ câu lệnh. |
+| **multitasking** | the ability to run more than one program or task at the same time. | Đa nhiệm: khả năng chạy nhiều chương trình hoặc tác vụ cùng một lúc. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is the primary purpose of an operating system?
+A: To manage computer hardware and software resources and act as an interface.
+*(Dịch: Mục đích chính của hệ điều hành là gì? - Quản lý tài nguyên phần cứng, phần mềm và làm giao diện cho người dùng.)*
+
+Q: What does WIMP stand for in GUI?
+A: Windows, Icons, Menus, and Pointer.
+*(Dịch: WIMP trong giao diện đồ họa viết tắt của từ gì? - Cửa sổ (Windows), Biểu tượng (Icons), Menu (Menus) và Con trỏ (Pointer).)*
+
+Q: Explain the concept of multitasking.
+A: Running multiple programs or applications concurrently on a computer.
+*(Dịch: Giải thích khái niệm đa nhiệm. - Chạy đồng thời nhiều chương trình hoặc ứng dụng trên máy tính.)*
+
+Q: Why is Linux considered an open-source OS?
+A: Its source code is free to read, modify, and redistribute by anyone.
+*(Dịch: Tại sao Linux được coi là mã nguồn mở? - Mã nguồn của nó cho phép bất kỳ ai cũng có thể đọc, sửa đổi và phân phối miễn phí.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- The OS controls hardware and manages software programs. (Hệ điều hành kiểm soát phần cứng và quản lý phần mềm.)
+- GUI makes computers user-friendly through visual elements. (GUI giúp máy tính thân thiện qua các yếu tố trực quan.)
+- CLI commands must be typed and memorized by users. (Lệnh CLI phải được gõ và học thuộc lòng bởi người dùng.)
+- Multitasking runs several programs concurrently. (Đa nhiệm chạy song song nhiều chương trình cùng lúc.)
+- Open-source software allows free modifications and sharing. (Phần mềm mã nguồn mở cho phép chỉnh sửa và chia sẻ tự do.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ GUI vs CLI
+GUI trực quan, dùng chuột (thân thiện). CLI dùng văn bản câu lệnh, chỉ dùng bàn phím (đòi hỏi nhớ lệnh kỹ thuật).
+
+### ⚠️ Windows vs Linux
+Windows là hệ điều hành độc quyền thương mại (phải mua bản quyền). Linux là mã nguồn mở (miễn phí và tự do tùy biến).
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Windows** | Operating System | Proprietary OS for personal and business PCs | Hệ điều hành độc quyền cho máy tính cá nhân/doanh nghiệp |
+| **macOS** | Operating System | Proprietary OS for Apple Macintosh systems | Hệ điều hành độc quyền cho các dòng máy Apple Mac |
+| **Linux** | Operating System | Open-source OS widely used on servers and PCs | Hệ điều hành mã nguồn mở dùng cho máy chủ và máy tính cá nhân |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Danh từ đếm được và không đếm được (Countable & Uncountable Nouns)

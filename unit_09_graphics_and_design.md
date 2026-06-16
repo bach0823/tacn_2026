@@ -91,6 +91,70 @@ You can transform an object by translating, **rotating** or scaling it. **Transl
 >
 > 📌 *Tóm tắt:* Người dùng có thể biến đổi vật thể bằng các phép: dịch chuyển (translation), xoay (rotation) và co giãn tỉ lệ (scaling).
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **vector graphics** | images represented by mathematical formulas of points and lines. | Đồ họa vector: ảnh tạo từ công thức toán học, phóng to không vỡ hình. |
+| **raster graphics** | images made of a grid of tiny colored pixels. | Đồ họa raster/bitmap: ảnh cấu tạo từ lưới pixel, bị vỡ khi phóng to. |
+| **pixel** | the smallest element in a digital bitmap image. | Pixel: điểm ảnh nhỏ nhất cấu thành hình ảnh raster. |
+| **CAD** | Computer-Aided Design, software for engineering and architecture design. | CAD: thiết kế trợ giúp bằng máy tính, vẽ bản vẽ kỹ thuật cơ khí/xây dựng. |
+| **DTP** | Desktop Publishing, software used to design printed publication layouts. | DTP: xuất bản điện tử, dùng dàn trang báo chí, sách vở. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is the difference between vector and raster graphics?
+A: Vector scales infinitely without loss of quality, while raster loses quality when zoomed.
+*(Dịch: Khác biệt giữa vector và raster? - Vector phóng to thoải mái không vỡ hình, raster bị vỡ hạt pixel khi phóng to.)*
+
+Q: What does CAD stand for and what is it used for?
+A: Computer-Aided Design, used for engineering and architectural drawings.
+*(Dịch: CAD viết tắt của từ gì và dùng làm gì? - Thiết kế hỗ trợ bằng máy tính, dùng cho bản vẽ kỹ thuật cơ khí, kiến trúc.)*
+
+Q: What is 3D rendering?
+A: The process of generating a 3D image from a model using computer software.
+*(Dịch: Kết xuất 3D là gì? - Quá trình tạo ra hình ảnh 3D từ mô hình thông qua phần mềm máy tính.)*
+
+Q: Explain the role of DTP software.
+A: To design layouts for printed publications like books, magazines, and newspapers.
+*(Dịch: Giải thích vai trò phần mềm DTP. - Thiết kế bố cục trang sách báo, tạp chí để xuất bản in ấn.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Vector graphics use math equations and scale infinitely. (Đồ họa vector dùng công thức toán và phóng to vô hạn.)
+- Raster graphics represent images using a grid of pixels. (Đồ họa raster đại diện hình ảnh bằng lưới điểm ảnh.)
+- CAD software is essential for engineering blueprints. (Phần mềm CAD là bắt buộc đối với các bản vẽ kỹ thuật.)
+- DTP software arranges text and graphics for printing. (Phần mềm DTP sắp xếp chữ và ảnh để in ấn.)
+- Photoshop is used to edit raster/bitmap photo images. (Photoshop dùng để chỉnh sửa ảnh dạng pixel/raster.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Vector vs Raster
+Vector vẽ bằng công thức (thích hợp vẽ logo, chữ viết). Raster vẽ bằng ô vuông màu pixel (dùng cho ảnh chụp thực tế).
+
+### ⚠️ CAD vs DTP
+CAD dùng cho kỹ thuật, yêu cầu độ chính xác cơ học cao. DTP dùng cho thiết kế thẩm mỹ trang giấy in ấn.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **AutoCAD** | CAD Software | Design engineering and architectural blueprints | Thiết kế các bản vẽ kỹ thuật và kiến trúc |
+| **Adobe Photoshop** | Image Editor | Edit and manipulate pixel-based photos | Chỉnh sửa hình ảnh dạng raster/pixel |
+| **Adobe Illustrator** | Vector Editor | Create vector illustrations and logos | Tạo các hình vẽ minh họa và logo dạng vector |
+| **Adobe InDesign** | DTP Software | Create layout designs for books and magazines | Thiết kế bố cục trang cho sách báo và tạp chí |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Các cách dùng của dạng "-ing" (The -ing Form)

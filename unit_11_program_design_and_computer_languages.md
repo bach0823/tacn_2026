@@ -149,6 +149,69 @@ It is important not to confuse programming languages with markup languages, used
 >
 > 📌 *Tóm tắt:* *VoiceXML* (2000) giúp truy cập web qua điện thoại bằng nhận diện giọng nói (input) và công nghệ văn bản thành giọng nói (output).
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **programming** | writing, testing, and debugging computer code to solve problems. | Lập trình: viết, thử nghiệm và gỡ lỗi mã máy tính để giải quyết vấn đề. |
+| **flowchart** | a diagram representing the step-by-step logic of an algorithm. | Sơ đồ khối: sơ đồ biểu diễn các bước logic của thuật toán. |
+| **pseudocode** | a text-based description of an algorithm using natural language. | Mã giả: văn bản mô tả thuật toán bằng từ ngữ tự nhiên có cấu trúc code. |
+| **compiler** | translates high-level code into executable machine code at once. | Trình biên dịch: dịch toàn bộ mã bậc cao sang mã máy nhị phân một lần. |
+| **interpreter** | translates and runs high-level code line by line. | Trình thông dịch: dịch và chạy từng dòng mã lệnh trực tiếp. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What are the five main steps in programming?
+A: Define the problem, design the program, write code, test/debug, and document.
+*(Dịch: Nêu 5 bước lập trình. - Xác định vấn đề, thiết kế, viết code, chạy thử/gỡ lỗi và viết tài liệu.)*
+
+Q: What is the difference between compiler and interpreter?
+A: Compiler translates the whole program at once; interpreter does it line by line.
+*(Dịch: Khác biệt giữa compiler và interpreter? - Compiler dịch cả file code một lúc; interpreter dịch và chạy từng dòng một.)*
+
+Q: Why is machine code called low-level?
+A: Because it consists of binary codes that only the CPU understands directly.
+*(Dịch: Tại sao mã máy gọi là cấp thấp? - Vì nó gồm hệ nhị phân 0 và 1 mà chỉ CPU mới trực tiếp hiểu.)*
+
+Q: What is the purpose of pseudocode?
+A: To design program logic in human language before writing actual code.
+*(Dịch: Mục đích của mã giả? - Phác thảo logic chương trình bằng ngôn ngữ tự nhiên trước khi viết code thật.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Programming creates instructions for computer execution. (Lập trình tạo ra các chỉ dẫn để máy tính thực thi.)
+- Flowcharts represent program logic visually using shapes. (Sơ đồ khối thể hiện trực quan logic chương trình bằng hình khối.)
+- Compilers translate source code into executable binary files. (Trình biên dịch chuyển mã nguồn thành file nhị phân chạy được.)
+- Interpreters execute programs without producing standalone files. (Trình thông dịch chạy chương trình trực tiếp không tạo file.)
+- Java and Python are popular high-level languages. (Java và Python là ngôn ngữ bậc cao phổ biến.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Compiler vs Interpreter
+Compiler tạo ra file chạy độc lập (.exe), chỉ cần dịch một lần. Interpreter không tạo file, mỗi lần chạy đều phải dịch lại từ đầu.
+
+### ⚠️ Machine Code vs Assembly
+Machine code chạy trực tiếp bằng nhị phân (0, 1). Assembly dùng từ gợi nhớ (ADD, MOV) nên cần biên dịch lại.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Compiler** | Development Tool | Translate source code to executable machine files | Biên dịch mã nguồn thành tệp chạy mã máy |
+| **Interpreter** | Development Tool | Translate and execute code line by line | Thông dịch và thực thi mã nguồn từng dòng một |
+| **Assembler** | Development Tool | Translate assembly language to machine code | Dịch hợp ngữ sang mã máy nhị phân |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### 3.1 Động từ nguyên thể có 'to' (To-infinitive)

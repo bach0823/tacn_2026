@@ -116,6 +116,66 @@ The users of wearable technology are sometimes even called **cyborgs**. The term
 >
 > 📌 *Tóm tắt:*
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **telecommunications** | transmitting signals over distance for communication. | Viễn thông: truyền tín hiệu đi xa để liên lạc. |
+| **LAN** | Local Area Network, connecting computers in a local area. | LAN: mạng cục bộ, kết nối máy tính trong phạm vi hẹp như tòa nhà. |
+| **WAN** | Wide Area Network, connecting computers across cities or countries. | WAN: mạng diện rộng, kết nối máy tính qua các vùng địa lý lớn. |
+| **teleworking** | working from home using computers and network links. | Teleworking: làm việc từ xa tại nhà nhờ máy tính kết nối mạng. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is telecommunications?
+A: The transmission of signals over a distance for communication.
+*(Dịch: Viễn thông là gì? - Truyền tín hiệu đi xa nhằm mục đích thông tin liên lạc.)*
+
+Q: Compare LAN and WAN.
+A: LAN is for local areas (buildings); WAN connects cities and countries.
+*(Dịch: So sánh LAN và WAN. - LAN dùng phạm vi hẹp (tòa nhà); WAN kết nối rộng khắp tỉnh thành/quốc gia.)*
+
+Q: What is teleworking?
+A: Working from home using computers and telecommunications.
+*(Dịch: Làm việc từ xa là gì? - Làm việc ở nhà dùng máy tính kết nối mạng viễn thông.)*
+
+Q: How do fiber-optic cables transmit data?
+A: By sending pulses of light through thin glass fibers.
+*(Dịch: Cáp quang truyền dữ liệu thế nào? - Bằng cách gửi các xung ánh sáng qua sợi thủy tinh siêu mỏng.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Telecommunications transmits signals over long distances. (Viễn thông truyền tín hiệu qua khoảng cách xa.)
+- LANs connect computers inside a single office. (Mạng LAN kết nối các máy tính trong cùng văn phòng.)
+- WANs link computers globally across countries. (Mạng WAN kết nối các máy tính toàn cầu giữa các nước.)
+- Teleworking allows employees to work from home. (Làm việc từ xa cho phép nhân viên làm việc tại nhà.)
+- Fiber-optic cables offer high-speed data transmission. (Cáp quang cung cấp đường truyền dữ liệu tốc độ cao.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ LAN vs WAN
+LAN là mạng nội bộ gia đình/văn phòng (tốc độ cao, giá rẻ). WAN là mạng diện rộng quốc gia (Internet là một WAN khổng lồ).
+
+### ⚠️ teleworking vs call centre
+Teleworking là phong cách làm việc từ xa. Call centre là tòa nhà trung tâm tập trung nhân viên tư vấn qua điện thoại.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **VoIP** | Communication Tech | Transmission of voice calls over Internet Protocol | Truyền thông thoại qua giao thức Internet |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Thể bị động (Passive Voice)

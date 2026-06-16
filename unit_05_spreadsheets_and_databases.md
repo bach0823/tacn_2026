@@ -131,6 +131,69 @@ A database **query** function allows you to extract information according to cer
 >
 > 📌 *Tóm tắt:*
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **spreadsheet** | software that organizes numerical data in rows and columns for calculation. | Bảng tính: phần mềm tổ chức dữ liệu số thành hàng/cột để thực hiện tính toán. |
+| **cell** | the intersection of a column and a row in a worksheet. | Ô tính: giao điểm giữa cột và hàng trong trang tính. |
+| **formula** | a mathematical instruction used to perform calculations in a spreadsheet. | Công thức: lệnh toán học dùng để tính toán giá trị trong bảng tính. |
+| **database** | a structured collection of data stored in tables of fields and records. | Cơ sở dữ liệu: tập hợp dữ liệu có cấu trúc lưu dưới dạng các trường và bản ghi. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is a cell in a spreadsheet?
+A: The intersection of a row and column where data is entered.
+*(Dịch: Ô tính là gì? - Giao điểm giữa hàng và cột nơi nhập dữ liệu.)*
+
+Q: How does a spreadsheet formula differ from standard text?
+A: It performs math calculations and must start with an equals sign (=).
+*(Dịch: Công thức bảng tính khác chữ thường thế nào? - Nó thực hiện phép tính và bắt buộc bắt đầu bằng dấu bằng (=).)*
+
+Q: Explain the difference between a record and a field.
+A: A record is a row representing an object; a field is a column representing an attribute.
+*(Dịch: Giải thích sự khác nhau giữa bản ghi (record) và trường (field). - Bản ghi là hàng đại diện đối tượng; trường là cột chỉ thuộc tính.)*
+
+Q: What is the role of SQL in database management?
+A: Structured Query Language, used to search, update, and manage databases.
+*(Dịch: Vai trò của SQL trong quản trị cơ sở dữ liệu? - Ngôn ngữ truy vấn có cấu trúc, dùng để tra cứu, cập nhật và quản lý cơ sở dữ liệu.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Spreadsheets analyze financial figures and calculations. (Bảng tính phân tích số liệu tài chính và tính toán.)
+- Formulas recalculate cell values automatically when updated. (Công thức tự động tính lại giá trị khi dữ liệu thay đổi.)
+- A database record contains all data about one entity. (Bản ghi cơ sở dữ liệu chứa tất cả thông tin về một thực thể.)
+- Database fields represent single attributes like phone numbers. (Trường cơ sở dữ liệu chỉ một thuộc tính như số điện thoại.)
+- Relational databases connect multiple tables using keys. (Cơ sở dữ liệu quan hệ liên kết các bảng thông qua từ khóa.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Spreadsheet vs Database
+Spreadsheet thiên về tính toán số liệu và công thức (Excel). Database thiên về lưu trữ lâu dài lượng bản ghi lớn có cấu trúc (Access/Oracle).
+
+### ⚠️ Record vs Field
+Record là hàng ngang (dữ liệu một học sinh). Field là cột dọc (cột Họ tên, cột Điểm thi).
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Excel** | Spreadsheet Software | Create spreadsheets and analyze numeric models | Tạo trang tính và phân tích mô hình số liệu |
+| **Access** | Database Software | Manage relational databases for small/medium business | Quản lý cơ sở dữ liệu quan hệ cho vừa và nhỏ |
+| **Oracle** | Database Software | Manage enterprise-scale relational databases | Quản lý cơ sở dữ liệu quan hệ quy mô doanh nghiệp lớn |
+| **SQL** | Database Language | Query and manipulate relational databases | Truy vấn và thao tác cơ sở dữ liệu quan hệ |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### 3.1 Quy tắc danh từ số nhiều (Plural Nouns)

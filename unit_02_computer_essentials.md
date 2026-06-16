@@ -84,6 +84,69 @@ On the **rear panel** of the computer, there are several **ports** into which we
 >
 > 📌 *Tóm tắt:* Các cổng ở mặt trước/sau giúp kết nối thiết bị ngoại vi.
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **computer** | an electronic machine which can accept data, process it, and give results as information. | Máy tính: thiết bị điện tử tiếp nhận dữ liệu, xử lý dữ liệu và xuất thông tin. |
+| **hardware** | any electronic or mechanical part you can see or touch. | Phần cứng: các bộ phận cơ học hoặc điện tử có thể nhìn thấy và chạm được. |
+| **software** | a set of instructions, called a program, which tells the computer what to do. | Phần mềm: tập hợp các lệnh (chương trình) hướng dẫn máy tính hoạt động. |
+| **CPU (Central Processing Unit)** | the 'brain' of the computer that executes program instructions and coordinates activities. | CPU (Bộ xử lý trung tâm): bộ não máy tính, thực thi lệnh và điều phối các đơn vị khác. |
+| **main memory** | RAM chips that hold instructions and data currently being processed. | Bộ nhớ chính: các chip RAM lưu giữ dữ liệu và lệnh đang được xử lý. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is the difference between hardware and software?
+A: Hardware is the physical parts you can see or touch, while software is the programs telling it what to do.
+*(Dịch: Khác biệt giữa phần cứng và phần mềm là gì? - Phần cứng là thiết bị vật lý chạm được, còn phần mềm là chương trình chỉ dẫn.)*
+
+Q: What is the function of the CPU?
+A: To execute program instructions and coordinate the activities of all the other units.
+*(Dịch: Chức năng của CPU là gì? - Thực thi các lệnh của chương trình và điều phối hoạt động các thiết bị ngoại vi.)*
+
+Q: What are peripherals?
+A: Physical units attached to the computer, including storage, input, and output devices.
+*(Dịch: Thiết bị ngoại vi là gì? - Thiết bị kết nối với máy tính, gồm thiết bị lưu trữ, đầu vào và đầu ra.)*
+
+Q: Why are mainframes used by large organizations?
+A: Because they need to process enormous amounts of data very quickly.
+*(Dịch: Tại sao các tổ chức lớn dùng máy tính lớn? - Vì họ cần xử lý khối lượng dữ liệu khổng lồ cực kỳ nhanh chóng.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- The CPU acts as the brain of the computer system. (CPU đóng vai trò là bộ não của hệ thống máy tính.)
+- Hardware refers to physical parts, software to programs. (Phần cứng chỉ linh kiện vật lý, phần mềm chỉ chương trình.)
+- Main memory (RAM) holds active programs and data. (Bộ nhớ chính (RAM) giữ các chương trình và dữ liệu đang chạy.)
+- Input devices like mouse and keyboard enter data. (Thiết bị đầu vào như chuột, bàn phím dùng nạp dữ liệu.)
+- Output devices like printer and monitor display results. (Thiết bị đầu ra như máy in, màn hình dùng xuất kết quả.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ RAM vs Storage Devices
+RAM (main memory) chỉ lưu dữ liệu tạm thời khi máy đang bật. Storage devices (hard drive, flash drive) lưu dữ liệu vĩnh viễn.
+
+### ⚠️ Input Devices vs Output Devices
+Input (chuột, bàn phím, scanner) đưa dữ liệu vào. Output (màn hình, máy in, loa) xuất kết quả ra ngoài.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Operating System** | System Software | Manage hardware and application software | Quản lý phần cứng và phần mềm ứng dụng |
+| **Word Processor** | Application Software | Text manipulation and editing | Soạn thảo và chỉnh sửa văn bản |
+| **Database** | Application Software | Organize and retrieve structured data | Tổ chức và truy xuất dữ liệu có cấu trúc |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Ngôn ngữ phân loại (Classifying Expressions)

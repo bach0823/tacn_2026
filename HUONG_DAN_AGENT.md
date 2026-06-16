@@ -360,4 +360,162 @@ Trước khi hoàn thành, agent tự kiểm tra:
 
 ---
 
+## 7. BỔ SUNG YÊU CẦU ÔN THI THEO HƯỚNG RA ĐỀ THỰC TẾ
+
+Mục tiêu cuối cùng của tài liệu không phải chỉ giúp người học hiểu bài mà phải tối ưu khả năng làm bài thi.
+
+Các dạng thi chính cần được ưu tiên:
+
+1. Trả lời câu hỏi (Answer Questions)
+2. Trắc nghiệm (Multiple Choice)
+3. Nối từ, nối khái niệm, nối hình ảnh, nối ứng dụng với chức năng (Matching)
+4. Điền vào chỗ trống (Fill in the Blank)
+5. Dịch Anh ↔ Việt (Translation)
+
+---
+
+### BẮT BUỘC THÊM PHẦN "CONTENT UNDERSTANDING"
+
+Ngoài từ vựng và ngữ pháp, phải tạo thêm phần kiểm tra mức độ hiểu nội dung bài đọc.
+
+Sau mỗi Reading hoặc chủ đề lớn, tạo:
+
+## KEY CONCEPTS
+
+Bảng tóm tắt các ý chính:
+
+| Concept    | Short Explanation                       |
+| ---------- | --------------------------------------- |
+| RSS Feed   | Automatically delivers website updates. |
+| eBay       | Online auction platform.                |
+| BitTorrent | Peer-to-peer file sharing protocol.     |
+
+Mỗi concept phải được giải thích trong 1 câu ngắn gọn, dễ học thuộc.
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Tạo từ 5–15 câu hỏi mà giáo viên có khả năng ra trong đề thi.
+
+Ví dụ:
+
+Q: What is the purpose of RSS feeds?
+A: They automatically provide updates from websites.
+
+Q: Why do users use BitTorrent?
+A: To share large files through peer-to-peer networks.
+
+Q: How does eBay create trust among users?
+A: Through its feedback and rating system.
+
+Ưu tiên các câu hỏi bắt đầu bằng:
+
+* What
+* Why
+* How
+* Which
+* Explain
+* Describe
+
+---
+
+## ONE-LINE ANSWERS
+
+Tạo danh sách câu trả lời ngắn để học thuộc nhanh trước khi thi.
+
+Ví dụ:
+
+* RSS feeds automatically provide website updates.
+* Flickr is used for photo sharing.
+* YouTube is used for video sharing.
+* Google is a search engine.
+* Wikipedia is a collaborative online encyclopedia.
+
+Mỗi câu không quá 20 từ.
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+Bắt buộc tạo phần này nếu trong bài có các khái niệm tương tự nhau.
+
+Ví dụ:
+
+Google ≠ Wikipedia
+
+* Google: search engine
+* Wikipedia: online encyclopedia
+
+Amazon ≠ eBay
+
+* Amazon: online retailer
+* eBay: auction website
+
+YouTube ≠ Flickr
+
+* YouTube: video sharing
+* Flickr: photo sharing
+
+FTP ≠ HTTP
+
+* FTP: file transfer
+* HTTP: web page transfer
+
+Mục tiêu là ngăn người học mất điểm ở dạng matching hoặc multiple choice.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+Nếu bài học có tên:
+
+* Website
+* Application
+* Software
+* Platform
+* Service
+* Protocol
+* Technology
+
+thì bắt buộc tạo bảng:
+
+| Name    | Type             | Main Function           |
+| ------- | ---------------- | ----------------------- |
+| Google  | Search Engine    | Search information      |
+| YouTube | Video Sharing    | Upload and watch videos |
+| Skype   | VoIP Application | Internet voice calls    |
+
+Đây là nguồn ôn tập chính cho dạng:
+
+"Match the application with its description."
+
+---
+
+## EXAM PRIORITY
+
+Khi phải lược bỏ nội dung vì quá dài, ưu tiên theo thứ tự:
+
+1. Website/Application ↔ Function
+2. Key Concepts
+3. Possible Exam Questions
+4. Vocabulary
+5. Grammar
+6. Translation Notes
+
+Vì các dạng trên xuất hiện thường xuyên trong đề thi thực tế.
+
+---
+
+MỤC TIÊU BAO PHỦ:
+
+* Answer Questions
+* Multiple Choice
+* Matching
+* Fill in the Blank
+* Translation
+
+Tài liệu hoàn chỉnh phải giúp người học xử lý được cả câu hỏi yêu cầu hiểu nội dung, không chỉ học thuộc từ vựng.
+
+
 *Hết hướng dẫn — version 4.0*

@@ -126,6 +126,67 @@ These systems allow you to execute programs, navigate menus, and even surf the W
 >
 > 📌 *Tóm tắt:* Người dùng cần đào tạo (train) phần mềm bằng cách đọc các văn bản mẫu để tối ưu độ chính xác.
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **input devices** | pieces of hardware which allow us to enter information into the computer. | Thiết bị đầu vào: linh kiện phần cứng cho phép nhập thông tin vào máy tính. |
+| **light pen** | a device that works by detecting light from the computer screen. | Bút ánh sáng: thiết bị hoạt động bằng cách phát hiện ánh sáng từ màn hình. |
+| **graphics tablet** | an input device used with a pen to draw digital graphics. | Bảng vẽ đồ họa: thiết bị dùng kèm bút vẽ để thiết kế hình ảnh số. |
+| **alphanumeric keys** | keys representing letters, numbers, and punctuation marks. | Phím chữ-số: các phím chữ cái, chữ số và dấu câu trên bàn phím. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What are input devices?
+A: Hardware components used to enter information into the computer.
+*(Dịch: Thiết bị đầu vào là gì? - Linh kiện phần cứng dùng để nhập thông tin vào máy tính.)*
+
+Q: How does a light pen work?
+A: It works by detecting light from the computer screen display.
+*(Dịch: Bút ánh sáng hoạt động thế nào? - Nó hoạt động bằng cách phát hiện ánh sáng từ màn hình máy tính.)*
+
+Q: Explain the difference between Caps Lock and Shift keys.
+A: Caps Lock locks letters to uppercase, while Shift must be held down to get uppercase letters or symbols.
+*(Dịch: Giải thích sự khác nhau giữa Caps Lock và Shift. - Caps Lock khóa chữ hoa cố định, còn Shift phải giữ để gõ chữ hoa hoặc ký tự.)*
+
+Q: What hardware does a speech recognition system require?
+A: A good sound card and a microphone.
+*(Dịch: Hệ thống nhận dạng giọng nói cần phần cứng gì? - Một card âm thanh tốt và một micrô.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Keyboard and mouse are the most common input devices. (Bàn phím và chuột là thiết bị đầu vào phổ biến nhất.)
+- Enter confirms commands and starts new text lines. (Phím Enter xác nhận lệnh và xuống dòng văn bản mới.)
+- Alphanumeric keys type letters, numbers, and symbols. (Phím chữ-số dùng gõ chữ cái, chữ số và ký tự.)
+- Speech recognition software converts spoken words to text. (Nhận dạng giọng nói chuyển đổi lời nói thành văn bản.)
+- Scanners digitize physical documents into computer files. (Máy quét số hóa tài liệu giấy thành file máy tính.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Caps Lock vs Shift
+Caps Lock chỉ ảnh hưởng đến chữ cái (không ảnh hưởng đến số/ký hiệu). Shift ảnh hưởng đến cả phím số/ký hiệu (ví dụ gõ @, #).
+
+### ⚠️ Click vs Double-click
+Click dùng để đặt con trỏ hoặc chọn menu. Double-click dùng để chạy chương trình hoặc mở thư mục.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Speech Recognition Software** | Input Application | Convert spoken voice into text or commands | Chuyển đổi giọng nói thành văn bản hoặc lệnh điều khiển |
+| **Keyboard Driver** | System Software | Translate keystrokes for the operating system | Dịch thao tác gõ phím cho hệ điều hành hiểu |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Mô tả Chức năng và Đặc tính (Describing Functions & Features)

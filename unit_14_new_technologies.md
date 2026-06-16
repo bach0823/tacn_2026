@@ -145,6 +145,67 @@ In the future, **RFID chips** will help us track ordinary objects like car keys 
 >
 > 📌 *Tóm tắt:* Ứng dụng định vị đồ vật, lưu trữ thông tin y tế nhưng gây lo ngại về an toàn thông tin cá nhân.
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **RFID** | Radio Frequency Identification, tracking objects using radio waves. | RFID: nhận dạng tần số vô tuyến, định vị vật dụng bằng sóng vô tuyến. |
+| **nanotechnology** | building structures on the scale of atoms and molecules. | Công nghệ nano: chế tạo cấu trúc vi mô ở cấp độ nguyên tử/phân tử. |
+| **biometrics** | identifying people using unique physical characteristics. | Sinh trắc học: nhận dạng con người bằng đặc điểm sinh lý tự nhiên. |
+| **ubiquitous computing** | integrating computer functions into everyday objects. | Điện toán khắp nơi: nhúng máy tính vào mọi vật dụng trong đời sống. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is RFID?
+A: Radio Frequency Identification, tracking tags on objects via radio waves.
+*(Dịch: RFID là gì? - Nhận dạng tần số vô tuyến, theo dõi thẻ vô tuyến gắn trên đồ vật.)*
+
+Q: What is the difference between active and passive RFID tags?
+A: Active tags have batteries and long range; passive tags use reader signals and are short-range.
+*(Dịch: Khác biệt RFID chủ động và thụ động? - Thẻ chủ động có pin tầm xa; thẻ thụ động không pin lấy nguồn đầu đọc tầm ngắn.)*
+
+Q: Explain ubiquitous computing.
+A: Computers embedded in everyday devices, communicating wirelessly.
+*(Dịch: Giải thích điện toán hiện diện khắp nơi. - Máy tính nhúng vào đồ vật hàng ngày kết nối không dây tự động.)*
+
+Q: What biological features does biometrics use?
+A: Fingerprints, facial features, voice, iris, and retina patterns.
+*(Dịch: Sinh trắc học dùng các đặc tính sinh học nào? - Vân tay, khuôn mặt, giọng nói, mống mắt và võng mạc.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- RFID uses radio frequencies to track physical goods. (RFID dùng tần số vô tuyến để theo dõi hàng hóa vật lý.)
+- Nanotechnology creates microscopic materials atom by atom. (Công nghệ nano chế tạo vật liệu siêu nhỏ từ nguyên tử.)
+- Biometrics identifies individuals using fingerprints or irises. (Sinh trắc học định danh người dùng bằng vân tay/mống mắt.)
+- Ubiquitous computing embeds computer systems everywhere. (Điện toán hiện diện khắp nơi tích hợp máy tính vào mọi vật.)
+- AI allows computer systems to show intelligence. (Trí tuệ nhân tạo giúp hệ thống máy tính thể hiện sự thông minh.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ Active vs Passive RFID
+Active có nguồn pin riêng (tầm xa, đắt tiền). Passive lấy điện từ sóng đầu đọc phát ra (tầm ngắn, siêu rẻ).
+
+### ⚠️ Ubiquitous vs Pervasive
+Hai từ đồng nghĩa chỉ máy tính nhúng mọi nơi, nhưng Ubiquitous nhấn mạnh sự 'có mặt cùng lúc', Pervasive nhấn mạnh sự 'thấm sâu'.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **RFID Tag** | Hardware Tracking | Store identity data transmitted via radio waves | Thẻ lưu dữ liệu định danh truyền bằng sóng vô tuyến |
+| **Android** | Robotics | Humanoid robot designed to act like human | Robot hình người mô phỏng hành vi của con người |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### Thì tương lai (Future Tenses)

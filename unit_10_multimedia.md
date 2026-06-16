@@ -96,6 +96,66 @@ Multimedia is used to produce **dictionaries and encyclopedias**. They often com
 >
 > 📌 *Tóm tắt:* Đa phương tiện được ứng dụng để sản xuất từ điển, bách khoa toàn thư trực tuyến hoặc trên đĩa `DVD`. Ngoài ra, nó còn hỗ trợ xây dựng các khóa học giáo dục trực quan và thiết kế các trò chơi điện tử đa phương tiện với âm thanh vòm sống động.
 
+## KEY CONCEPTS
+
+| Concept | Short Explanation | Giải thích tiếng Việt |
+|---|---|---|
+| **multimedia** | the integration of text, sound, graphics, video, and animation. | Đa phương tiện: tích hợp chữ, âm thanh, đồ họa, video và hoạt ảnh. |
+| **sound card** | a device converting digital audio data into analog sound signals. | Card âm thanh: thiết bị chuyển đổi tín hiệu số thành âm thanh phát ra loa. |
+| **MIDI** | Musical Instrument Digital Interface, protocol for connecting instruments. | MIDI: giao thức chuẩn kết nối nhạc cụ điện tử với máy tính. |
+| **codec** | software algorithms to compress and decompress digital media files. | Codec: thuật toán phần mềm dùng nén và giải nén file đa phương tiện. |
+
+---
+
+## POSSIBLE EXAM QUESTIONS
+
+Q: What is multimedia?
+A: The combination of text, sound, graphics, video, and animation in one program.
+*(Dịch: Đa phương tiện là gì? - Kết hợp chữ, âm thanh, đồ họa, video và hoạt ảnh trong một ứng dụng.)*
+
+Q: Explain the role of a sound card.
+A: It converts digital data to analog sounds for speakers, and vice versa.
+*(Dịch: Giải thích vai trò card âm thanh. - Chuyển đổi dữ liệu số thành âm thanh loa phát và ngược lại khi ghi âm.)*
+
+Q: How does MIDI differ from MP3 audio files?
+A: MIDI stores instructions to play music (no audio data), while MP3 stores digitized waves.
+*(Dịch: MIDI khác gì MP3? - MIDI lưu lệnh chơi nhạc (không có tiếng), MP3 lưu sóng âm số hóa (dung lượng lớn hơn).)*
+
+Q: Why are codecs important in digital video?
+A: They compress massive video files to make them practical to stream and store.
+*(Dịch: Tại sao codec quan trọng trong video số? - Chúng nén file video khổng lồ để dễ dàng lưu trữ và truyền phát.)*
+
+---
+
+## ONE-LINE ANSWERS
+
+- Multimedia combines text, sound, graphics, and video elements. (Đa phương tiện kết hợp chữ, âm thanh, đồ họa và video.)
+- Sound cards convert digital sound files to speaker signals. (Card âm thanh chuyển file nhạc số thành tín hiệu phát loa.)
+- MIDI files contain musical notes and instructions, not audio. (File MIDI chứa nốt nhạc và lệnh chơi nhạc, không có tiếng.)
+- Codecs compress video files to reduce bandwidth requirements. (Codec nén video để giảm yêu cầu băng thông truyền tải.)
+
+---
+
+## TEACHER TRAPS (DỄ NHẦM LẪN)
+
+### ⚠️ MIDI vs MP3
+MIDI lưu ký hiệu nốt nhạc (dung lượng siêu nhỏ, cần nhạc cụ phát). MP3 lưu dữ liệu âm thanh thực tế (chạy được ngay).
+
+### ⚠️ Codec vs Media Player
+Codec là thuật toán nén/giải nén ẩn bên trong. Media Player là giao diện phần mềm có nút Play/Pause.
+
+---
+
+## WEBSITE / SOFTWARE / APPLICATION IDENTIFICATION
+
+| Name | Type | Main Function (EN) | Chức năng chính (VI) |
+|---|---|---|---|
+| **Media Player** | Playback Software | Play compressed audio and video files | Phát các tệp âm thanh và video đã nén |
+| **MIDI Sequencer** | Music Software | Record and edit MIDI musical performances | Ghi âm và chỉnh sửa các bản nhạc MIDI |
+
+---
+
+
 ## 3. NGỮ PHÁP (Grammar)
 
 ### 3.1 Câu điều kiện loại 1 (First Conditional)
